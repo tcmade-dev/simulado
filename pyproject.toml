@@ -20,4 +20,4 @@ pdf = [
 ]
 
 [tool.vercel]
-entrypoint = "api/index.py:app"
+entrypoint = "main:app"

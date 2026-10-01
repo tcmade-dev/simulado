@@ -49,7 +49,14 @@ TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
 STATIC_DIR = os.path.join(BASE_DIR, "static")
 ASSETS_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", "assets"))
 
-os.makedirs(STATIC_DIR, exist_ok=True)
+try:
+    os.makedirs(STATIC_DIR, exist_ok=True)
+except OSError:
+    pass
+
+if os.path.exists(STATIC_DIR):
+    app.mount("/static", StaticFiles(directory=STATIC_DIR), name="static")
+
 if os.path.exists(ASSETS_DIR):
     app.mount("/assets", StaticFiles(directory=ASSETS_DIR), name="assets")
 
