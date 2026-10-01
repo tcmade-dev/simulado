@@ -1,21 +1,21 @@
 <div class="space-y-8 animate-fadeIn">
     
-    <!-- Top Result Banner -->
+    <!-- Top Overall Result Banner -->
     <div class="rounded-3xl p-6 sm:p-8 text-center border shadow-sm
-        {% if score_percentage >= 70 %}
+        {% if overall_score_pct >= 70 %}
             bg-emerald-50 border-emerald-200 text-emerald-950
-        {% elif score_percentage >= 50 %}
+        {% elif overall_score_pct >= 50 %}
             bg-amber-50 border-amber-200 text-amber-950
         {% else %}
             bg-rose-50 border-rose-200 text-rose-950
         {% endif %}
     ">
         <div class="inline-flex items-center justify-center w-16 h-16 rounded-2xl mb-4
-            {% if score_percentage >= 70 %} bg-emerald-500 text-white shadow-lg shadow-emerald-500/30
-            {% elif score_percentage >= 50 %} bg-amber-500 text-white shadow-lg shadow-amber-500/30
+            {% if overall_score_pct >= 70 %} bg-emerald-500 text-white shadow-lg shadow-emerald-500/30
+            {% elif overall_score_pct >= 50 %} bg-amber-500 text-white shadow-lg shadow-amber-500/30
             {% else %} bg-rose-500 text-white shadow-lg shadow-rose-500/30 {% endif %}
         ">
-            {% if score_percentage >= 70 %}
+            {% if overall_score_pct >= 70 %}
                 <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
                 </svg>
@@ -27,156 +27,179 @@
         </div>
 
         <h2 class="text-2xl sm:text-3xl font-extrabold mb-1">
-            {% if score_percentage == 100 %}
-                Excelente! Desempenho Perfeito!
-            {% elif score_percentage >= 70 %}
-                Muito Bom! Aprovado!
-            {% elif score_percentage >= 50 %}
-                Bom esforço, vale uma revisão!
+            {% if overall_score_pct == 100 %}
+                Excelente! 100% de Aproveitamento!
+            {% elif overall_score_pct >= 70 %}
+                Muito Bom! Simulado Aprovado!
+            {% elif overall_score_pct >= 50 %}
+                Bom desempenho, vale revisar os erros!
             {% else %}
-                Precisa de mais estudo neste capítulo!
+                Abaixo da média, recomenda-se revisar o material!
             {% endif %}
         </h2>
 
         <p class="text-sm opacity-80 mb-6">
-            Validação das respostas do <strong>Capítulo {{ chapter.number }}</strong> salva no seu histórico.
+            Resultado do <strong>{{ chapter_label }}</strong> salvo no seu histórico.
         </p>
 
         <div class="inline-flex items-center gap-6 px-6 py-3 rounded-2xl bg-white/80 backdrop-blur-sm border border-slate-200/50 shadow-sm text-slate-800">
             <div>
-                <div class="text-xs text-slate-500 uppercase font-semibold">Pontuação</div>
-                <div class="text-2xl font-extrabold text-brand-600">{{ score_percentage }}%</div>
+                <div class="text-xs text-slate-500 uppercase font-semibold">Nota Geral</div>
+                <div class="text-2xl font-extrabold text-brand-600">{{ overall_score_pct }}%</div>
             </div>
             <div class="w-px h-8 bg-slate-200"></div>
             <div>
-                <div class="text-xs text-slate-500 uppercase font-semibold">Acertos</div>
-                <div class="text-2xl font-extrabold text-slate-800">{{ correct_count }} de {{ total_questions }}</div>
+                <div class="text-xs text-slate-500 uppercase font-semibold">Total de Acertos</div>
+                <div class="text-2xl font-extrabold text-slate-800">{{ overall_correct_count }} de {{ overall_total_questions }}</div>
             </div>
         </div>
     </div>
 
-    <!-- Detailed Question Corrections -->
-    <div class="space-y-6">
-        <h3 class="text-lg font-bold text-slate-900 flex items-center gap-2">
-            <span>Correção Detalhada com Justificativas</span>
-            <span class="text-xs font-normal text-slate-500">(Gabarito Oficial)</span>
-        </h3>
-
-        {% for eval in evaluation %}
-        <div class="bg-white rounded-2xl border p-6 shadow-sm
-            {% if eval.is_correct %} border-emerald-200 {% else %} border-rose-200 {% endif %}
-        ">
-            <!-- Header of Question Review -->
-            <div class="flex items-center justify-between mb-4">
-                <div class="flex items-center gap-2">
-                    <span class="w-7 h-7 rounded-lg font-bold text-xs flex items-center justify-center
-                        {% if eval.is_correct %} bg-emerald-100 text-emerald-800 {% else %} bg-rose-100 text-rose-800 {% endif %}
-                    ">
-                        {{ eval.question_number }}
-                    </span>
-                    <span class="text-xs font-semibold text-slate-500">
-                        {{ eval.prompt[:60] }}...
-                    </span>
-                </div>
-
-                <div>
-                    {% if eval.is_correct %}
-                        <span class="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-700">
-                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
-                            Correto
-                        </span>
-                    {% else %}
-                        <span class="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold bg-rose-100 text-rose-700">
-                            <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
-                            Incorreto
-                        </span>
-                    {% endif %}
-                </div>
+    <!-- Grouped Evaluations by Chapter -->
+    {% for grp in grouped_evaluations %}
+    <div class="space-y-6 pt-2">
+        
+        <!-- Discreet Chapter Header in Results -->
+        <div class="border-b border-slate-200 pb-3 flex items-center justify-between">
+            <div>
+                <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-md text-xs font-bold bg-brand-50 text-brand-700 uppercase tracking-wider border border-brand-100">
+                    Capítulo {{ grp.chapter.number }}
+                </span>
+                <h3 class="text-lg font-bold text-slate-900 mt-1">
+                    {{ grp.chapter.title }}
+                </h3>
             </div>
+            
+            <div class="flex items-center gap-2">
+                <span class="text-xs text-slate-500">{{ grp.correct_count }}/{{ grp.total_questions }} acertos</span>
+                <span class="px-2.5 py-0.5 rounded-full text-xs font-bold
+                    {% if grp.score_pct >= 70 %} bg-emerald-100 text-emerald-800
+                    {% elif grp.score_pct >= 50 %} bg-amber-100 text-amber-800
+                    {% else %} bg-rose-100 text-rose-800 {% endif %}
+                ">
+                    {{ grp.score_pct }}%
+                </span>
+            </div>
+        </div>
 
-            <p class="text-slate-800 text-sm font-semibold mb-4">{{ eval.prompt }}</p>
-
-            <!-- Specific Breakdown -->
-            {% if eval.question_type == 'multiple_choice' %}
-                <div class="space-y-2 mb-4">
-                    {% for opt in eval.options %}
-                    <div class="p-3 rounded-xl text-xs sm:text-sm flex items-start gap-2 border
-                        {% if opt.key == eval.correct_answer %}
-                            bg-emerald-50 border-emerald-300 text-emerald-950 font-medium
-                        {% elif opt.key == eval.user_answer and not eval.is_correct %}
-                            bg-rose-50 border-rose-300 text-rose-950
-                        {% else %}
-                            bg-slate-50/50 border-slate-200 text-slate-600
-                        {% endif %}
-                    ">
-                        <span class="font-bold uppercase px-1.5 py-0.5 rounded
-                            {% if opt.key == eval.correct_answer %} bg-emerald-200 text-emerald-800
-                            {% elif opt.key == eval.user_answer and not eval.is_correct %} bg-rose-200 text-rose-800
-                            {% else %} bg-slate-200 text-slate-600 {% endif %}
+        <!-- Question Cards in this Chapter -->
+        <div class="space-y-6">
+            {% for eval in grp.evaluations %}
+            <div class="bg-white rounded-2xl border p-6 shadow-sm
+                {% if eval.is_correct %} border-emerald-200 {% else %} border-rose-200 {% endif %}
+            ">
+                <div class="flex items-center justify-between mb-4">
+                    <div class="flex items-center gap-2">
+                        <span class="w-7 h-7 rounded-lg font-bold text-xs flex items-center justify-center
+                            {% if eval.is_correct %} bg-emerald-100 text-emerald-800 {% else %} bg-rose-100 text-rose-800 {% endif %}
                         ">
-                            {{ opt.key }}
+                            {{ eval.question_number }}
                         </span>
-                        <div class="flex-1">{{ opt.text }}</div>
-                        {% if opt.key == eval.correct_answer %}
-                            <span class="text-xs font-bold text-emerald-700 ml-2">Gabarito ✓</span>
-                        {% elif opt.key == eval.user_answer %}
-                            <span class="text-xs font-bold text-rose-700 ml-2">Sua escolha ✗</span>
+                        <span class="text-xs font-semibold text-slate-500">
+                            {{ eval.prompt[:60] }}...
+                        </span>
+                    </div>
+
+                    <div>
+                        {% if eval.is_correct %}
+                            <span class="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold bg-emerald-100 text-emerald-700">
+                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path></svg>
+                                Correto
+                            </span>
+                        {% else %}
+                            <span class="inline-flex items-center gap-1 px-3 py-1 rounded-full text-xs font-bold bg-rose-100 text-rose-700">
+                                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path></svg>
+                                Incorreto
+                            </span>
                         {% endif %}
                     </div>
-                    {% endfor %}
                 </div>
 
-            {% elif eval.question_type == 'true_false' %}
-                <div class="space-y-3 mb-4">
-                    {% for item in eval.sub_items %}
-                    <div class="p-3.5 rounded-xl border text-xs sm:text-sm
-                        {% if item.is_correct %} bg-emerald-50/50 border-emerald-200 {% else %} bg-rose-50/50 border-rose-200 {% endif %}
-                    ">
-                        <div class="flex items-start justify-between gap-3 mb-2">
-                            <div class="text-slate-800">
-                                <span class="font-bold px-1.5 py-0.5 rounded bg-slate-200 text-slate-700 uppercase mr-1">{{ item.key }}</span>
-                                {{ item.statement }}
-                            </div>
-                            <div class="flex items-center gap-1.5 flex-shrink-0">
-                                <span class="text-xs font-bold px-2 py-0.5 rounded
-                                    {% if item.is_correct %} bg-emerald-100 text-emerald-700 {% else %} bg-rose-100 text-rose-700 {% endif %}
-                                ">
-                                    Você: {{ item.user_answer }} | Correto: {{ item.correct_answer }}
-                                </span>
-                            </div>
-                        </div>
+                <p class="text-slate-800 text-sm font-semibold mb-4">{{ eval.prompt }}</p>
 
-                        {% if item.explanation %}
-                        <div class="text-xs text-slate-600 pt-2 border-t border-slate-200/50 font-normal leading-relaxed">
-                            <strong>Comentário:</strong> {{ item.explanation }}
+                {% if eval.question_type == 'multiple_choice' %}
+                    <div class="space-y-2 mb-4">
+                        {% for opt in eval.options %}
+                        <div class="p-3 rounded-xl text-xs sm:text-sm flex items-start gap-2 border
+                            {% if opt.key == eval.correct_answer %}
+                                bg-emerald-50 border-emerald-300 text-emerald-950 font-medium
+                            {% elif opt.key == eval.user_answer and not eval.is_correct %}
+                                bg-rose-50 border-rose-300 text-rose-950
+                            {% else %}
+                                bg-slate-50/50 border-slate-200 text-slate-600
+                            {% endif %}
+                        ">
+                            <span class="font-bold uppercase px-1.5 py-0.5 rounded
+                                {% if opt.key == eval.correct_answer %} bg-emerald-200 text-emerald-800
+                                {% elif opt.key == eval.user_answer and not eval.is_correct %} bg-rose-200 text-rose-800
+                                {% else %} bg-slate-200 text-slate-600 {% endif %}
+                            ">
+                                {{ opt.key }}
+                            </span>
+                            <div class="flex-1">{{ opt.text }}</div>
+                            {% if opt.key == eval.correct_answer %}
+                                <span class="text-xs font-bold text-emerald-700 ml-2">Gabarito ✓</span>
+                            {% elif opt.key == eval.user_answer %}
+                                <span class="text-xs font-bold text-rose-700 ml-2">Sua escolha ✗</span>
+                            {% endif %}
                         </div>
-                        {% endif %}
+                        {% endfor %}
                     </div>
-                    {% endfor %}
-                </div>
-            {% endif %}
 
-            <!-- General Justification -->
-            {% if eval.explanation %}
-            <div class="bg-slate-50 rounded-xl p-4 border border-slate-200/70 text-xs text-slate-700 leading-relaxed">
-                <span class="font-bold text-slate-900 block mb-1">Fundamentação Teológica / Histórica:</span>
-                {{ eval.explanation }}
+                {% elif eval.question_type == 'true_false' %}
+                    <div class="space-y-3 mb-4">
+                        {% for item in eval.sub_items %}
+                        <div class="p-3.5 rounded-xl border text-xs sm:text-sm
+                            {% if item.is_correct %} bg-emerald-50/50 border-emerald-200 {% else %} bg-rose-50/50 border-rose-200 {% endif %}
+                        ">
+                            <div class="flex items-start justify-between gap-3 mb-2">
+                                <div class="text-slate-800">
+                                    <span class="font-bold px-1.5 py-0.5 rounded bg-slate-200 text-slate-700 uppercase mr-1">{{ item.key }}</span>
+                                    {{ item.statement }}
+                                </div>
+                                <div class="flex items-center gap-1.5 flex-shrink-0">
+                                    <span class="text-xs font-bold px-2 py-0.5 rounded
+                                        {% if item.is_correct %} bg-emerald-100 text-emerald-700 {% else %} bg-rose-100 text-rose-700 {% endif %}
+                                    ">
+                                        Você: {{ item.user_answer or '—' }} | Gabarito: {{ item.correct_answer }}
+                                    </span>
+                                </div>
+                            </div>
+
+                            {% if item.explanation %}
+                            <div class="text-xs text-slate-600 pt-2 border-t border-slate-200/50 font-normal leading-relaxed">
+                                <strong>Comentário:</strong> {{ item.explanation }}
+                            </div>
+                            {% endif %}
+                        </div>
+                        {% endfor %}
+                    </div>
+                {% endif %}
+
+                <!-- Justification -->
+                {% if eval.explanation %}
+                <div class="bg-slate-50 rounded-xl p-4 border border-slate-200/70 text-xs text-slate-700 leading-relaxed">
+                    <span class="font-bold text-slate-900 block mb-1">Fundamentação Teológica:</span>
+                    {{ eval.explanation }}
+                </div>
+                {% endif %}
+
             </div>
-            {% endif %}
-
+            {% endfor %}
         </div>
-        {% endfor %}
-    </div>
 
-    <!-- Action Buttons -->
-    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4 border-t border-slate-200">
+    </div>
+    {% endfor %}
+
+    <!-- Bottom Actions -->
+    <div class="flex flex-col sm:flex-row items-center justify-between gap-4 pt-6 border-t border-slate-200">
         <a href="/" class="text-sm font-semibold text-slate-600 hover:text-slate-900">
             &larr; Voltar ao Menu de Capítulos
         </a>
 
         <div class="flex items-center gap-3">
-            <a href="/capitulo/{{ chapter.number }}" class="px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-sm transition-colors">
-                Refazer Questionário
+            <a href="/simulado?capitulos={{ selected_chapters_str }}" class="px-5 py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-sm transition-colors">
+                Refazer este Simulado
             </a>
             <a href="/historico" class="px-5 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-semibold text-sm shadow-sm transition-colors">
                 Ver Histórico Completo

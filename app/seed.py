@@ -7,7 +7,7 @@ from app.database import init_db, save_chapter, save_question
 
 CHAPTER_TITLES = [
     (1, "A Igreja Evangélica Assembleia de Deus e sua Missão", True),
-    (2, "Teologia", False),
+    (2, "Teologia", True),
     (3, "Homilética", False),
     (4, "Hermenêutica", False),
     (5, "Pastoral & Clínica Pastoral", False),
@@ -136,7 +136,101 @@ def seed():
         sub_explanations=q2_sub_explanations,
     )
 
-    print("Database initialized and Chapter 1 questions seeded successfully!")
+    # --- CHAPTER 2 QUESTIONS ---
+
+    # Questão 1 (Múltipla Escolha)
+    c2_q1_prompt = "A Teologia se classifica de 4 maneiras, a saber:"
+    c2_q1_options = [
+        {
+            "key": "a",
+            "text": "Teologia Filosófica, Teologia Elementar, Teologia Bíblica e Teologia Pentecostal.",
+        },
+        {
+            "key": "b",
+            "text": "Teologia Exegética, Teologia Bíblica, Teologia Histórica e Teologia Dogmática.",
+        },
+        {
+            "key": "c",
+            "text": "Teologia Exegética, Teologia Hermenêutica, Teologia Escatológica, Teologia Histórica.",
+        },
+    ]
+    c2_q1_correct = "b"
+    c2_q1_explanation = (
+        'Na seção "Classificação da Teologia", o capítulo 2 enumera exatamente quatro categorias: '
+        '1. Teologia Exegética: exegese vem do grego, e significa "Sacar, extrair a verdade". '
+        '2. Teologia Bíblica: destaca o progresso da verdade através dos diversos livros bíblicos. '
+        '3. Teologia Histórica: traça a história do desenvolvimento da interpretação doutrinária. '
+        '4. Teologia Dogmática: também chamada de Teologia Prática, estuda as verdades fundamentais da fé.\n\n'
+        'A alternativa (a) está incorreta porque não há menção a "Teologia Filosófica" ou "Elementar". '
+        'A alternativa (c) também está incorreta, pois "Hermenêutica" é tratada no capítulo 4 e Escatologia é parte da Teologia Própria.'
+    )
+
+    save_question(
+        chapter_number=2,
+        question_number=1,
+        question_type="multiple_choice",
+        prompt=c2_q1_prompt,
+        options=c2_q1_options,
+        correct_answer=c2_q1_correct,
+        explanation=c2_q1_explanation,
+    )
+
+    # Questão 2 (Verdadeiro ou Falso)
+    c2_q2_prompt = "Em relação às doutrinas e estrutura bíblica abordadas no Capítulo 2, avalie cada afirmação como Verdadeira (V) ou Falsa (F):"
+    c2_q2_options = [
+        {
+            "key": "a",
+            "statement": "Em Gênesis 1.1 encontramos 7 doutrinas relacionadas com a pessoa de Deus, a saber: A Existência de Deus, A Eternidade de Deus, O Poder de Deus, A Soberania de Deus, A Vontade de Deus, A Sabedoria de Deus, A Providência de Deus.",
+        },
+        {
+            "key": "b",
+            "statement": "A Bíblia é dividida em duas partes: Antigo e Novo Testamento. Possui: 65 livros, sendo 38 no Antigo Testamento, e 27 no Novo Testamento.",
+        },
+        {
+            "key": "c",
+            "statement": "Hamartiologia é a Doutrina da Salvação.",
+        },
+        {
+            "key": "d",
+            "statement": "No Estudo do Espírito Santo há a Paracletologia: o termo Paracletologia vem do grego Paracleto (Advogado, Consolador, Ajudador).",
+        },
+    ]
+    c2_q2_correct = {
+        "a": "V",
+        "b": "F",
+        "c": "F",
+        "d": "V",
+    }
+    c2_q2_sub_explanations = {
+        "a": (
+            'VERDADEIRO: O capítulo 2 reproduz exatamente essas 7 doutrinas em Gênesis 1.1: '
+            'Existência, Eternidade, Poder, Soberania, Vontade, Sabedoria e Providência de Deus.'
+        ),
+        "b": (
+            'FALSO: O texto do livro ensina que a Bíblia possui 66 livros (sendo 39 no Antigo Testamento e 27 no Novo Testamento), '
+            'e não 65/38.'
+        ),
+        "c": (
+            'FALSO: Hamartiologia é a Doutrina do Pecado. A Doutrina da Salvação chama-se Soteriologia (do grego Soteria).'
+        ),
+        "d": (
+            'VERDADEIRO: Na Pneumatologia, Paracletologia vem do grego Paracleto (Advogado, Consolador, Ajudador).'
+        ),
+    }
+    c2_q2_explanation = "Avaliação doutrinária sobre Gênesis 1.1, divisão bíblica e termos teológicos fundamentais."
+
+    save_question(
+        chapter_number=2,
+        question_number=2,
+        question_type="true_false",
+        prompt=c2_q2_prompt,
+        options=c2_q2_options,
+        correct_answer=c2_q2_correct,
+        explanation=c2_q2_explanation,
+        sub_explanations=c2_q2_sub_explanations,
+    )
+
+    print("Database initialized and Chapters 1 & 2 seeded successfully!")
 
 
 if __name__ == "__main__":

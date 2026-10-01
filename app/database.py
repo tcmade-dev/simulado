@@ -56,6 +56,7 @@ def init_db():
         id INTEGER PRIMARY KEY AUTOINCREMENT,
         user_name TEXT DEFAULT 'Estudante',
         chapter_number INTEGER NOT NULL,
+        chapter_label TEXT DEFAULT '',
         total_questions INTEGER NOT NULL,
         correct_count INTEGER NOT NULL,
         score_percentage REAL NOT NULL,
@@ -63,6 +64,10 @@ def init_db():
         created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
     )
     """)
+    # Check if chapter_label exists in existing table
+    columns = [col[1] for col in cursor.execute("PRAGMA table_info(attempts)").fetchall()]
+    if "chapter_label" not in columns:
+        cursor.execute("ALTER TABLE attempts ADD COLUMN chapter_label TEXT DEFAULT ''")
 
     conn.commit()
     conn.close()
@@ -162,12 +167,49 @@ def get_questions_for_chapter(chapter_number: int) -> List[Dict[str, Any]]:
     return questions
 
 
+def get_grouped_questions_for_chapters(chapter_numbers: List[int]) -> List[Dict[str, Any]]:
+    """
+    Fetches questions grouped by chapter for multi-chapter simulations.
+    Returns: [{'chapter': {...}, 'questions': [...]}, ...]
+    """
+    if not chapter_numbers:
+        return []
+    conn = get_db()
+    cursor = conn.cursor()
+    placeholders = ",".join("?" for _ in chapter_numbers)
+    ch_rows = cursor.execute(f"""
+        SELECT * FROM chapters WHERE number IN ({placeholders}) ORDER BY number ASC
+    """, chapter_numbers).fetchall()
+
+    result = []
+    for ch_row in ch_rows:
+        ch = dict(ch_row)
+        q_rows = cursor.execute("""
+            SELECT * FROM questions WHERE chapter_number = ? ORDER BY question_number ASC
+        """, (ch["number"],)).fetchall()
+        questions = []
+        for r in q_rows:
+            q = dict(r)
+            q["options"] = json.loads(q["options_json"])
+            q["correct_answer"] = json.loads(q["correct_answer_json"])
+            q["sub_explanations"] = json.loads(q["sub_explanations_json"] or "{}")
+            questions.append(q)
+        if questions:
+            result.append({
+                "chapter": ch,
+                "questions": questions,
+            })
+    conn.close()
+    return result
+
+
 def save_attempt(
     chapter_number: int,
     total_questions: int,
     correct_count: int,
     score_percentage: float,
     details: Dict[str, Any],
+    chapter_label: str = "",
     user_name: str = "Estudante",
 ) -> int:
     conn = get_db()
@@ -176,15 +218,17 @@ def save_attempt(
     INSERT INTO attempts (
         user_name,
         chapter_number,
+        chapter_label,
         total_questions,
         correct_count,
         score_percentage,
         details_json,
         created_at
-    ) VALUES (?, ?, ?, ?, ?, ?, ?)
+    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
     """, (
         user_name,
         chapter_number,
+        chapter_label,
         total_questions,
         correct_count,
         round(score_percentage, 1),
@@ -202,7 +246,7 @@ def get_attempts(chapter_number: Optional[int] = None, limit: int = 20) -> List[
     cursor = conn.cursor()
     if chapter_number is not None:
         rows = cursor.execute("""
-        SELECT a.*, c.title as chapter_title
+        SELECT a.*, COALESCE(NULLIF(a.chapter_label, ''), c.title, 'Capítulo ' || a.chapter_number) as display_title
         FROM attempts a
         LEFT JOIN chapters c ON a.chapter_number = c.number
         WHERE a.chapter_number = ?
@@ -211,7 +255,7 @@ def get_attempts(chapter_number: Optional[int] = None, limit: int = 20) -> List[
         """, (chapter_number, limit)).fetchall()
     else:
         rows = cursor.execute("""
-        SELECT a.*, c.title as chapter_title
+        SELECT a.*, COALESCE(NULLIF(a.chapter_label, ''), c.title, 'Capítulo ' || a.chapter_number) as display_title
         FROM attempts a
         LEFT JOIN chapters c ON a.chapter_number = c.number
         ORDER BY a.created_at DESC
@@ -221,6 +265,7 @@ def get_attempts(chapter_number: Optional[int] = None, limit: int = 20) -> List[
     attempts = []
     for r in rows:
         item = dict(r)
+        item["chapter_title"] = item.get("display_title") or (f"Capítulo {item['chapter_number']}" if item['chapter_number'] > 0 else "Simulado Multi-Capítulo")
         item["details"] = json.loads(item["details_json"])
         attempts.append(item)
     conn.close()
