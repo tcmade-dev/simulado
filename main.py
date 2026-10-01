@@ -5,6 +5,7 @@ Or: uv run uvicorn app.main:app --reload --port 8000
 """
 
 import uvicorn
+from app.main import app
 
 if __name__ == "__main__":
     print("Starting Simulado Web App on http://127.0.0.1:8000 ...")

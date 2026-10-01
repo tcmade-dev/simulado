@@ -9,11 +9,26 @@ import sqlite3
 from datetime import datetime
 from typing import Any, Dict, List, Optional
 
-DB_PATH = os.environ.get("DATABASE_PATH", os.path.join(os.path.dirname(__file__), "..", "data", "simulado.db"))
+def _determine_db_path() -> str:
+    if os.environ.get("DATABASE_PATH"):
+        return os.environ["DATABASE_PATH"]
+    if os.environ.get("VERCEL") or os.environ.get("AWS_LAMBDA_FUNCTION_NAME"):
+        return "/tmp/simulado.db"
+    default_path = os.path.join(os.path.dirname(__file__), "..", "data", "simulado.db")
+    try:
+        os.makedirs(os.path.dirname(os.path.abspath(default_path)), exist_ok=True)
+        return default_path
+    except OSError:
+        return "/tmp/simulado.db"
+
+
+DB_PATH = _determine_db_path()
 
 
 def get_db():
-    os.makedirs(os.path.dirname(os.path.abspath(DB_PATH)), exist_ok=True)
+    dir_path = os.path.dirname(os.path.abspath(DB_PATH))
+    if dir_path:
+        os.makedirs(dir_path, exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn

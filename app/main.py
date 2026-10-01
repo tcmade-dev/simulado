@@ -25,17 +25,24 @@ from app.database import (
 from app.seed import seed
 
 
+def ensure_db_ready():
+    try:
+        init_db()
+        chapters = get_all_chapters()
+        if not chapters or not get_questions_for_chapter(1):
+            seed()
+    except Exception as e:
+        print(f"Database readiness warning: {e}")
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Ensure database exists and seed if empty
-    init_db()
-    chapters = get_all_chapters()
-    if not chapters or not get_questions_for_chapter(1):
-        seed()
+    ensure_db_ready()
     yield
 
 
 app = FastAPI(title="Simulado Santo Ministério", lifespan=lifespan)
+ensure_db_ready()
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
