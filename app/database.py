@@ -284,3 +284,17 @@ def get_stats() -> Dict[str, Any]:
         "avg_score": round(avg_score, 1),
         "active_chapters": active_chapters,
     }
+
+
+def clear_attempts():
+    """Wipes all attempts and resets history."""
+    conn = get_db()
+    cursor = conn.cursor()
+    cursor.execute("DELETE FROM attempts")
+    try:
+        cursor.execute("DELETE FROM sqlite_sequence WHERE name='attempts'")
+    except sqlite3.OperationalError:
+        pass
+    conn.commit()
+    conn.close()
+

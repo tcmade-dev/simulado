@@ -651,4 +651,9 @@ def seed():
 
 
 if __name__ == "__main__":
+    import sys
+    if "--reset" in sys.argv:
+        from app.database import clear_attempts
+        clear_attempts()
+        print("Histórico de tentativas limpo com sucesso!")
     seed()
