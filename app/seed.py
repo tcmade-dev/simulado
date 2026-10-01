@@ -88,7 +88,7 @@ def seed():
         },
         {
             "key": "c",
-            "statement": "Gunnar de Vingren não era um pastor de formação teológica.",
+            "statement": "Gunnar Vingren não era um pastor de formação teológica.",
         },
         {
             "key": "d",

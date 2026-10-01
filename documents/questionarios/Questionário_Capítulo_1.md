@@ -18,7 +18,7 @@ a . (       ) Igreja Evangélica Assembleia de Deus, nasceu em
 são de Fé Apostólica).
 b . (       ) No Estado do Paraná, está presente desde 1920, e
 conta hoje com mais de 150 campos eclesiásticos.
-c . (       ) Gunnar de Vingren não era um pastor de formação
+c . (       ) Gunnar Vingren não era um pastor de formação
 teológica.
 d . (       ) A igreja Missão de Fé Apostólica, passou a se cha-
 mar Assembleia de Deus em 11 de janeiro de 1918,

@@ -23,7 +23,7 @@ A alternativa (a) está incorreta porque esses quatro itens — "Jesus Salva, Cu
 **Justificativa:** A primeira parte está correta — o capítulo diz: "No Estado do Paraná, a Assembleia de Deus está presente desde 1920". Porém o número de campos não é o da alternativa: o capítulo informa "conta hoje com mais de 144 campos eclesiásticos", e não 150. Como o capítulo contradiz a quantidade afirmada, a alternativa como um todo é falsa.
 
 ### c) FALSO (F)
-"Gunnar de Vingren não era um pastor de formação teológica."
+"Gunnar Vingren não era um pastor de formação teológica."
 
 **Justificativa:** O capítulo afirma exatamente o contrário: "Gunnar Vingren era um pastor de formação teológica, e muito se preocupou em instruir os primeiros crentes, com ênfase para a doutrina pentecostal."
 
