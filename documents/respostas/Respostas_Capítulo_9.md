@@ -12,6 +12,6 @@
 ## Questão 2
 **Resposta: (b)**
 
-"Citação da alternativa correta: b. ☐ A unção é restrita ao ministério (aos presbíteros e ministros), é vedada essa prática a diáconos, cooperadores e membros (conforme Tg 5.14)."
+"Alternativa correta: b. ☐ A unção é restrita ao ministério (aos presbíteros e ministros), é vedada essa prática a diáconos, cooperadores e membros (conforme Tg 5.14)."
 
 **Justificativa:** O capítulo afirma: "A unção é restrita ao ministério, (aos presbíteros e ministros), é vedada essa prática a diáconos, cooperadores e membros (conforme Tg 5.14)." (Capítulo 9, seção "Unção Com Óleo"). Quanto à alternativa (a): "Não é um mandamento bíblico, mas tem respaldo no Novo Testamento para tal." (apresentação de crianças). Quanto à alternativa (c): "A unção deve ser aplicada unicamente a pessoas doentes. (No Novo Testamento, não há unção a montes, cidades, carros, casas, carteira de trabalho e outros objetos e animais – 2 Tm 4.3)." (Capítulo 9, seção "Unção Com Óleo").

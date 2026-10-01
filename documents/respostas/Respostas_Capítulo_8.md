@@ -3,22 +3,22 @@
 ## Questão 1
 
 ### a) VERDADEIRO (V)
-Short quote of the alternative: "Liturgia: A palavra liturgia vem do grego (λειτουργία,) significa 'serviço' ou 'trabalho público'."
+> "Liturgia: A palavra liturgia vem do grego (λειτουργία,) significa 'serviço' ou 'trabalho público'."
 
 **Justificativa:** O texto fala da liturgia como prática do culto/ritual, citando Rm 6.13; 12.1 e referindo-se a ela nesse contexto (ver também na relação), e apresenta a origem grega indicada no enunciado.
 
 ### b) FALSO (F)
-Short quote of the alternative: "Etimologicamente o significado da palavra culto é 'a forma mais básica de elogios direcionados a alguém'."
+> "Etimologicamente o significado da palavra culto é 'a forma mais básica de elogios direcionados a alguém'."
 
 **Justificativa:** O capítulo aborda o culto e a adoração como atos que envolvem louvor, adoração em espírito e em verdade (Jo 4.23-24), não se limitando a definir etimologicamente "culto" apenas como "a forma mais básica de elogios direcionados a alguém" conforme essa formulação.
 
 ### c) VERDADEIRO (V)
-Short quote of the alternative: "O tempo para uma palavra, deve ser entre cinco (5) e dez (10) minutos."
+> "O tempo para uma palavra, deve ser entre cinco (5) e dez (10) minutos."
 
 **Justificativa:** O capítulo estabelece: "O tempo para uma palavra, deve ser entre cinco (5) e dez (10) minutos." Também registra anteriormente: "o tempo para esta palavra deve ser de cinco minutos."
 
 ### d) VERDADEIRO (V)
-Short quote of the alternative: "O ritualismo surge as vezes até em igrejas conhecidas pela informalidade, pois consiste na realização de cultos mecânicos que possuem sempre o mesmo molde."
+> "O ritualismo surge as vezes até em igrejas conhecidas pela informalidade, pois consiste na realização de cultos mecânicos que possuem sempre o mesmo molde."
 
 **Justificativa:** O texto afirma: "O ritualismo surge as vezes até em igrejas conhecidas pela informalidade, pois consiste na realização de cultos mecânicos que possuem sempre o mesmo molde, sempre o mesmo padrão..."
 

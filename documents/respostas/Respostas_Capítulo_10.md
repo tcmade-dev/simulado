@@ -3,7 +3,7 @@
 ## Questão 1
 **Resposta: (b)**
 
-"Citação da alternativa correta: b. ☐ A EBD é o maior núcleo de ensino bíblico, do departamento de Educação Cristã das igrejas atualmente."
+"Alternativa correta: b. ☐ A EBD é o maior núcleo de ensino bíblico, do departamento de Educação Cristã das igrejas atualmente."
 
 **Justificativa:** O capítulo afirma: "A EBD é o maior núcleo de ensino bíblico do departamento de Educação Cristã das igrejas atualmente, pois é aberto a todos os membros e a custo mínimo..." (Capítulo 10, seção "Escola Bíblica Dominical"). Quanto à (a): o texto ressalta a importância da educação judaica, mas não afirma que o jovem judeu não tinha liberdade de pensar por si mesmo - não consta essa afirmação. Quanto à (c): o capítulo destaca a igreja como instituição de ensino e cita Jesus ensinando; não diz que não deve ser lugar de ensino.
 

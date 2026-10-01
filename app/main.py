@@ -221,6 +221,53 @@ async def validate_simulado(request: Request):
                     "is_correct": all_sub_correct,
                 }
 
+            elif q_type == "matching":
+                sub_items = []
+                all_sub_correct = True
+                user_sub_answers = {}
+                col2_items = q_options.get("column_2", [])
+
+                for item in col2_items:
+                    item_id = str(item["id"])
+                    input_name = f"{field_prefix}_{item_id}"
+                    user_val = form_data.get(input_name, "").strip().lower()
+                    expected_val = str(q_correct.get(item_id, "")).strip().lower()
+                    item_correct = (user_val == expected_val and bool(user_val))
+                    if not item_correct:
+                        all_sub_correct = False
+
+                    user_sub_answers[item_id] = user_val
+                    sub_items.append({
+                        "id": item_id,
+                        "text": item["text"],
+                        "user_answer": user_val.upper() if user_val else "",
+                        "correct_answer": expected_val.upper(),
+                        "is_correct": item_correct,
+                        "explanation": q_sub_explanations.get(item_id, "") or q_sub_explanations.get(expected_val, ""),
+                    })
+
+                if all_sub_correct:
+                    ch_correct_count += 1
+                    overall_correct_count += 1
+
+                eval_item = {
+                    "question_number": q_num,
+                    "question_type": q_type,
+                    "prompt": q_prompt,
+                    "column_1": q_options.get("column_1", []),
+                    "sub_items": sub_items,
+                    "is_correct": all_sub_correct,
+                    "explanation": q_explanation,
+                }
+                ch_evaluations.append(eval_item)
+                attempt_details[field_prefix] = {
+                    "chapter": ch["number"],
+                    "question": q_num,
+                    "user_answers": user_sub_answers,
+                    "correct_answers": q_correct,
+                    "is_correct": all_sub_correct,
+                }
+
         ch_total = len(questions)
         overall_total_questions += ch_total
         all_evaluations_grouped.append({

@@ -3,7 +3,7 @@
 ## Questão 1
 **Resposta: (c)**
 
-"Citação da alternativa correta: c. ☐ Planejamento é a segunda grande função da administração eclesiástica, processo de gestão."
+"Alternativa correta: c. ☐ Planejamento é a segunda grande função da administração eclesiástica, processo de gestão."
 
 **Justificativa:** "Planejamento. É a primeira grande função da administração eclesiástica enquanto processo de gestão." (Capítulo 13, seção "Planejamento"). Quanto à (a): "A Bíblia está recheada de princípios administrativos." Quanto à (b): "O termo administração vem do latim ad e minister, e significa literalmente, 'sustentar com as mãos'..." (Capítulo 13).
 
