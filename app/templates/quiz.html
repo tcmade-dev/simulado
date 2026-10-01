@@ -3,10 +3,10 @@
 {% block title %}{{ simulado_title }} - Simulado Santo Ministério{% endblock %}
 
 {% block content %}
-<div class="max-w-3xl mx-auto px-4 sm:px-6 pt-6 pb-24" id="quiz-container">
+<div class="max-w-3xl mx-auto px-3.5 sm:px-6 pt-4 sm:pt-6 pb-28 sm:pb-24" id="quiz-container">
     
     <!-- Top Breadcrumb -->
-    <div class="mb-4">
+    <div class="mb-3 sm:mb-4">
         <a href="/" class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 transition-colors">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
@@ -15,28 +15,28 @@
         </a>
     </div>
 
-    <!-- Sticky Progress & Tracking Bar -->
-    <div class="sticky top-16 z-30 bg-white/95 backdrop-blur-md border border-slate-200 shadow-sm rounded-2xl p-4 mb-8">
-        <div class="flex items-center justify-between gap-4 mb-2">
-            <div>
-                <span class="text-xs font-bold text-slate-900 block leading-tight">
+    <!-- Compact Sticky Progress & Tracking Bar -->
+    <div class="sticky top-14 sm:top-16 z-30 bg-white/95 backdrop-blur-md border border-slate-200/90 shadow-xs rounded-xl sm:rounded-2xl p-3 sm:p-4 mb-6 sm:mb-8">
+        <div class="flex items-center justify-between gap-2 sm:gap-4 mb-2">
+            <div class="min-w-0">
+                <span class="text-xs sm:text-sm font-bold text-slate-900 block leading-tight truncate">
                     {{ simulado_title }}
                 </span>
-                <span class="text-xs text-slate-500">
-                    <span id="answered-count-text">0</span> de <span id="total-questions-text">{{ total_questions }}</span> questões respondidas
+                <span class="text-[11px] sm:text-xs text-slate-500">
+                    <span id="answered-count-text">0</span> de <span id="total-questions-text">{{ total_questions }}</span> respondidas
                 </span>
             </div>
 
-            <div class="flex items-center gap-2">
-                <span id="progress-badge" class="px-2.5 py-1 rounded-full text-xs font-extrabold bg-slate-100 text-slate-600 transition-colors">
+            <div class="flex items-center gap-2 flex-shrink-0">
+                <span id="progress-badge" class="px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-slate-100 text-slate-600 transition-colors">
                     0%
                 </span>
             </div>
         </div>
 
         <!-- Progress Bar Track -->
-        <div class="w-full bg-slate-100 rounded-full h-2 overflow-hidden">
-            <div id="progress-bar-fill" class="bg-gradient-to-r from-brand-600 to-indigo-600 h-2 rounded-full transition-all duration-300" style="width: 0%;"></div>
+        <div class="w-full bg-slate-100 rounded-full h-1.5 sm:h-2 overflow-hidden">
+            <div id="progress-bar-fill" class="bg-gradient-to-r from-brand-600 to-indigo-600 h-full rounded-full transition-all duration-300" style="width: 0%;"></div>
         </div>
     </div>
 
@@ -47,24 +47,24 @@
           hx-swap="innerHTML"
           hx-indicator="#loading-spinner"
           onchange="recalculateProgress()"
-          class="space-y-10">
+          class="space-y-8 sm:space-y-10">
 
         <input type="hidden" name="selected_chapters" value="{{ selected_chapters_str }}">
 
         {% for group in grouped_data %}
-        <div class="space-y-6">
+        <div class="space-y-4 sm:space-y-6">
             
             <!-- Discreet Chapter Header -->
-            <div class="border-b border-slate-200/80 pb-3 pt-4 flex items-center justify-between">
-                <div>
-                    <span class="inline-flex items-center gap-1.5 px-2.5 py-0.5 rounded-md text-xs font-bold bg-brand-50 text-brand-700 uppercase tracking-wider border border-brand-100">
+            <div class="border-b border-slate-200/80 pb-3 pt-2 flex items-center justify-between gap-2">
+                <div class="min-w-0">
+                    <span class="inline-flex items-center gap-1.5 px-2 py-0.5 rounded-md text-[10px] sm:text-xs font-bold bg-brand-50 text-brand-700 uppercase tracking-wider border border-brand-100">
                         Capítulo {{ group.chapter.number }}
                     </span>
-                    <h2 class="text-lg sm:text-xl font-bold text-slate-900 mt-1 leading-snug">
+                    <h2 class="text-base sm:text-xl font-bold text-slate-900 mt-1 leading-snug">
                         {{ group.chapter.title }}
                     </h2>
                 </div>
-                <span class="text-xs font-medium text-slate-400">
+                <span class="text-xs font-medium text-slate-400 flex-shrink-0">
                     {{ group.questions|length }} questões
                 </span>
             </div>
@@ -77,50 +77,50 @@
                  data-question-type="{{ q.question_type }}"
                  data-chapter="{{ group.chapter.number }}"
                  data-qnum="{{ q.question_number }}"
-                 class="question-card bg-white rounded-2xl border border-slate-200 p-6 shadow-sm transition-all duration-200">
+                 class="question-card bg-white rounded-2xl border border-slate-200 p-4 sm:p-6 shadow-xs transition-all duration-200">
                 
-                <div class="flex items-start justify-between gap-4 mb-4">
+                <div class="flex items-start justify-between gap-3 mb-3 sm:mb-4">
                     <div class="flex items-center gap-2">
-                        <span class="w-7 h-7 rounded-lg bg-slate-100 text-slate-700 font-bold text-xs flex items-center justify-center border border-slate-200">
+                        <span class="w-6 h-6 sm:w-7 sm:h-7 rounded-lg bg-slate-100 text-slate-700 font-bold text-xs flex items-center justify-center border border-slate-200 flex-shrink-0">
                             {{ q.question_number }}
                         </span>
-                        <span class="text-xs font-semibold text-slate-400 uppercase tracking-wider">
+                        <span class="text-[11px] sm:text-xs font-semibold text-slate-400 uppercase tracking-wider">
                             {% if q.question_type == 'multiple_choice' %}
                                 Múltipla Escolha
                             {% elif q.question_type == 'true_false' %}
                                 Verdadeiro ou Falso
                             {% else %}
-                                Questão
+                                Associação de Colunas
                             {% endif %}
                         </span>
                     </div>
 
                     <!-- Status indicator for this question -->
-                    <span id="badge-{{ q_id }}" class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-400 transition-colors">
+                    <span id="badge-{{ q_id }}" class="inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] sm:text-xs font-semibold bg-slate-100 text-slate-400 transition-colors flex-shrink-0">
                         <span class="w-1.5 h-1.5 rounded-full bg-slate-300"></span>
                         Pendente
                     </span>
                 </div>
 
                 <!-- Prompt -->
-                <p class="text-slate-800 font-medium text-base mb-6 leading-relaxed">
+                <p class="text-slate-800 font-medium text-sm sm:text-base mb-4 sm:mb-6 leading-relaxed">
                     {{ q.prompt }}
                 </p>
 
                 <!-- Options -->
                 {% if q.question_type == 'multiple_choice' %}
-                    <div class="space-y-3">
+                    <div class="space-y-2.5 sm:space-y-3">
                         {% for opt in q.options %}
-                        <label class="flex items-start p-3.5 rounded-xl border border-slate-200 hover:border-brand-400 hover:bg-brand-50/30 cursor-pointer transition-all group">
+                        <label class="flex items-start p-3 sm:p-3.5 rounded-xl border border-slate-200 hover:border-brand-400 active:bg-brand-50/40 cursor-pointer transition-all group select-none has-[:checked]:border-brand-500 has-[:checked]:bg-brand-50/40">
                             <input type="radio" 
                                    name="{{ q_id }}" 
                                    value="{{ opt.key }}" 
-                                   class="mt-1 w-4 h-4 text-brand-600 focus:ring-brand-500 border-slate-300">
-                            <div class="ml-3.5">
+                                   class="mt-0.5 w-4 h-4 text-brand-600 focus:ring-brand-500 border-slate-300 flex-shrink-0">
+                            <div class="ml-3">
                                 <span class="font-bold text-xs uppercase px-1.5 py-0.5 rounded bg-slate-100 text-slate-600 mr-1.5 group-hover:bg-brand-100 group-hover:text-brand-700">
                                     {{ opt.key }}
                                 </span>
-                                <span class="text-sm text-slate-700 leading-snug">
+                                <span class="text-xs sm:text-sm text-slate-700 leading-snug">
                                     {{ opt.text }}
                                 </span>
                             </div>
@@ -129,51 +129,52 @@
                     </div>
 
                 {% elif q.question_type == 'true_false' %}
-                    <div class="space-y-4">
+                    <div class="space-y-3 sm:space-y-4">
                         {% for item in q.options %}
-                        <div class="tf-item p-4 rounded-xl border border-slate-200 bg-slate-50/50" data-tf-key="{{ item.key }}">
-                            <div class="text-sm text-slate-800 font-medium mb-3 leading-relaxed">
-                                <span class="font-bold text-xs px-2 py-0.5 rounded bg-slate-200 text-slate-700 mr-2 uppercase">
+                        <div class="tf-item p-3.5 sm:p-4 rounded-xl border border-slate-200 bg-slate-50/50" data-tf-key="{{ item.key }}">
+                            <div class="text-xs sm:text-sm text-slate-800 font-medium mb-3 leading-relaxed">
+                                <span class="font-bold text-xs px-2 py-0.5 rounded bg-slate-200 text-slate-700 mr-1.5 uppercase">
                                     {{ item.key }}
                                 </span>
                                 {{ item.statement }}
                             </div>
 
-                            <div class="flex items-center gap-4 pt-2 border-t border-slate-200/60">
-                                <span class="text-xs font-semibold text-slate-500">Sua resposta:</span>
-                                <label class="inline-flex items-center gap-1.5 cursor-pointer text-xs font-semibold text-slate-700 hover:text-emerald-600">
+                            <div class="grid grid-cols-2 gap-2 pt-2 border-t border-slate-200/60">
+                                <label class="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl border border-slate-200 text-xs font-bold text-slate-700 cursor-pointer select-none transition-all has-[:checked]:bg-emerald-600 has-[:checked]:text-white has-[:checked]:border-emerald-600 has-[:checked]:shadow-xs active:scale-[0.98]">
                                     <input type="radio" 
                                            name="{{ q_id }}_{{ item.key }}" 
                                            value="V" 
-                                           class="w-4 h-4 text-emerald-600 focus:ring-emerald-500 border-slate-300">
+                                           class="sr-only">
                                     <span>Verdadeiro (V)</span>
                                 </label>
 
-                                <label class="inline-flex items-center gap-1.5 cursor-pointer text-xs font-semibold text-slate-700 hover:text-rose-600">
+                                <label class="flex items-center justify-center gap-1.5 py-2.5 px-3 rounded-xl border border-slate-200 text-xs font-bold text-slate-700 cursor-pointer select-none transition-all has-[:checked]:bg-rose-600 has-[:checked]:text-white has-[:checked]:border-rose-600 has-[:checked]:shadow-xs active:scale-[0.98]">
                                     <input type="radio" 
                                            name="{{ q_id }}_{{ item.key }}" 
                                            value="F" 
-                                           class="w-4 h-4 text-rose-600 focus:ring-rose-500 border-slate-300">
+                                           class="sr-only">
                                     <span>Falso (F)</span>
                                 </label>
                             </div>
                         </div>
                         {% endfor %}
+                    </div>
+
                 {% elif q.question_type == 'matching' %}
-                    <div class="space-y-5">
+                    <div class="space-y-4 sm:space-y-5">
                         <!-- Coluna 1 Reference Table -->
-                        <div class="p-4 sm:p-5 rounded-2xl bg-slate-50 border border-slate-200">
+                        <div class="p-3.5 sm:p-5 rounded-xl sm:rounded-2xl bg-slate-50 border border-slate-200">
                             <div class="flex items-center justify-between mb-3">
                                 <span class="text-xs font-bold text-slate-600 uppercase tracking-wider">
                                     Coluna 1 (Referência)
                                 </span>
-                                <span class="text-[11px] text-slate-400 font-medium">
-                                    Itens selecionados ficam destacados em cinza
+                                <span class="text-[10px] sm:text-[11px] text-slate-400 font-medium">
+                                    Itens alocados ficam cinza
                                 </span>
                             </div>
-                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs text-slate-700">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 sm:gap-2.5 text-xs text-slate-700">
                                 {% for col1 in q.options.column_1 %}
-                                <div class="col1-reference-item flex items-start gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 shadow-2xs transition-all duration-200"
+                                <div class="col1-reference-item flex items-start gap-2 sm:gap-2.5 p-2 sm:p-2.5 rounded-lg sm:rounded-xl bg-white border border-slate-200 shadow-2xs transition-all duration-200"
                                      data-col1-ref="{{ q_id }}_{{ col1.key|lower }}">
                                     <span class="col1-badge w-6 h-6 rounded-md bg-brand-100 text-brand-700 font-extrabold text-xs flex items-center justify-center uppercase flex-shrink-0 transition-colors">
                                         {{ col1.key }}
@@ -187,30 +188,32 @@
                         </div>
 
                         <!-- Coluna 2 Association Cards -->
-                        <div class="space-y-3.5">
+                        <div class="space-y-3 sm:space-y-3.5">
                             <div class="text-xs font-bold text-slate-600 uppercase tracking-wider">
-                                Coluna 2 (Associe cada item à letra correspondente da Coluna 1):
+                                Coluna 2 (Associe cada item à letra correspondente):
                             </div>
                             {% for item in q.options.column_2 %}
-                            <div class="matching-item p-4 sm:p-4.5 rounded-xl border border-slate-200 bg-white transition-all shadow-2xs" 
+                            <div class="matching-item p-3.5 sm:p-4.5 rounded-xl border border-slate-200 bg-white transition-all shadow-2xs" 
                                  data-matching-id="{{ item.id }}">
-                                <div class="text-sm text-slate-800 font-medium mb-3 leading-relaxed">
-                                    <span class="font-bold text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-700 mr-2">{{ loop.index }}</span>
+                                <div class="text-xs sm:text-sm text-slate-800 font-medium mb-3 leading-relaxed">
+                                    <span class="font-bold text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-700 mr-1.5">{{ loop.index }}</span>
                                     {{ item.text }}
                                 </div>
 
                                 <div class="flex flex-wrap items-center gap-2 pt-2 border-t border-slate-100">
-                                    <span class="text-xs font-semibold text-slate-500 mr-1.5">Corresponde a:</span>
-                                    {% for col1 in q.options.column_1 %}
-                                    <label class="matching-pill relative inline-flex items-center justify-center min-w-[2.25rem] h-8 px-2.5 rounded-lg border border-slate-200 hover:border-brand-500 hover:bg-brand-50/50 cursor-pointer text-xs font-bold transition-all select-none has-[:checked]:bg-brand-600 has-[:checked]:text-white has-[:checked]:border-brand-600 has-[:checked]:shadow-sm">
-                                        <input type="radio" 
-                                               name="{{ q_id }}_{{ item.id }}" 
-                                               value="{{ col1.key }}"
-                                               onchange="handleMatchingSelection(this)"
-                                               class="sr-only">
-                                        <span class="uppercase tracking-wide">{{ col1.key }}</span>
-                                    </label>
-                                    {% endfor %}
+                                    <span class="text-xs font-semibold text-slate-500 mr-1 w-full sm:w-auto block sm:inline">Corresponde a:</span>
+                                    <div class="flex flex-wrap items-center gap-2">
+                                        {% for col1 in q.options.column_1 %}
+                                        <label class="matching-pill relative inline-flex items-center justify-center min-w-[2.5rem] sm:min-w-[2.25rem] h-10 sm:h-9 px-3 sm:px-2.5 rounded-xl sm:rounded-lg border border-slate-200 hover:border-brand-500 hover:bg-brand-50/50 cursor-pointer text-xs font-bold transition-all select-none has-[:checked]:bg-brand-600 has-[:checked]:text-white has-[:checked]:border-brand-600 has-[:checked]:shadow-sm active:scale-95">
+                                            <input type="radio" 
+                                                   name="{{ q_id }}_{{ item.id }}" 
+                                                   value="{{ col1.key }}"
+                                                   onchange="handleMatchingSelection(this)"
+                                                   class="sr-only">
+                                            <span class="uppercase tracking-wide text-xs sm:text-sm">{{ col1.key }}</span>
+                                        </label>
+                                        {% endfor %}
+                                    </div>
                                 </div>
                             </div>
                             {% endfor %}
@@ -225,14 +228,14 @@
         {% endfor %}
 
         <!-- Bottom Action Bar -->
-        <div class="pt-6 border-t border-slate-200 flex flex-col sm:flex-row items-center justify-between gap-4">
-            <a href="/" class="text-sm font-semibold text-slate-500 hover:text-slate-800">
+        <div class="pt-6 border-t border-slate-200 flex flex-col-reverse sm:flex-row items-center justify-between gap-3 sm:gap-4">
+            <a href="/" class="w-full sm:w-auto py-2.5 text-center text-xs sm:text-sm font-semibold text-slate-500 hover:text-slate-800">
                 &larr; Cancelar simulado
             </a>
 
             <button type="button" 
                     onclick="handleValidationClick()"
-                    class="w-full sm:w-auto px-8 py-3 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md shadow-brand-500/20 transition-all hover:scale-[1.01] flex items-center justify-center gap-2">
+                    class="w-full sm:w-auto px-8 py-3.5 sm:py-3 rounded-xl bg-brand-600 hover:bg-brand-700 active:bg-brand-800 text-white font-bold text-sm sm:text-base shadow-md shadow-brand-500/20 transition-all flex items-center justify-center gap-2">
                 <span>Confirmar e Validar Respostas</span>
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"></path>
@@ -241,7 +244,7 @@
         </div>
 
         <!-- HTMX Spinner -->
-        <div id="loading-spinner" class="htmx-indicator py-4 text-center text-sm text-slate-500">
+        <div id="loading-spinner" class="htmx-indicator py-4 text-center text-xs sm:text-sm text-slate-500">
             <svg class="animate-spin h-5 w-5 text-brand-600 inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
                 <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
                 <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
@@ -253,34 +256,34 @@
 
     <!-- Modal Warning for Unanswered Questions -->
     <div id="unanswered-modal" class="fixed inset-0 z-50 hidden bg-slate-900/60 backdrop-blur-sm flex items-center justify-center p-4">
-        <div class="bg-white rounded-3xl max-w-md w-full p-6 sm:p-8 shadow-2xl border border-slate-200 transform transition-all animate-fadeIn">
-            <div class="w-12 h-12 rounded-2xl bg-amber-100 text-amber-600 flex items-center justify-center mb-4">
+        <div class="bg-white rounded-3xl max-w-md w-full p-5 sm:p-8 shadow-2xl border border-slate-200 transform transition-all animate-fadeIn max-h-[90vh] overflow-y-auto">
+            <div class="w-11 h-11 sm:w-12 sm:h-12 rounded-2xl bg-amber-100 text-amber-600 flex items-center justify-center mb-3 sm:mb-4">
                 <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"></path>
                 </svg>
             </div>
 
-            <h3 class="text-xl font-bold text-slate-900 mb-2">
+            <h3 class="text-lg sm:text-xl font-bold text-slate-900 mb-1.5 sm:mb-2">
                 Questões Pendentes
             </h3>
-            <p class="text-sm text-slate-600 mb-4" id="modal-warning-text">
+            <p class="text-xs sm:text-sm text-slate-600 mb-4" id="modal-warning-text">
                 Você ainda não respondeu todas as questões deste simulado.
             </p>
 
             <!-- List of pending questions -->
-            <div class="bg-slate-50 rounded-xl p-3 max-h-48 overflow-y-auto mb-6 divide-y divide-slate-200/60 border border-slate-200" id="pending-questions-list">
+            <div class="bg-slate-50 rounded-xl p-2.5 max-h-48 overflow-y-auto mb-5 divide-y divide-slate-200/60 border border-slate-200" id="pending-questions-list">
                 <!-- Injected via JS -->
             </div>
 
-            <div class="flex flex-col gap-2.5">
+            <div class="flex flex-col gap-2">
                 <button type="button" 
                         onclick="goToFirstUnanswered()"
-                        class="w-full py-3 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md shadow-brand-500/20 transition-colors">
+                        class="w-full py-3 rounded-xl bg-brand-600 hover:bg-brand-700 active:bg-brand-800 text-white font-bold text-xs sm:text-sm shadow-md shadow-brand-500/20 transition-colors">
                     Revisar Questões Pendentes
                 </button>
                 <button type="button" 
                         onclick="forceSubmit()"
-                        class="w-full py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 text-slate-700 font-semibold text-xs transition-colors">
+                        class="w-full py-2.5 rounded-xl bg-slate-100 hover:bg-slate-200 active:bg-slate-300 text-slate-700 font-semibold text-xs transition-colors">
                     Validar Mesmo Incompleto
                 </button>
             </div>
@@ -328,7 +331,7 @@
             const complete = (answeredItems === matchingItems.length && matchingItems.length > 0);
             return {
                 id: qId,
-                label: `Capítulo ${chNum} - Questão ${qNum} (${answeredItems}/${matchingItems.length} associações)`,
+                label: `Capítulo ${chNum} - Questão ${qNum} (${answeredItems}/${matchingItems.length} itens)`,
                 isAnswered: complete
             };
         }
@@ -349,14 +352,14 @@
                 card.classList.add('border-emerald-300', 'bg-emerald-50/20');
                 card.classList.remove('border-slate-200');
                 if (badge) {
-                    badge.className = 'inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-100 text-emerald-700';
+                    badge.className = 'inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] sm:text-xs font-semibold bg-emerald-100 text-emerald-700';
                     badge.innerHTML = '<span class="w-1.5 h-1.5 rounded-full bg-emerald-500"></span>Respondida ✓';
                 }
             } else {
                 card.classList.remove('border-emerald-300', 'bg-emerald-50/20');
                 card.classList.add('border-slate-200');
                 if (badge) {
-                    badge.className = 'inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-semibold bg-slate-100 text-slate-400';
+                    badge.className = 'inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-[11px] sm:text-xs font-semibold bg-slate-100 text-slate-400';
                     badge.innerHTML = '<span class="w-1.5 h-1.5 rounded-full bg-slate-300"></span>Pendente';
                 }
             }
@@ -369,11 +372,11 @@
         const badge = document.getElementById('progress-badge');
         badge.innerText = `${pct}%`;
         if (pct === 100) {
-            badge.className = 'px-2.5 py-1 rounded-full text-xs font-extrabold bg-emerald-100 text-emerald-700';
+            badge.className = 'px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-emerald-100 text-emerald-700';
         } else if (pct > 0) {
-            badge.className = 'px-2.5 py-1 rounded-full text-xs font-extrabold bg-brand-100 text-brand-700';
+            badge.className = 'px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-brand-100 text-brand-700';
         } else {
-            badge.className = 'px-2.5 py-1 rounded-full text-xs font-extrabold bg-slate-100 text-slate-600';
+            badge.className = 'px-2.5 py-0.5 rounded-full text-xs font-extrabold bg-slate-100 text-slate-600';
         }
 
         document.getElementById('progress-bar-fill').style.width = `${pct}%`;
@@ -400,7 +403,7 @@
             listContainer.innerHTML = '';
             unanswered.forEach(u => {
                 const item = document.createElement('div');
-                item.className = 'py-1.5 px-2 text-xs font-medium text-slate-700 flex items-center justify-between hover:bg-slate-100 rounded cursor-pointer';
+                item.className = 'py-2 px-2.5 text-xs font-medium text-slate-700 flex items-center justify-between hover:bg-slate-100 rounded-lg cursor-pointer';
                 item.innerHTML = `<span>${u.label}</span> <span class="text-amber-600 font-bold">&rarr;</span>`;
                 item.onclick = () => {
                     closeModal();

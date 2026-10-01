@@ -3,46 +3,46 @@
 {% block title %}Histórico de Tentativas - Simulado{% endblock %}
 
 {% block content %}
-<div class="max-w-4xl mx-auto px-4 sm:px-6 pt-8 pb-16">
+<div class="max-w-4xl mx-auto px-3.5 sm:px-6 pt-4 sm:pt-8 pb-16">
     
-    <div class="mb-8">
-        <a href="/" class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 mb-3">
+    <div class="mb-6 sm:mb-8">
+        <a href="/" class="inline-flex items-center gap-1.5 text-xs font-semibold text-slate-500 hover:text-slate-800 mb-2 sm:mb-3">
             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
             </svg>
             Voltar aos Capítulos
         </a>
-        <h1 class="text-3xl font-extrabold text-slate-900 tracking-tight mb-2">
+        <h1 class="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight mb-1 sm:mb-2">
             Histórico de Simulados
         </h1>
-        <p class="text-sm text-slate-500">
+        <p class="text-xs sm:text-sm text-slate-500">
             Acompanhe o registro de todas as suas tentativas e evolução de acertos.
         </p>
     </div>
 
     {% if attempts %}
-    <div class="space-y-4">
+    <div class="space-y-3.5 sm:space-y-4">
         {% for att in attempts %}
-        <div id="attempt-{{ att.id }}" class="bg-white rounded-2xl border border-slate-200 p-5 sm:p-6 shadow-sm">
-            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4 pb-4 border-b border-slate-100">
-                <div>
-                    <span class="text-xs font-bold uppercase tracking-wider text-brand-600 block mb-1">
+        <div id="attempt-{{ att.id }}" class="bg-white rounded-2xl border border-slate-200 p-4 sm:p-6 shadow-xs">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 sm:gap-3 mb-3.5 pb-3.5 border-b border-slate-100">
+                <div class="min-w-0">
+                    <span class="text-[10px] sm:text-xs font-bold uppercase tracking-wider text-brand-600 block mb-0.5">
                         Capítulo {{ att.chapter_number }}
                     </span>
-                    <h3 class="font-bold text-slate-900 text-lg">
+                    <h3 class="font-bold text-slate-900 text-base sm:text-lg truncate">
                         {{ att.chapter_title or 'Capítulo ' ~ att.chapter_number }}
                     </h3>
-                    <div class="text-xs text-slate-400 mt-1">
+                    <div class="text-[11px] sm:text-xs text-slate-400 mt-0.5">
                         Realizado em {{ att.created_at }} por <strong>{{ att.user_name }}</strong>
                     </div>
                 </div>
 
-                <div class="flex items-center gap-4">
-                    <div class="text-right">
-                        <div class="text-xs text-slate-400 font-medium">Resultado</div>
-                        <div class="text-sm font-bold text-slate-800">{{ att.correct_count }} de {{ att.total_questions }} questões</div>
+                <div class="flex items-center justify-between sm:justify-end gap-3 sm:gap-4 pt-1 sm:pt-0">
+                    <div class="text-left sm:text-right">
+                        <div class="text-[10px] sm:text-xs text-slate-400 font-medium">Resultado</div>
+                        <div class="text-xs sm:text-sm font-bold text-slate-800">{{ att.correct_count }} de {{ att.total_questions }} acertos</div>
                     </div>
-                    <span class="px-4 py-2 rounded-xl text-base font-extrabold shadow-sm
+                    <span class="px-3 sm:px-4 py-1.5 sm:py-2 rounded-xl text-sm sm:text-base font-extrabold shadow-2xs
                         {% if att.score_percentage >= 70 %} bg-emerald-100 text-emerald-800
                         {% elif att.score_percentage >= 50 %} bg-amber-100 text-amber-800
                         {% else %} bg-rose-100 text-rose-800 {% endif %}
@@ -54,12 +54,12 @@
 
             <!-- Breakdown of questions in this attempt -->
             <div class="space-y-2">
-                <div class="text-xs font-semibold text-slate-500 uppercase tracking-wider mb-2">
+                <div class="text-[10px] sm:text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1.5">
                     Resumo das Questões
                 </div>
-                <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                <div class="grid grid-cols-1 sm:grid-cols-2 gap-1.5 sm:gap-2">
                     {% for q_key, q_data in att.details.items() %}
-                    <div class="p-2.5 rounded-lg border text-xs flex items-center justify-between
+                    <div class="p-2 sm:p-2.5 rounded-lg border text-xs flex items-center justify-between
                         {% if q_data.is_correct %} bg-emerald-50/60 border-emerald-200 text-emerald-900
                         {% else %} bg-rose-50/60 border-rose-200 text-rose-900 {% endif %}
                     ">
@@ -76,8 +76,8 @@
                 </div>
             </div>
 
-            <div class="mt-4 pt-3 flex justify-end">
-                <a href="/capitulo/{{ att.chapter_number }}" class="text-xs font-bold text-brand-600 hover:text-brand-700">
+            <div class="mt-3.5 pt-3 flex justify-end">
+                <a href="/capitulo/{{ att.chapter_number }}" class="text-xs font-bold text-brand-600 hover:text-brand-700 py-1">
                     Tentar novamente este capítulo &rarr;
                 </a>
             </div>
@@ -85,17 +85,17 @@
         {% endfor %}
     </div>
     {% else %}
-    <div class="bg-white rounded-3xl border border-slate-200 p-12 text-center shadow-sm">
-        <div class="w-16 h-16 rounded-full bg-slate-100 text-slate-400 mx-auto flex items-center justify-center mb-4">
-            <svg class="w-8 h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <div class="bg-white rounded-2xl sm:rounded-3xl border border-slate-200 p-8 sm:p-12 text-center shadow-xs">
+        <div class="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-slate-100 text-slate-400 mx-auto flex items-center justify-center mb-3 sm:mb-4">
+            <svg class="w-7 h-7 sm:w-8 sm:h-8" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"></path>
             </svg>
         </div>
-        <h3 class="text-lg font-bold text-slate-800 mb-1">Nenhum simulado realizado ainda</h3>
-        <p class="text-sm text-slate-500 mb-6 max-w-sm mx-auto">
+        <h3 class="text-base sm:text-lg font-bold text-slate-800 mb-1">Nenhum simulado realizado ainda</h3>
+        <p class="text-xs sm:text-sm text-slate-500 mb-5 sm:mb-6 max-w-sm mx-auto">
             Inicie pelo Capítulo 1 para testar seus conhecimentos e seus resultados aparecerão aqui.
         </p>
-        <a href="/capitulo/1" class="inline-flex items-center gap-2 px-6 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-semibold text-sm shadow-sm transition-all">
+        <a href="/capitulo/1" class="inline-flex items-center gap-2 px-5 sm:px-6 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-semibold text-xs sm:text-sm shadow-sm transition-all">
             Iniciar Capítulo 1
         </a>
     </div>

@@ -1,81 +1,83 @@
 {% extends "base.html" %}
 
-{% block title %}Dashboard - Simulado Santo Ministério{% endblock %}
+{% block title %}Questionário - Simulado Santo Ministério{% endblock %}
 
 {% block content %}
-<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
+<div class="max-w-5xl mx-auto px-3.5 sm:px-6 lg:px-8 pt-4 sm:pt-8 pb-28 sm:pb-12">
     
     <!-- Hero / Welcome Header -->
-    <div class="bg-gradient-to-br from-slate-900 via-indigo-950 to-brand-900 rounded-3xl p-6 sm:p-10 text-white shadow-xl mb-10 relative overflow-hidden">
+    <div class="bg-gradient-to-br from-slate-900 via-indigo-950 to-brand-900 rounded-2xl sm:rounded-3xl p-5 sm:p-8 text-white shadow-xl mb-6 sm:mb-10 relative overflow-hidden">
         <div class="absolute -right-10 -bottom-10 w-64 h-64 bg-brand-500/10 rounded-full blur-3xl pointer-events-none"></div>
         <div class="relative z-10 max-w-2xl">
             <!-- IBADEP Brand & Title -->
-            <div class="flex items-center gap-3 sm:gap-4 mb-4">
-                <div class="h-12 sm:h-14 px-3 py-1.5 rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 flex items-center justify-center shadow-inner">
-                    <img src="/assets/ibadep_icon.png" alt="IBADEP" class="h-8 sm:h-10 w-auto object-contain">
+            <div class="flex items-center gap-3 sm:gap-4 mb-3 sm:mb-4">
+                <div class="h-10 sm:h-14 px-2 sm:px-3 py-1 sm:py-1.5 rounded-xl sm:rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 flex items-center justify-center shadow-inner flex-shrink-0">
+                    <img src="/assets/ibadep_icon.png" alt="IBADEP" class="h-7 sm:h-10 w-auto object-contain">
                 </div>
                 <div>
-                    <span class="text-xs font-bold uppercase tracking-wider text-brand-300 block">IBADEP • Ensino e Pesquisa</span>
-                    <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white leading-tight">
+                    <span class="text-[10px] sm:text-xs font-bold uppercase tracking-wider text-brand-300 block">IBADEP • Ensino e Pesquisa</span>
+                    <h1 class="text-2xl sm:text-4xl font-extrabold tracking-tight text-white leading-tight">
                         Questionário
                     </h1>
                 </div>
             </div>
 
-            <p class="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
+            <p class="text-slate-300 text-xs sm:text-base leading-relaxed mb-5 sm:mb-6">
                 Autoavaliação baseada no manual oficial <strong>Introdução ao Santo Ministério</strong> (IBADEP), compreendendo os 13 capítulos com estudos sobre a história da igreja, teologia, liturgia, ética ministerial, clínica pastoral e administração eclesiástica.
             </p>
 
-            <!-- Quick Stats: 2 columns (Simulados Feitos and Média Geral) -->
-            <div class="grid grid-cols-2 gap-4 sm:gap-8 pt-6 border-t border-white/10 text-center sm:text-left max-w-sm">
+            <!-- Quick Stats: 2 columns -->
+            <div class="grid grid-cols-2 gap-3 sm:gap-8 pt-4 sm:pt-6 border-t border-white/10 text-center sm:text-left max-w-sm">
                 <div>
                     <div class="text-2xl sm:text-3xl font-extrabold text-white">{{ stats.total_attempts }}</div>
-                    <div class="text-xs text-slate-400 font-medium mt-0.5">Simulados Feitos</div>
+                    <div class="text-[11px] sm:text-xs text-slate-400 font-medium mt-0.5">Simulados Feitos</div>
                 </div>
                 <div>
                     <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">{{ stats.avg_score }}%</div>
-                    <div class="text-xs text-slate-400 font-medium mt-0.5">Média Geral</div>
+                    <div class="text-[11px] sm:text-xs text-slate-400 font-medium mt-0.5">Média Geral</div>
                 </div>
             </div>
         </div>
     </div>
 
     <!-- Chapter Selection Section -->
-    <form id="simulado-form" action="/simulado" method="GET" class="mb-12">
-        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-6">
+    <form id="simulado-form" action="/simulado" method="GET">
+        <input type="hidden" name="capitulos" id="capitulos-input" value="1">
+
+        <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 sm:gap-4 mb-4 sm:mb-6">
             <div>
-                <h2 class="text-xl font-bold text-slate-900 tracking-tight">Selecione os Capítulos para o Simulado</h2>
-                <p class="text-sm text-slate-500">Marque um ou mais capítulos disponíveis e inicie um simulado unificado</p>
+                <h2 class="text-lg sm:text-xl font-bold text-slate-900 tracking-tight">Selecione os Capítulos para o Simulado</h2>
+                <p class="text-xs sm:text-sm text-slate-500">Marque um ou mais capítulos disponíveis e inicie um simulado unificado</p>
             </div>
 
             <!-- Selection helper buttons -->
             <div class="flex items-center gap-2">
-                <button type="button" onclick="selectAllActive(true)" class="px-3 py-1.5 rounded-lg border border-slate-300 bg-white text-xs font-semibold text-slate-700 hover:bg-slate-50 transition-colors">
+                <button type="button" onclick="selectAllActive(true)" class="flex-1 sm:flex-none px-3 py-2 sm:py-1.5 rounded-xl border border-slate-300 bg-white text-xs font-semibold text-slate-700 hover:bg-slate-50 active:bg-slate-100 transition-colors shadow-2xs">
                     Selecionar Todos
                 </button>
-                <button type="button" onclick="selectAllActive(false)" class="px-3 py-1.5 rounded-lg border border-slate-300 bg-white text-xs font-semibold text-slate-700 hover:bg-slate-50 transition-colors">
+                <button type="button" onclick="selectAllActive(false)" class="flex-1 sm:flex-none px-3 py-2 sm:py-1.5 rounded-xl border border-slate-300 bg-white text-xs font-semibold text-slate-700 hover:bg-slate-50 active:bg-slate-100 transition-colors shadow-2xs">
                     Limpar
                 </button>
             </div>
         </div>
 
-        <!-- Sticky Action Bar for Launching Simulation -->
-        <div id="sticky-launcher" class="sticky top-20 z-30 mb-6 bg-white/95 backdrop-blur-md border border-brand-200 shadow-md rounded-2xl p-4 flex flex-col sm:flex-row items-center justify-between gap-3 transition-all">
+        <!-- Desktop Action Bar (Visible only on sm: and up) -->
+        <div id="desktop-launcher" class="hidden sm:flex mb-6 bg-white/95 backdrop-blur-md border border-brand-200 shadow-sm rounded-2xl p-4 items-center justify-between gap-3 transition-all">
             <div class="flex items-center gap-3">
                 <div class="w-9 h-9 rounded-xl bg-brand-100 text-brand-700 font-extrabold text-sm flex items-center justify-center">
-                    <span id="selected-count">1</span>
+                    <span class="selected-count-display">1</span>
                 </div>
                 <div>
                     <div class="text-sm font-bold text-slate-900">
-                        <span id="selected-label">1 capítulo selecionado</span>
+                        <span id="selected-label-desktop">1 capítulo selecionado</span>
                     </div>
-                    <div class="text-xs text-slate-500" id="selected-questions-est">
+                    <div class="text-xs text-slate-500">
                         Pronto para iniciar
                     </div>
                 </div>
             </div>
 
-            <button type="submit" id="btn-start-simulado" class="w-full sm:w-auto px-6 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md shadow-brand-500/20 transition-all hover:scale-[1.01] flex items-center justify-center gap-2">
+            <button type="submit" class="btn-start-simulado px-6 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-bold text-sm shadow-md shadow-brand-500/20 transition-all hover:scale-[1.01] flex items-center justify-center gap-2">
                 <span>Iniciar Simulado dos Selecionados</span>
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
@@ -83,56 +85,77 @@
             </button>
         </div>
 
-        <input type="hidden" name="capitulos" id="capitulos-input" value="1">
+        <!-- Mobile Floating Bottom Action Bar (Fixed at bottom on phones, thumb-friendly) -->
+        <div id="mobile-launcher" class="sm:hidden fixed bottom-0 inset-x-0 z-40 bg-white/95 backdrop-blur-md border-t border-slate-200 px-4 py-3 shadow-[0_-8px_30px_rgba(0,0,0,0.12)] flex items-center justify-between gap-3">
+            <div class="flex items-center gap-2.5 min-w-0">
+                <div class="w-8 h-8 rounded-lg bg-brand-100 text-brand-700 font-extrabold text-xs flex items-center justify-center flex-shrink-0">
+                    <span class="selected-count-display">1</span>
+                </div>
+                <div class="min-w-0">
+                    <div class="text-xs font-bold text-slate-900 truncate" id="selected-label-mobile">1 selecionado</div>
+                    <div class="text-[10px] text-slate-500 leading-tight">Pronto para iniciar</div>
+                </div>
+            </div>
+
+            <button type="submit" class="btn-start-simulado px-4 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 active:bg-brand-800 text-white font-bold text-xs shadow-md shadow-brand-500/25 transition-all flex items-center gap-1.5 flex-shrink-0">
+                <span>Iniciar Simulado</span>
+                <svg class="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3"></path>
+                </svg>
+            </button>
+        </div>
 
         <!-- Grid of Chapters -->
-        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 sm:gap-5 mb-10">
             {% for ch in chapters %}
-                <div class="rounded-2xl border transition-all duration-200 flex flex-col justify-between p-5 relative
+                <div class="rounded-2xl border transition-all duration-200 flex flex-col justify-between p-4 sm:p-5 relative
                     {% if ch.is_active %}
-                        bg-white border-brand-200 shadow-sm hover:shadow-md hover:border-brand-300
+                        bg-white border-brand-200/80 shadow-xs hover:shadow-md hover:border-brand-300
                     {% else %}
                         bg-slate-50 border-slate-200 opacity-60
                     {% endif %}
                 ">
                     <div>
+                        <!-- Header with Checkbox and Status -->
                         <div class="flex items-center justify-between mb-3">
-                            <div class="flex items-center gap-2.5">
+                            <label for="ch_check_{{ ch.number }}" class="flex items-center gap-2.5 {% if ch.is_active %}cursor-pointer select-none{% endif %}">
                                 {% if ch.is_active %}
                                     <input type="checkbox" 
                                            id="ch_check_{{ ch.number }}" 
                                            value="{{ ch.number }}" 
                                            {% if ch.number == 1 %}checked{% endif %}
                                            onchange="updateSelection()"
-                                           class="ch-checkbox w-4 h-4 text-brand-600 rounded border-slate-300 focus:ring-brand-500 cursor-pointer">
+                                           class="ch-checkbox w-5 h-5 text-brand-600 rounded border-slate-300 focus:ring-brand-500 cursor-pointer">
                                 {% endif %}
                                 <span class="inline-flex items-center justify-center w-7 h-7 rounded-lg font-bold text-xs
                                     {% if ch.is_active %} bg-brand-100 text-brand-700 {% else %} bg-slate-200 text-slate-500 {% endif %}
                                 ">
                                     {{ ch.number }}
                                 </span>
-                            </div>
+                            </label>
 
                             {% if ch.is_active %}
-                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-100 text-emerald-700">
+                                <span class="px-2 py-0.5 rounded-full text-[11px] font-semibold bg-emerald-100 text-emerald-700">
                                     Disponível
                                 </span>
                             {% else %}
-                                <span class="px-2 py-0.5 rounded-full text-xs font-medium bg-slate-200 text-slate-600">
+                                <span class="px-2 py-0.5 rounded-full text-[11px] font-medium bg-slate-200 text-slate-600">
                                     Em extração
                                 </span>
                             {% endif %}
                         </div>
 
-                        <label for="ch_check_{{ ch.number }}" class="{% if ch.is_active %}cursor-pointer{% endif %} block">
-                            <h3 class="font-bold text-slate-900 text-base leading-snug mb-2 hover:text-brand-600 transition-colors">
+                        <!-- Chapter Title -->
+                        <label for="ch_check_{{ ch.number }}" class="{% if ch.is_active %}cursor-pointer{% endif %} block mb-2">
+                            <h3 class="font-bold text-slate-900 text-sm sm:text-base leading-snug hover:text-brand-600 transition-colors">
                                 {{ ch.title }}
                             </h3>
                         </label>
 
+                        <!-- Chapter Meta -->
                         {% if ch.is_active %}
-                            <div class="flex items-center gap-2 text-xs text-slate-500 mb-4">
-                                <span class="font-medium text-slate-700">{{ ch.question_count }} Questões</span>
+                            <div class="flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500 mb-4">
+                                <span class="font-semibold text-slate-700">{{ ch.question_count }} Questões</span>
                                 <span>•</span>
                                 <span>{{ ch.attempts_count }} tentativas</span>
                                 {% if ch.best_score is not none %}
@@ -145,14 +168,15 @@
                         {% endif %}
                     </div>
 
+                    <!-- Action Button -->
                     <div>
                         {% if ch.is_active %}
-                            <a href="/simulado?capitulos={{ ch.number }}" class="w-full inline-flex items-center justify-center gap-1.5 px-3 py-2 rounded-xl bg-slate-100 hover:bg-brand-50 text-brand-700 hover:text-brand-800 font-semibold text-xs border border-brand-100 transition-colors">
+                            <a href="/simulado?capitulos={{ ch.number }}" class="w-full inline-flex items-center justify-center gap-1.5 px-3 py-2.5 rounded-xl bg-slate-100 hover:bg-brand-50 active:bg-brand-100 text-brand-700 font-semibold text-xs border border-brand-100/70 transition-colors">
                                 <span>Simular apenas este capítulo</span>
                                 &rarr;
                             </a>
                         {% else %}
-                            <button disabled class="w-full py-2 rounded-xl bg-slate-100 text-slate-400 font-medium text-xs cursor-not-allowed border border-slate-200">
+                            <button disabled class="w-full py-2.5 rounded-xl bg-slate-100 text-slate-400 font-medium text-xs cursor-not-allowed border border-slate-200">
                                 Aguardando extração
                             </button>
                         {% endif %}
@@ -164,32 +188,32 @@
 
     <!-- Recent History Section -->
     {% if recent_attempts %}
-    <div class="border-t border-slate-200 pt-8">
+    <div class="border-t border-slate-200 pt-6 sm:pt-8">
         <div class="flex items-center justify-between mb-4">
-            <h2 class="text-lg font-bold text-slate-900">Suas Últimas Tentativas</h2>
-            <a href="/historico" class="text-sm font-semibold text-brand-600 hover:text-brand-700">Ver histórico completo &rarr;</a>
+            <h2 class="text-base sm:text-lg font-bold text-slate-900">Suas Últimas Tentativas</h2>
+            <a href="/historico" class="text-xs sm:text-sm font-semibold text-brand-600 hover:text-brand-700">Ver histórico &rarr;</a>
         </div>
 
-        <div class="bg-white rounded-2xl border border-slate-200 divide-y divide-slate-100 shadow-sm overflow-hidden">
+        <div class="bg-white rounded-2xl border border-slate-200 divide-y divide-slate-100 shadow-xs overflow-hidden">
             {% for att in recent_attempts[:5] %}
-            <div class="p-4 sm:px-6 flex items-center justify-between">
-                <div>
-                    <div class="font-semibold text-slate-900 text-sm">
+            <div class="p-3.5 sm:px-6 flex items-center justify-between gap-3">
+                <div class="min-w-0">
+                    <div class="font-semibold text-slate-900 text-xs sm:text-sm truncate">
                         {{ att.chapter_title }}
                     </div>
-                    <div class="text-xs text-slate-400">
+                    <div class="text-[11px] sm:text-xs text-slate-400 truncate">
                         {{ att.created_at }} • {{ att.correct_count }}/{{ att.total_questions }} acertos
                     </div>
                 </div>
-                <div class="flex items-center gap-3">
-                    <span class="px-3 py-1 rounded-full text-xs font-bold
+                <div class="flex items-center gap-2 sm:gap-3 flex-shrink-0">
+                    <span class="px-2.5 py-1 rounded-full text-xs font-bold
                         {% if att.score_percentage >= 70 %} bg-emerald-100 text-emerald-700
                         {% elif att.score_percentage >= 50 %} bg-amber-100 text-amber-700
                         {% else %} bg-rose-100 text-rose-700 {% endif %}
                     ">
                         {{ att.score_percentage }}%
                     </span>
-                    <a href="/historico#attempt-{{ att.id }}" class="text-xs text-slate-500 hover:text-slate-800 font-medium">
+                    <a href="/historico#attempt-{{ att.id }}" class="text-xs text-slate-500 hover:text-slate-800 font-medium hidden sm:inline">
                         Detalhes
                     </a>
                 </div>
@@ -208,24 +232,35 @@
         const count = values.length;
 
         document.getElementById('capitulos-input').value = values.join(',');
-        document.getElementById('selected-count').innerText = count;
+        
+        // Update both desktop and mobile count displays
+        document.querySelectorAll('.selected-count-display').forEach(el => {
+            el.innerText = count;
+        });
 
-        const label = document.getElementById('selected-label');
-        const startBtn = document.getElementById('btn-start-simulado');
+        const labelDesktop = document.getElementById('selected-label-desktop');
+        const labelMobile = document.getElementById('selected-label-mobile');
 
         if (count === 0) {
-            label.innerText = 'Nenhum capítulo selecionado';
-            startBtn.disabled = true;
-            startBtn.classList.add('opacity-50', 'cursor-not-allowed');
+            if (labelDesktop) labelDesktop.innerText = 'Nenhum capítulo selecionado';
+            if (labelMobile) labelMobile.innerText = 'Nenhum selecionado';
         } else if (count === 1) {
-            label.innerText = '1 capítulo selecionado';
-            startBtn.disabled = false;
-            startBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+            if (labelDesktop) labelDesktop.innerText = '1 capítulo selecionado';
+            if (labelMobile) labelMobile.innerText = '1 selecionado';
         } else {
-            label.innerText = `${count} capítulos selecionados`;
-            startBtn.disabled = false;
-            startBtn.classList.remove('opacity-50', 'cursor-not-allowed');
+            if (labelDesktop) labelDesktop.innerText = `${count} capítulos selecionados`;
+            if (labelMobile) labelMobile.innerText = `${count} selecionados`;
         }
+
+        const isZero = (count === 0);
+        document.querySelectorAll('.btn-start-simulado').forEach(btn => {
+            btn.disabled = isZero;
+            if (isZero) {
+                btn.classList.add('opacity-50', 'cursor-not-allowed', 'pointer-events-none');
+            } else {
+                btn.classList.remove('opacity-50', 'cursor-not-allowed', 'pointer-events-none');
+            }
+        });
     }
 
     function selectAllActive(select) {
