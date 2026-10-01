@@ -9,30 +9,32 @@
     <div class="bg-gradient-to-br from-slate-900 via-indigo-950 to-brand-900 rounded-3xl p-6 sm:p-10 text-white shadow-xl mb-10 relative overflow-hidden">
         <div class="absolute -right-10 -bottom-10 w-64 h-64 bg-brand-500/10 rounded-full blur-3xl pointer-events-none"></div>
         <div class="relative z-10 max-w-2xl">
-            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-brand-500/20 text-brand-200 border border-brand-400/30 mb-4">
-                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-                Simulado Customizado por Capítulos
-            </span>
-            <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
-                Questionários de Autoavaliação
-            </h1>
+            <!-- IBADEP Brand & Title -->
+            <div class="flex items-center gap-3 sm:gap-4 mb-4">
+                <div class="h-12 sm:h-14 px-3 py-1.5 rounded-2xl bg-white/10 backdrop-blur-md border border-white/15 flex items-center justify-center shadow-inner">
+                    <img src="/assets/ibadep_icon.png" alt="IBADEP" class="h-8 sm:h-10 w-auto object-contain">
+                </div>
+                <div>
+                    <span class="text-xs font-bold uppercase tracking-wider text-brand-300 block">IBADEP • Ensino e Pesquisa</span>
+                    <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-white leading-tight">
+                        Questionário
+                    </h1>
+                </div>
+            </div>
+
             <p class="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
-                Selecione um ou vários capítulos para compor seu simulado. Cada grupo de questões é organizado com cabeçalho discreto e acompanhamento em tempo real das questões respondidas.
+                Autoavaliação baseada no manual oficial <strong>Introdução ao Santo Ministério</strong> (IBADEP), compreendendo os 13 capítulos com estudos sobre a história da igreja, teologia, liturgia, ética ministerial, clínica pastoral e administração eclesiástica.
             </p>
 
-            <!-- Quick Stats -->
-            <div class="grid grid-cols-3 gap-3 sm:gap-6 pt-4 border-t border-white/10 text-center sm:text-left">
+            <!-- Quick Stats: 2 columns (Simulados Feitos and Média Geral) -->
+            <div class="grid grid-cols-2 gap-4 sm:gap-8 pt-6 border-t border-white/10 text-center sm:text-left max-w-sm">
                 <div>
                     <div class="text-2xl sm:text-3xl font-extrabold text-white">{{ stats.total_attempts }}</div>
-                    <div class="text-xs text-slate-400">Simulados Feitos</div>
+                    <div class="text-xs text-slate-400 font-medium mt-0.5">Simulados Feitos</div>
                 </div>
                 <div>
                     <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">{{ stats.avg_score }}%</div>
-                    <div class="text-xs text-slate-400">Média Geral</div>
-                </div>
-                <div>
-                    <div class="text-2xl sm:text-3xl font-extrabold text-white">{{ stats.active_chapters }}/13</div>
-                    <div class="text-xs text-slate-400">Capítulos Prontos</div>
+                    <div class="text-xs text-slate-400 font-medium mt-0.5">Média Geral</div>
                 </div>
             </div>
         </div>

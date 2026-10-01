@@ -596,14 +596,14 @@ def seed():
         chapter_number=13,
         question_number=2,
         question_type="matching",
-        prompt="Relacione a segunda coluna de acordo com a primeira (Planejamento e Liderança Eclesiástica):",
+        prompt="Com base no texto, relacione a segunda coluna de acordo com a primeira (Planejamento e Liderança Eclesiástica):",
         options={
             "column_1": [
-                {"key": "a", "text": "O planejamento estratégico"},
-                {"key": "b", "text": "O planejamento tático"},
-                {"key": "c", "text": "O planejamento operacional"},
-                {"key": "d", "text": "Fases do Planejamento na Igreja (e pessoal)"},
-                {"key": "e", "text": "Rol de Membros"},
+                {"key": "A", "text": "O planejamento estratégico"},
+                {"key": "B", "text": "O planejamento tático"},
+                {"key": "C", "text": "O planejamento operacional"},
+                {"key": "D", "text": "Fases do Planejamento na Igreja (e pessoal)"},
+                {"key": "E", "text": "Rol de Membros"},
             ],
             "column_2": [
                 {"id": 1, "text": "Compreende os recursos específicos. Seu desenvolvimento se dá pelos níveis organizacionais intermediários, tendo como objetivo a utilização eficiente dos recursos disponíveis com projeção em médio prazo."},
@@ -613,14 +613,14 @@ def seed():
                 {"id": 5, "text": "Pode ser um livro à parte ou ser uma seção do Livro da Secretaria."},
             ],
         },
-        correct_answer={"1": "b", "2": "c", "3": "a", "4": "d", "5": "e"},
+        correct_answer={"1": "B", "2": "C", "3": "A", "4": "D", "5": "E"},
         explanation="Níveis do planejamento (estratégico, tático, operacional) e registros da igreja.",
         sub_explanations={
-            "1": "Planejamento Tático: Nível intermediário com projeção em médio prazo.",
-            "2": "Planejamento Operacional: Planos de ação específicos no nível operacional.",
-            "3": "Planejamento Estratégico: Objetivos gerais de longo prazo.",
-            "4": "Fases do Planejamento: Procedimentos, alocação de recursos e controle.",
-            "5": "Rol de Membros: Registro formal dos membros sob a secretaria da igreja.",
+            "1": "B (O planejamento tático): Compreende os recursos específicos e níveis intermediários a médio prazo.",
+            "2": "C (O planejamento operacional): Partes homogêneas e procedimentos específicos nos níveis inferiores.",
+            "3": "A (O planejamento estratégico): Objetivos gerais e estratégias de longo prazo.",
+            "4": "D (Fases do Planejamento): Escolha de procedimentos, alocação de recursos financeiros e controle.",
+            "5": "E (Rol de Membros): Livro próprio ou seção específica do Livro da Secretaria.",
         },
     )
 

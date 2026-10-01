@@ -160,43 +160,55 @@
                         </div>
                         {% endfor %}
                 {% elif q.question_type == 'matching' %}
-                    <div class="space-y-4">
+                    <div class="space-y-5">
                         <!-- Coluna 1 Reference Table -->
-                        <div class="p-4 rounded-xl bg-slate-50 border border-slate-200">
-                            <div class="text-xs font-bold text-slate-500 uppercase tracking-wider mb-2.5">
-                                Coluna 1 (Referência):
+                        <div class="p-4 sm:p-5 rounded-2xl bg-slate-50 border border-slate-200">
+                            <div class="flex items-center justify-between mb-3">
+                                <span class="text-xs font-bold text-slate-600 uppercase tracking-wider">
+                                    Coluna 1 (Referência)
+                                </span>
+                                <span class="text-[11px] text-slate-400 font-medium">
+                                    Itens selecionados ficam destacados em cinza
+                                </span>
                             </div>
-                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-xs text-slate-700">
+                            <div class="grid grid-cols-1 sm:grid-cols-2 gap-2.5 text-xs text-slate-700">
                                 {% for col1 in q.options.column_1 %}
-                                <div class="flex items-start gap-2 p-2 rounded-lg bg-white border border-slate-200/80 shadow-2xs">
-                                    <span class="font-bold text-brand-700 uppercase flex-shrink-0">({{ col1.key }})</span>
-                                    <span class="leading-snug">{{ col1.text }}</span>
+                                <div class="col1-reference-item flex items-start gap-2.5 p-2.5 rounded-xl bg-white border border-slate-200 shadow-2xs transition-all duration-200"
+                                     data-col1-ref="{{ q_id }}_{{ col1.key|lower }}">
+                                    <span class="col1-badge w-6 h-6 rounded-md bg-brand-100 text-brand-700 font-extrabold text-xs flex items-center justify-center uppercase flex-shrink-0 transition-colors">
+                                        {{ col1.key }}
+                                    </span>
+                                    <span class="col1-text text-xs font-medium text-slate-700 leading-snug pt-0.5 transition-colors">
+                                        {{ col1.text }}
+                                    </span>
                                 </div>
                                 {% endfor %}
                             </div>
                         </div>
 
                         <!-- Coluna 2 Association Cards -->
-                        <div class="space-y-3">
-                            <div class="text-xs font-bold text-slate-500 uppercase tracking-wider">
+                        <div class="space-y-3.5">
+                            <div class="text-xs font-bold text-slate-600 uppercase tracking-wider">
                                 Coluna 2 (Associe cada item à letra correspondente da Coluna 1):
                             </div>
                             {% for item in q.options.column_2 %}
-                            <div class="matching-item p-4 rounded-xl border border-slate-200 bg-white" data-matching-id="{{ item.id }}">
+                            <div class="matching-item p-4 sm:p-4.5 rounded-xl border border-slate-200 bg-white transition-all shadow-2xs" 
+                                 data-matching-id="{{ item.id }}">
                                 <div class="text-sm text-slate-800 font-medium mb-3 leading-relaxed">
                                     <span class="font-bold text-xs px-2 py-0.5 rounded bg-slate-100 text-slate-700 mr-2">{{ loop.index }}</span>
                                     {{ item.text }}
                                 </div>
 
                                 <div class="flex flex-wrap items-center gap-2 pt-2 border-t border-slate-100">
-                                    <span class="text-xs font-semibold text-slate-500 mr-1">Corresponde a:</span>
+                                    <span class="text-xs font-semibold text-slate-500 mr-1.5">Corresponde a:</span>
                                     {% for col1 in q.options.column_1 %}
-                                    <label class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg border border-slate-200 hover:border-brand-500 hover:bg-brand-50/50 cursor-pointer text-xs font-bold text-slate-700 transition-colors">
+                                    <label class="matching-pill relative inline-flex items-center justify-center min-w-[2.25rem] h-8 px-2.5 rounded-lg border border-slate-200 hover:border-brand-500 hover:bg-brand-50/50 cursor-pointer text-xs font-bold transition-all select-none has-[:checked]:bg-brand-600 has-[:checked]:text-white has-[:checked]:border-brand-600 has-[:checked]:shadow-sm">
                                         <input type="radio" 
                                                name="{{ q_id }}_{{ item.id }}" 
-                                               value="{{ col1.key }}" 
-                                               class="w-3.5 h-3.5 text-brand-600 focus:ring-brand-500 border-slate-300">
-                                        <span class="uppercase">({{ col1.key }})</span>
+                                               value="{{ col1.key }}"
+                                               onchange="handleMatchingSelection(this)"
+                                               class="sr-only">
+                                        <span class="uppercase tracking-wide">{{ col1.key }}</span>
                                     </label>
                                     {% endfor %}
                                 </div>
@@ -436,7 +448,66 @@
         htmx.trigger('#simulado-form', 'submit');
     }
 
+    function handleMatchingSelection(radio) {
+        const qCard = radio.closest('.question-card');
+        const selectedValue = radio.value.toLowerCase();
+        const currentName = radio.name;
+
+        // If another item in this matching question card already selected this letter, uncheck it!
+        const allRadios = qCard.querySelectorAll('.matching-item input[type="radio"]');
+        allRadios.forEach(r => {
+            if (r.name !== currentName && r.value.toLowerCase() === selectedValue && r.checked) {
+                r.checked = false;
+            }
+        });
+
+        // Update Coluna 1 reference box styling (mark selected options as gray background)
+        updateMatchingReferences(qCard);
+        recalculateProgress();
+    }
+
+    function updateMatchingReferences(qCard) {
+        const qId = qCard.getAttribute('data-question-id');
+        const checkedRadios = qCard.querySelectorAll('.matching-item input[type="radio"]:checked');
+        const chosenValues = new Set(Array.from(checkedRadios).map(r => r.value.toLowerCase()));
+
+        const refItems = qCard.querySelectorAll('[data-col1-ref]');
+        refItems.forEach(ref => {
+            const rawRefKey = ref.getAttribute('data-col1-ref');
+            const refKey = rawRefKey.replace(`${qId}_`, '').toLowerCase();
+            const badge = ref.querySelector('.col1-badge');
+            const text = ref.querySelector('.col1-text');
+
+            if (chosenValues.has(refKey)) {
+                // Fundo cinza / já selecionada
+                ref.classList.add('bg-slate-200/80', 'border-slate-300', 'opacity-60');
+                ref.classList.remove('bg-white', 'border-slate-200');
+                if (badge) {
+                    badge.classList.add('bg-slate-300', 'text-slate-600');
+                    badge.classList.remove('bg-brand-100', 'text-brand-700');
+                }
+                if (text) {
+                    text.classList.add('text-slate-500');
+                    text.classList.remove('text-slate-700');
+                }
+            } else {
+                // Ativo / livre
+                ref.classList.remove('bg-slate-200/80', 'border-slate-300', 'opacity-60');
+                ref.classList.add('bg-white', 'border-slate-200');
+                if (badge) {
+                    badge.classList.remove('bg-slate-300', 'text-slate-600');
+                    badge.classList.add('bg-brand-100', 'text-brand-700');
+                }
+                if (text) {
+                    text.classList.remove('text-slate-500');
+                    text.classList.add('text-slate-700');
+                }
+            }
+        });
+    }
+
     document.addEventListener('DOMContentLoaded', () => {
+        document.querySelectorAll('.question-card[data-question-type="matching"]').forEach(updateMatchingReferences);
         recalculateProgress();
     });
 </script>

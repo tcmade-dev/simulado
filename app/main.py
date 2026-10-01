@@ -40,8 +40,12 @@ app = FastAPI(title="Simulado Santo Ministério", lifespan=lifespan)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 TEMPLATES_DIR = os.path.join(BASE_DIR, "templates")
 STATIC_DIR = os.path.join(BASE_DIR, "static")
+ASSETS_DIR = os.path.abspath(os.path.join(BASE_DIR, "..", "assets"))
 
 os.makedirs(STATIC_DIR, exist_ok=True)
+if os.path.exists(ASSETS_DIR):
+    app.mount("/assets", StaticFiles(directory=ASSETS_DIR), name="assets")
+
 templates = Jinja2Templates(directory=TEMPLATES_DIR)
 
 
