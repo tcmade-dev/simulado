@@ -1,5 +1,4 @@
 # Capítulo 12
-
 Finanças na Igreja e Finanças
 Pessoais
 Neste capítulo veremos:
@@ -7,7 +6,6 @@ Finanças na Igreja
 O Paradigma das Receitas e Despesas
 Documentos usados no departamento financeiro
 Finanças pessoais
-
 Finanças na Igreja
 A igreja não é uma empresa com um sentido mercantilista.
 Na verdade, a igreja é uma comunidade de pessoas envolvidas
@@ -36,7 +34,6 @@ de finanças, por que Deus é o dono de tudo, além do mais, nos
 revestiu de poder, através do batismo com Espírito Santo, para
 que façamos como Jesus Cristo fez e muito mais. Sendo assim,
 as pessoas trarão oferendas a Deus, em forma de gratidão, a tal
-
 ponto, que sempre sobejará. Todavia, tratando o assunto “Igre-
 ja” como organização jurídica perceberemos que começaremos
 a necessitar de recursos financeiros, baseado nas demandas ge-
@@ -69,7 +66,6 @@ Pai na questão do milagre da multiplicação dos pães e peixes.
 Análise da demanda de recursos na segunda multiplicação
 de Jesus:  Demanda do evento = 5.000 homens a serem ali -
 mentados + milagres.
-
 Receitas = 5 pães e 2 peixes, que na sequ ência serão
 multiplicados em uma quantidade suficiente para alimentar
 aquela multidão e ainda sobrar.
@@ -101,7 +97,6 @@ do nível cultural e social de seus frequentadores e membros,
 devem estes ser ensinados a respeito das ordenanças e manda-
 mentos, e ainda estimulados, até que desenvolvam o princípio
 de ofertar e dizimar, em si mesmos.
-
 A Necessidade das Despesas
 Como já vimos, as despesas são geradas pela necessidade de
 demanda. Jesus pregou para 5.000 homens, e eles o seguiam.
@@ -130,7 +125,6 @@ custa ou demora mais do que o necessário para sua implanta-
 ção, por utilizar recursos que estavam destinados a outras eta-
 pas ou pontos do projeto ou ainda que não estavam no projeto
 para serem gastos com este.
-
 O Risco dos Investimentos e Até Onde Investir
 O risco é um termo bastante utilizado para expressar nos -
 sa preocupação com o valor, tempo, credibilidade e apoio que
@@ -155,7 +149,6 @@ bros de sua igreja.
 Atualmente o Pr. José conta com:
 A. 1 (uma) igreja com 100 (cem) membros;
 1   Nome fictício.
-
 B. Receitas em torno de (R$ 10.000,00) sendo (R$ 6.000,00)
 de dízimos e (R$ 4.000,00) de ofertas alçadas;
 C. Despesas na casa de (R$ 8.000,00), sendo composta de (R$
@@ -184,7 +177,6 @@ gráfico que a igreja pode atingir? Dentro do âmbito geral, qual
 é a capacidade ou percentual médio que a igreja pode atingir
 de membros, conhecendo a situações econômica, social, cul -
 tural e geográfica, em que está inserida?
-
 •	 3ª. análise:
 O exercício da fé é de extrema importância para qualquer
 empreitada na obra do Senhor, seja ela física ou espiritual, e
@@ -215,7 +207,6 @@ a tesouraria de igrejas.  Todavia, é preciso compreender que o
 presente manual é apenas um modelo e não um documento
 com carácter definitivo. Sendo o sistema financeiro eclesiásti-
 co um setor dinâmico, este manual pode ser atualizado sem -
-
 pre que seja necessário, na medida em que as desigualdades
 encontradas entre um lugar e outro obrigue a igreja a adotar
 procedimentos diferentes dos que aqui foram definidos, adap-
@@ -247,7 +238,6 @@ bre movimentações de entradas, saídas, pagamentos, bem
 como relatórios que indiquem a posição da tesouraria por
 meio da correta apresentação da dinâmica dos fluxos de in-
 formação.
-
 A tesouraria é responsável pela manutenção do equilíbrio
 econômico e financeiro da igreja local onde está instalada e em
 última análise, do campo eclesiástico como um todo.
@@ -280,7 +270,6 @@ A tesouraria é um dos departamentos oficiais da igreja,
 logo, deve ser administrada com a máxima presteza e respon-
 sabilidade, ainda que este geralmente seja um cargo voluntário
 e não remunerado.
-
 Para isto, o tesoureiro precisa tomar alguns cuidados, pois
 o bom desempenho da administração financeira depende da
 utilização de documentos adequados. Se os documentos apre-
@@ -312,7 +301,6 @@ guintes:
 •	 Administrar a área financeira e patrimonial da igreja jun-
 tamente com o pastor;
 •	 Encarregar-se da escrituração dos livros da tesouraria;
-
 •	 Depositar em instituição financeira semanalmente ou
 conforme previsto no regimento interno da igreja, os re -
 cursos arrecadados pela igreja local;
@@ -341,7 +329,6 @@ Normas e procedimentos – tesouraria geral e local
 •	 Objetivo
 As normas e procedimentos direcionadas a tesoureiros que
 respondam de forma geral por todo o campo, bem como para
-
 tesoureiros locais, tem como objetivo esclarecer qual a con -
 duta adequada mediante cláusulas adotadas para uma melhor
 administração financeira da igreja.
@@ -375,7 +362,6 @@ quanto à sua legalidade e idoneidade.
 derados inidôneos e, portanto, passíveis de serem excluídos
 por uma fiscalização. Documentos que, conforme requisitos
 legais, não apresentem qualidades de forma e de conteúdo exi-
-
 gidos por lei, não devem ser considerados idôneos e, portanto,
 não devem ser aceitos como comprovação de despesas.
 Ao tesoureiro cabe tomar todas as providências para que
@@ -401,7 +387,6 @@ das de dízimos e ofertas ou outras doações realizadas durante
 cada culto.  Estes registros deverão ser datados e assinados,
 sendo seus dados repassados posteriormente para o controle
 de entradas e saídas do período.
-
 •	 Forma de preenchimento
 A. No controle de entradas, primeiramente deve ser lançada
 cada contribuição de dízimo separadamente, discrimi -
@@ -426,28 +411,19 @@ D. Nenhum Livro Caixa deverá ser aceito pelo tesoureiro ge-
 ral (em caso de Administração Centralizada), sem o devi-
 do acompanhamento dos Controles de Entradas que com-
 provarão as entradas registradas no livro caixa;
-
 Ficha para Controle de Entradas Diárias
-
 Ficha para Controle de Entradas Diárias
-
 Nº_______ | ________________, ____ de__________de 20    _
-
 Igreja: ___________________________________________
-
 Logomarca da
 igreja
 Ass. Diácono:______________________________________
-
 Ass. Diácono:______________________________________
-
 Ass. Tesoureiro:____________________________________
 CONTROLE DE ENTRADAS
 Nº
 Histórico Valores
-
 Total
-
 1.2 – Livro Caixa ou Relatório de Registros Financeiros
 A atividade financeira de uma igreja requer acompanha -
 mento permanente de seus resultados para que seu desempe -
@@ -476,15 +452,12 @@ para preenchimento aparecerão n a seguinte ordem:
 bem como lista das despesas (saídas de caixa)
 Segue abaixo modelo usado para de preenchimento do li -
 vro caixa.
-
   Modelo de Livro Caixa ou Relatório de Registros Financeiros
-
 MOVIMENTO DO CAIXA
  Nº
 Igreja: _________________________ Nº _______
 Período: ____ de _________ à ___ de _________ de 20__
 Doc. Nº Histórico Entradas Saídas
-
          Detalhes do Saldo   A Transportar Total do dia R $
 Dinheiro
 R$
@@ -493,7 +466,6 @@ Cheque
 R$
   Saldo Atual R$
           Total R$   Total R$
-
 Resumo  Movimento  Nº:
 Entradas Dízimos: R$
 Ofertas:    R$
@@ -501,13 +473,11 @@ Saídas --------------------      R$
 Saldo --------------------      R$
 Ass. Tesoureiro:__________________________________
 Fone: _____________ Cel:_____________________
-
 Planilha de Excel para Relatório de Registros Financeiros
 Como foi explicado anteriormente, para controle dos re -
 gistros financeiros também poderá ser usada uma planilha in-
 formatizada.  Abaixo temos um modelo simplificado de uma
 Planilha de Excel:
-
 Planilha de Excel para Relatório de Registros Financeiros
 Como foi explic ado anteriormente, para controle dos registros
 financeiros também poderá ser usada uma planilha informatizada.
@@ -517,10 +487,8 @@ IGREJA:  Logomarca da
 igreja PERÍODO DE:
 Seq. Nº Doc. HISTÓRICO DÍZIMOS OFERTA SAÍDAS
  TOTAL DA FOLHA R$
-
 SALDO ANTERIOR R$
 TOTAL R$
-
 TESOUREIRO: ..........................................................
 PASTOR:
 ................................................................
@@ -538,7 +506,6 @@ R$
 SAÍDAS R$
 SALDO  R$
 CONFERENTE:
-
 A Planilha Simplificada para relatórios e registros finan -
 ceiros apresentada anteriormente servirá perfeitamente para a
 organização das entradas bem como para gerenciar as saídas.
@@ -570,7 +537,6 @@ litar a identificação das receitas e despesas mês a mês, sempre
 com a mesma nomenclatura, ou seja, no histórico, todos os
 meses deverão ser descritas de forma previamente acordada,
 1   Rendas recebidas pelos líderes religiosos para os seus sustentos.
-
 tanto as saídas como as entradas.  Não se deve descrever o his-
 tórico a cada mês de um jeito diferente para que não haja dú -
 vidas acerca tanto da origem quanto da destinação dos valores.
@@ -606,7 +572,6 @@ terão validade como dinheiro na prestação de conta do livro
 caixa ou do relatório de registro financeiro se os registros dos
 valores coincidirem com o extrato bancário que comprove a
 existência de tal valor em conta bancária.
-
 1.3 – RECIBOS DE SAÍDAS
 •	 1.3.1 Recibo de auxílio
 Assim como as entradas devem ser controladas e com -
@@ -616,7 +581,6 @@ por meio da apresentação de recibo de auxílio, de quitação de
 conta, ou de recibo de pagamento de outros fins, devidamente
 assinado. Para tanto, segue alguns modelos de recibo poderão
 ser usados para este fim:
-
 Planilha de Excel para Relatório de Registros Financeiros
 Como foi explic ado anteriormente, para controle dos registros
 financeiros também poderá ser usada uma planilha informatizada.
@@ -626,10 +590,8 @@ IGREJA:  Logomarca da
 igreja PERÍODO DE:
 Seq. Nº Doc. HISTÓRICO DÍZIMOS OFERTA SAÍDAS
  TOTAL DA FOLHA R$
-
 SALDO ANTERIOR R$
 TOTAL R$
-
 TESOUREIRO: ..........................................................
 PASTOR:
 ................................................................
@@ -647,7 +609,6 @@ R$
 SAÍDAS R$
 SALDO  R$
 CONFERENTE:
-
 Planilha de Excel para Relatório de Registros Financeiros
 Como foi explic ado anteriormente, para controle dos registros
 financeiros também poderá ser usada uma planilha informatizada.
@@ -657,10 +618,8 @@ IGREJA:  Logomarca da
 igreja PERÍODO DE:
 Seq. Nº Doc. HISTÓRICO DÍZIMOS OFERTA SAÍDAS
  TOTAL DA FOLHA R$
-
 SALDO ANTERIOR R$
 TOTAL R$
-
 TESOUREIRO: ..........................................................
 PASTOR:
 ................................................................
@@ -678,7 +637,6 @@ R$
 SAÍDAS R$
 SALDO  R$
 CONFERENTE:
-
 Planilha de Excel para Relatório de Registros Financeiros
 Como foi explic ado anteriormente, para controle dos registros
 financeiros também poderá ser usada uma planilha informatizada.
@@ -688,10 +646,8 @@ IGREJA:  Logomarca da
 igreja PERÍODO DE:
 Seq. Nº Doc. HISTÓRICO DÍZIMOS OFERTA SAÍDAS
  TOTAL DA FOLHA R$
-
 SALDO ANTERIOR R$
 TOTAL R$
-
 TESOUREIRO: ..........................................................
 PASTOR:
 ................................................................
@@ -709,19 +665,15 @@ R$
 SAÍDAS R$
 SALDO  R$
 CONFERENTE:
-
 1.3.2 – Recibo de Pagamentos
 Este recibo deve ser usado quando a saída for motivada por
 a pagamentos diversos, não caracterizando nenhum tipo de
 auxílio a congregações.
-
 1.3.2 – Recibo de Pagamentos
 Este recibo deve ser usado quando a saída for motivada por a
 pagamentos diversos, não caracterizando nenhum tipo de auxílio a
 congregações.
-
 Logomarca da igreja
-
 RECIBO de PAGAMENTO
 R$ ___________________
 Nº ___________________
@@ -731,13 +683,10 @@ Referente ao PAGAMENTO de:______________________
 ______________________________________________
 Para maior clareza dato e assino o presente.
 ___________________, _____ de __________, de 20___
-
 ____________________________
 Assinatura do recebedor
-
 ______________________________
          Visto do tesoureiro:
-
 1.3.3 – Normas e Procedimentos para Pagamento de
 Côngruas Pastorais
 Côngrua é a remuneração destinada a líderes religiosos em
@@ -771,14 +720,11 @@ mente ao caixa geral do campo. Caso o 10ª dia venha a coinci-
 dir com um final de semana ou feriado, e este dia não for dia
 de expediente na tesouraria, o livro caixa ou relatório finan -
 ceiro Caixa deverá ser entregue no primeiro dia subsequente.
-
 RECIBO DE PAGAMENTO DE
 CÔNGRUAS   -   Nº .............../20.....
-
 Logomarca da  igreja
 IGREJA .......................................................................
 CNPJ............................................................................
-
 Recebi da organização religiosa acima identificada, referente minhas
 côngruas pastorais, a importân cia de R$................................
 (......................................................), conforme discriminado abaixo:
@@ -791,10 +737,8 @@ no INSS
 sob nº ...................................
 II – Reembolso
 extra:................ R$......................
-
 ...................................
  CPF: SUBTOTAL: R$......................
-
 Documento de Identidade Descontos:
 III - IRRF:                 R$.....................
 IV – adiantamento:   R$......................
@@ -804,21 +748,14 @@ Número Órgão
 Emissor
 ............................................. .............
 Localidade
-
 .............................................
 Data
-
 ............. Valor líquido:  R$.....................
-
 _________________________________________
-
 ASSINATURA
-
 ________________________________________
 NOME COMPLETO
-
 RG________________________  CPF____________________
-
 1.3.4 - Auxílios à Dirigentes de
 Congregações e Itinerantes
 1.3.4.1 Auxílios à Dirigentes de Congregações
@@ -843,7 +780,6 @@ dirigente da congregação após este prazo.
 É fundamental que sejam estabelecidos critérios e limites
 de valores a serem pagos a pregadores , sejam estes do pró -
 prio campo ou convidados de outros campos. Para estes pa -
-
 gamentos os dirigentes de congregações deverão considerar a
 distância de sua locomoção até a congregação e então dentro
 dos limites previamente estabelecidos efetuar o repasse. Uma
@@ -878,7 +814,6 @@ das despesas básicas pode-se incluir as seguintes:
 •	 Água/Esgoto
 •	 Gás
 •	 Despesas postais e de comunicação
-
 •	 Reproduções (cópias, impressões, gravações em CDs
 etc.)
 •	 Material de expediente e impressos
@@ -907,7 +842,6 @@ da operação ou prestação;
 ou prestação;
 •	 Não observar as exigências ou requisitos previstos;
 •	 Recibos que contiver declarações inexatas, estiver preen -
-
 chido de forma ilegível ou apresentar emendas ou rasuras
 que lhe prejudiquem a clareza;
 •	 Não se referir a uma efetiva saída de valores ou real pres -
@@ -941,7 +875,6 @@ ja dependem da atenção e cuidado dispensados aos procedi -
 mentos adotados. Logo, é de fundamental importância ter um
 manual onde estejam previstas ao menos as situações básicas
 que poderão ocorrer.
-
 Uma vez que haja um regimento ou manual que contemple
 qual o procedimento para as diversas situações, os obreiros ou
 dirigentes de congregações e sub congregações não poderão,
@@ -972,7 +905,6 @@ ser direcionadas ao caixa central da igreja ou do campo
 eclesiástico.
 b) Ofertas alçadas durante estes eventos não deverão ser re-
 passadas diretamente aos departamentos. Caso seja um
-
 evento geral do campo, a destinação de tais ofertas deve
 ter o aval da tesouraria geral.
 c) O planejamento de custos, acompanhado da respectiva
@@ -1004,7 +936,6 @@ c. A tesouraria dos departamentos tem a função de receber
 os valores, registrar na ficha “Entradas do Departamento” ,
 repassando tanto os valores quanto a ficha que os acompa-
 nha à tesouraria da igreja. As saídas serão lançadas dire -
-
 tamente no caixa da igreja/congregação sendo repassadas
 a tesouraria geral juntamente com a ficha de controle de
 “Entradas do Departamento”;
@@ -1039,7 +970,6 @@ k. As despesas superiores as entradas constantes na ficha de
 “Entradas e Saídas do Departamento” , somente serão qui-
 tadas após deliberação e aprovação da Diretoria;
 l. A liberação de verba referente à dotação orçamentária
-
 para realização de evento estará condicionada à compro -
 vação da utilização dos valores liberados anteriormente, o
 que deverá ser feito através da apresentação de documen-
@@ -1057,21 +987,15 @@ no histórico do registro de Entradas, sendo posteriormen-
 te entregues o registro e os valores ao tesoureiro respon -
 sável pelo Caixa Central. Tais valores serão administrados
 exclusivamente pelo departamento financeiro da igreja.
-
 Modelo de Ficha de Entradas de
 Departamentos da Igreja
-
 Modelo de Ficha de Entradas de Departamentos da Igreja
-
 '
-
  Histórico Entradas
 Total R$
-
 ENTRADAS DO DEPARTAMENTO
 IGREJA/CONGREGAÇÃO:
 DEPARTAMENTO:
-
 Finanças pessoais
 “Todo aquele, pois, que ouve estas minhas palavras e as põe
 em prática, será comparado a um homem prudente, que edifi-
@@ -1095,7 +1019,6 @@ e gerenciar suas finanças.
 O dinheiro representa uma porção de sua energia física e
 mental, transformada em dinheiro, com o qual você pode ad-
 quirir o necessário para o seu sustento.
-
 Segredos de uma Finança Pessoal Bem-Sucedida (Ministro)
 •	 Deus é o nosso Sócio – O bom mordomo (bom adminis -
 trador) faz de Deus seu sócio (Ml 3.10).
@@ -1117,7 +1040,6 @@ Plano de Economia e Investimento
 rança para o futuro.
 •	 Não gaste dinheiro antes de ganhar.
 •	 Não faça extravagância em direções erradas.
-
 O	Que	Comprar?
 •	 Nunca saia de casa para fazer compras, sem saber o que
 vai comprar.
@@ -1142,7 +1064,6 @@ mais barato.
 Como Comprar?
 •	 Não compre a prestação coisas que se desvalorizam.
 •	 Cuidado com o cartão de crédito.
-
 •	 Não exagere nas compras, nem nas prestações.
 •	 Você comprando com sabedoria, não vai se complicar fi -
 nanceiramente.
@@ -1168,51 +1089,9 @@ metas:
 4. Não coloque metas (sonhos/conquistas) que demore
 mais do que 5 anos para alcançar (para não perder o
 foco). Se for algo grande, divida-a em partes.
-
 Dízimo:	uma	questão	de	fé	(Pv.3.9-10)
 A fidelidade no dízimo, é o diferencial na vida do cristão. Ser
 dizimista é ser grato, é reconhecer que tudo pertence a Deus.
 E assim colaboramos com o reino de Deus.
-
-Questionário
-1 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a.  (       )  A igreja é uma comunidade de pessoas envolvidas
-em um sentimento religioso, de busca de satisfação
-da alma.
-b.  (       )  A igreja consegue prever com exatidão seus recur-
-sos porque depende da vontade das pessoas doarem
-estes recursos.
-c.  (       ) A Igreja de Cristo precisa de finanças, embora Deus
-seja o dono de tudo e além do mais, nos revestiu de
-poder, através do batismo com Espírito Santo, para
-que façamos como Jesus Cristo fez e muito mais.
-d. (       )  A segunda multiplicação dos pães e peixes (Jo 6.
-1-13), é um exemplo clássico de administração
-financeira eclesiástica.
-2 – Relacione a segunda coluna de acordo com a primeira
-Coluna 1:
-(a) O tesoureiro
-(b) Livro caixa ou relatório de registros financeiros
-(c) A igreja
-(d) Investimento
-(e) São parâmetros para considerar e analisar os riscos
-
-Coluna 2
-    (        )  A ele incumbe prestar contas dos valores sob sua
-guarda a quem de direito.
-    (        )  Possui missão e objetivos totalmente avessos as
-organizações. (Consequentemente não pode ser
-administrada como um negócio).
-    (        )  É tudo aquilo que compramos ou contratamos no
-caso de serviços para melhorar o nosso projeto,
-para dar melhor estrutura a nossa instituição, equi-
-pamentos, utensílios, eventos e capacitação.
-    (        )  Economia nacional, local, situação social, nível cultu-
-ral e educacional, fatores como clima, região, culturas
-locais, hábitos locais, disposições econômicas.
-    (        )  Trata-se do livro padrão utilizado por todas as igrejas.
-
 ANOTAÇÕES
-
 Anotações

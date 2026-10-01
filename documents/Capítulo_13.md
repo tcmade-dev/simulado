@@ -1,5 +1,4 @@
 # Capítulo 13
-
 Administração Eclesiástica
 Neste capítulo veremos:
 Administração Eclesiástica
@@ -9,7 +8,6 @@ Padrão Bíblico para a Função
 Finanças na Igreja
 Modelo de Estatuto para Solicitação de
 Personalidade Jurídica de uma Igreja Local
-
 Administração eclesiástica, sistemas
 convencionais; estatuto; regimento
 interno e outros documentos
@@ -37,7 +35,6 @@ A administração eclesiástica serve para atender à missão para
 a qual Deus a constituiu. “ A Bíblia está recheada de princípios
 administrativos” . A administração eclesiástica é essencial à
 formação do ministro.
-
 Planejamento
 É a primeira grande função da administração eclesiástica
 enquanto processo de gestão. É uma ferramenta administrativa
@@ -63,7 +60,6 @@ Fases do Planejamento na Igreja
 Determinação de objetivos: estabelecimento de objetivos, fi-
 xação de metas. As metas principais da Igreja já foram determi-
 nadas por Jesus Cristo: Mt 28.18-20; Mc 16.15-18; Lc 24.44-49.
-
 O estabelecimento de objetivos claros, definidos e coerentes.
 1. Escolha de procedimentos – Refere-se ao estabele -
 cimento de como a igreja deve proceder para atingir
@@ -91,7 +87,6 @@ A Administração de uma Igreja
 A articulação do governo de uma igreja local consiste em
 sua organização assim como colocar essa igreja em funciona -
 mento consiste em sua administração.
-
 Alguns autores asseveram que é mais fácil estabelecer uma
 organização do que colocá-la em funcionamento, no entanto,
 a mesma sabedoria que capacita algu ém para constituir uma
@@ -128,7 +123,6 @@ uma cópia fiel do Estatuto a cada membro para se resguardar
 de que, em havendo situação de desligamento, o mesmo venha
 a alegar desconhecimento das normas da associação jurídica
 (igreja) da qual faz parte.
-
 Departamentos e Atividades
 Secretaria
 Embora o Senhor Jesus Cristo soubesse ler e escrever, não
@@ -154,7 +148,6 @@ tenha um só livro em que se anota tudo, porém é mais prá -
 tico ter três ou quatro livros, ou três ou quatro divisões num
 só livro. Este livro (ou estes livros) precisa ser encadernado
 com folhas enumeradas, não um emaranhado de folhas avul -
-
 sas encadernadas. Talvez em cidades modernas seja costume
 agora usar folhas avulsas para digitar tudo, no entanto, deve-se
 conter um cabeçalho com data para que haja continuidade e
@@ -185,7 +178,6 @@ nhão, se acaso pedem carta de transferência ou credencial de
 membro. Os novos sistemas informatizados adotados pelas
 igrejas facilitam em muito o trabalho da secretaria, porém de-
 ve-se ter uma cópia impressa encadernada devidamente assi -
-
 nada sempre a mão para consultas principalmente em reuni -
 ões quando necessário.
 Livro dos Atos
@@ -216,7 +208,6 @@ faz suas anotações com lápis e às carreiras, mas sempre com
 exatidão para poder passar tudo «a limpo» com fidelidade e
 copiar no livro de atas. Tem de constar que a proposição tal
 1   Qualidade do que é verboso, que fala muito ou usa palavras em excesso para expressar-se.
-
 foi proposta, secundada (ou apoiada) e aprovada (ou votada)
 ou rejeitada (ou que perdeu a proposição por falta de maioria
 de votos). Uma vez que uma situação tenha sido proposta e
@@ -253,7 +244,6 @@ tregar-lhe discretamente. O secretário e o pastor devem estu -
 dar as regras parlamentares, para que estejam de acordo sobre
 os procedimentos corretos. É recomendável que o secretário
 escreva na ata um breve resumo dos informes apresentados
-
 pelas comissões (ou comitês) e pelos obreiros. Se o informe
 é muito importante em todas as suas partes, ou se constitui
 uma recomendação ou proposição que requer a consideração
@@ -287,7 +277,6 @@ Ainda que isto seja o mais conveniente para o pastor, é melhor
 que o secretário cuide da correspondência, garantindo-se desta
 maneira que haja pelo menos um membro da congregação que
 possa fazê-Ia, no caso de impedimento do obreiro.
-
 Entre outros, há dois deveres do pastor: ensinar a outros a res-
 ponsabilizar-se na obra do Senhor e compartilhar com eles essa
 responsabilidade. Como há hoje tantas organizações nacionais e
@@ -324,7 +313,6 @@ fone (se o tiver), e talvez os dias e as horas dos cultos principais.
 Não é tão recomendável imprimir os nomes do pastor, secretário
 e demais obreiros, por que então terá que trocar de lembretes por
 ocasião da troca da diretoria. Mas se é igreja grande e com pos-
-
 sibilidade econômica, não é nada mau ter pelo menos os nomes
 do pastor e do secretário. Algumas mandam fazer um carimbo de
 borracha, com o nome e o endereço da igreja, e podem usá-lo nas
@@ -355,7 +343,6 @@ Assinatura do Secretário
 Carimbo da Igreja
 Data____ /____/_____
 Cidade  .............................
-
 A carta de trânsito geralmente deve ser renovada a cada
 ano quando um membro é vendedor viajante ou pessoa que
 costuma estar de viagem. Quando chega uma pessoa à igreja
@@ -385,7 +372,6 @@ Carimbo da Igreja
 1   Assembleia solene; conselho.
 Data____ /____/_____
 Cidade  .............................
-
 Por certo esta classe de carta é concedida somente ao mem-
 bro que se transfira a outra parte e deseje cumprir seu dever,
 unindo-se com uma igreja evangélica da nova cidade. Entre -
@@ -419,7 +405,6 @@ Tendo dito “Dai, pois, a César o que é de César” (Mt 22.21)
 nosso Senhor reconheceu a responsabilidade do cristão como
 cidadão guardador da lei. “Dai o que é de Deus a Deus” , de
 igual modo deixa claro que observando o mesmo princípio do
-
 pagamento de impostos ao governo o crente tem a responsabi-
 lidade inescusável de reconhecer sua obrigação de dar para a
 obra de Deus uma porção de seus proventos.
@@ -456,7 +441,6 @@ tivos ao dízimo ou décima parte de seus proventos ou se têm
 opta por ofertas além do dízimo, é coisa que ele e sua esposa
 devem convir em fazer, de maneira que o possam fazer com
 gosto, alegremente, agradando a Deus.
-
 Outro problema é como fazer para adquirir uma casa, um
 carro ou outra coisa de muito valor, não tendo à mão o di -
 nheiro disponível. Ainda que cada um tenha que decidir estas
@@ -490,7 +474,6 @@ Livros de Caixa com várias colunas, 12, 24 ou 50, etc., com um
 para receita e outro para despesas. Contudo, não deve o tesou-
 reiro de uma igreja pequena utilizar um sistema complicado
 de contabilidade, só porque ele sabe fazê-lo.
-
 O método que se mostrar eficiente é o que basta. Então
 aquele que o suceda no cargo não terá maior dificuldade. Para
 aquele que estudou, ser responsável pelo arquivo dos docu -
@@ -524,7 +507,6 @@ professores e obreiros da Escola Dominical etc. O pastor não
 deve considerar que fazer-se presente a essas reuniões seja um
 privilégio, e sim, um dever. O pastor é o líder de cada departa-
 mento, bem como da igreja em geral.
-
 Seu intuito, ao se fazer presente a essas reuniões, é o de con-
 tribuir com seus conselhos e exercer uma influência benéfica,
 visando a aprimorar o conhecimento dos crentes e a atividade
@@ -558,7 +540,6 @@ ministração diária” , então selecionou o primeiro corpo diaconal
 da história. O registro sagrado sobre essa eleição, o conjunto de
 virtudes requerido, e o modo de proceder, servem de valioso
 precedente que todas as igrejas evangélicas devem seguir. Mais
-
 tarde, com o crescimento e o estabelecimento definitivo da Igre-
 ja, a eleição de diáconos se tornou um procedimento tão regular
 que foi necessário ao Espírito Santo providenciar um modelo ou
@@ -588,7 +569,6 @@ de ter muito dinheiro, ou possuir boa educação, ou então exer-
 cer influência na vida pública, no entanto jamais alguém deve
 ser escolhido à base dessas qualificações e nem rejeitado por
 causa delas.
-
 Padrão Bíblico para a Função
 Se examinarmos os padrões bíblicos (1 Tm 3.8-13) verifica-
 remos que os seguintes fatores são motivos de desqualificação:
@@ -624,7 +604,6 @@ em Atos 6 como em 1 Timóteo 3. Resumindo, são as seguintes:
 conhecer as doutrinas da fé; ser controlado pelo Espírito San-
 to; possuir sabedoria do alto; ser provado por certo período de
 tempo; ser irrepreensível; ter consciência pura; ser homem de
-
 boa fama; ser homem sério; ser marido de uma só mulher; e
 governar bem a sua própria casa.
 Os Presbíteros
@@ -658,7 +637,6 @@ do João escreveu as segunda e terceira epístolas, a si mesmo
 designou de “presbítero” (2 Jo 1; 3 Jo 1).
 Com referência aos presbíteros, em Atos 15.2,4,6,22,23;
 16.4; 20.28; e 21.18, e particularmente nos trechos de Tito
-
 1.5,7, é evidente que os vocábulos “presbítero” (ancião) e “bis-
 po” (supervisor) são sinônimos, e que ambos se referem a ho-
 mens consagrados, a líderes oficiais das igrejas. Parece claro
@@ -695,7 +673,6 @@ responsabilidades, como a tarefa de estabelecer novas igrejas e
 treinar novos presbíteros ou anciãos.
 Mas parece ficar entendido em 1 Timóteo 5.17, onde lemos
 que alguns laboravam na Palavra e no ensino que havia certa
-
 distinção nas fileiras desses presbíteros. Isso indicaria que es -
 ses tinham uma capacidade maior, enquanto que outros eram
 menos capacitados. Alguns, talvez se ocupassem no cuidado
@@ -729,7 +706,6 @@ rito Santo, batizados em água, etc., no ano anterior. Estabele -
 ça-se o número das visitações pastorais. Sejam mencionadas
 as campanhas de reavivamento, de evangelização, os cultos es-
 peciais, os programas de rádio e o trabalho social que porven-
-
 tura tenha sido levado a efeito durante o ano findo. Também
 deve ser dado um relatório sobre a Escola Dominical. Deve-
 se fazer o confronto entre esse relatório e o apresentado no
@@ -760,7 +736,6 @@ Imóveis	e	Equipamentos
 O profeta Ageu instruiu o povo que ouvisse a ordem do
 Senhor: “Subi ao monte, traze e madeira e edificai a casa” (Ag
 1.8). E acrescentou que Deus havia amaldiçoado a colheita do
-
 campo “...por causa da minha casa, que permanece em ruínas,
 ao passo que cada um de vós corre por causa de sua própria
 casa” (1.9). Todavia, quando a casa de Deus ficou terminada,
@@ -797,7 +772,6 @@ o local onde adoramos a Deus. Não é aconselhável investir
 grandes fortunas como fez Salomão, quando existe a urgente
 necessidade de recursos consagrados com que possamos fi -
 nanciar a proclamação do evangelho até às extremidades da
-
 terra. Por outro lado, cumpre-nos procurar sempre a beleza
 nas casas de oração que levantarmos.
 Planejando o Templo
@@ -828,7 +802,6 @@ e que tal número apareça tanto na lista telefônica como nos sa-
 guões de hotéis da cidade. Sempre deve ser fácil aos estranhos
 a localização da igreja para que os interessados saibam onde se
 reunir com os irmãos.
-
 Finanças na Igreja
 As finanças da igreja local são de suma importância. O
 apóstolo Paulo tomava precauções quando levava a contribui-
@@ -864,7 +837,6 @@ um mínimo de uma vez por ano.
 Quanto mais relatórios forem apresentados durante o ano,
 maior será o detalhamento e a transparência e assim evitar-se
 -á a necessidade de relatórios extensos no fim do ano.
-
 O Salário Pastoral
 Quanto ao modo como deve ser remunerado, o método
 a ser usado depende naturalmente da importância numérica
@@ -897,7 +869,6 @@ salário deve ser determinado pela extensão de suas responsa -
 bilidades, guardadas as proporções dentro do ambiente geral
 da vida secular. É reprovável e perigoso, do ponto de vista es-
 piritual, que o pastor seja avarento. É especialmente declarado,
-
 nas exigências relativas às qualidades próprias de um pastor,
 que ele deve ser isento de cobiça de lucro impróprio (1 Tm 3.3
 e 1 Pe 5.2).
@@ -931,7 +902,6 @@ São chamados de convenção, concílio, sínodo e outros.
 No Brasil a CGADB – Convenção Geral das Assembleias de
 Deus no Brasil. No Paraná a CIEADEP – Convenção da Igre-
 jas Evangélicas Assembleias de Deus no Estado do Paraná – é
-
 a instituição convencional magna das Assembleias de Deus no
 Paraná.
 As convenções tanto geral como estaduais e regionais t êm
@@ -964,7 +934,6 @@ fins lucrativos, como no caso das igrejas, convenções e enti -
 dades de outras naturezas, mesmo não tendo empregados re -
 gistrados, deverão possuir obrigatoriamente um estatuto entre
 outros documentos.
-
 Uma vez que a assembleia geral extraordinária tenha apro-
 vado o estatuto, o primeiro passo a ser dado é registrá-lo no
 cartório competente.
@@ -975,7 +944,6 @@ na elaboração do estatuto e seu registro em órgão competente
 resguardam a instituição de situações futuras que venham a
 surgir uma vez que estas estejam previamente contempladas
 nos artigos estatutários.
-
 Modelo de Estatuto para Solicitação de
 Personalidade Jurídica de uma Igreja
 Local
@@ -993,7 +961,6 @@ por escrito, sua vontade para pertencer e sejam acei-
 tos.
 Artigo 4. A Associação não intervirá em atos políticos de
 nenhuma espécie.
-
 Artigo 5 .   Seus fins são:
 a. Levar à prática o melhoramento espiritual, moral
 e cultural de seus membros;
@@ -1012,7 +979,6 @@ Dos Órgãos Diretivos
 Artigo 6. São órgãos de Administração e Direção:
 a. A Assembleia Geral e,
 b. A Junta Administrativa
-
 Da Assembleia Geral
 Artigo 7.     O órgão máximo da Associação é a assembleia Ge-
 ral, que se compõe de todos os associados reunidos
@@ -1043,7 +1009,6 @@ poderá realizar a sessão com qualquer número de
 sócios presentes.
 Artigo 10. A Junta Administrativa está obrigada a convocar
 as reuniões das Assembleias Extraordinárias por
-
 solicitação escrita de pelo menos vinte sócios, in -
 dicando expressamente os motivos que houverem
 para isto.
@@ -1070,7 +1035,6 @@ g. Ditar normas gerais de Administração e as demais
 que não se encontram previstas nos Estatutos e Re-
 gulamentos, para o maior benefício dos interesses
 dos associados.
-
 Da Junta Administrativa
 Artigo 12.  A Junta Administrativa é o organismo executor do
 movimento social e econômico da Associação e es-
@@ -1102,7 +1066,6 @@ h. Resolver, provisoriamente, as dúvidas que se apre-
 sentem sobre disposições do Estatuto e sua aplica-
 ção, com caráter obrigatório, até resolução da As -
 sembleia Geral;
-
 i. Estudar e resolver as propostas que apresentem os
 associados e particulares para a Administração,
 prévio contrato, dos bens pertencentes à Associa -
@@ -1133,7 +1096,6 @@ q. Conhecer as desculpas que apresentarem os mem-
 bros da Junta Administrativa e aceita-las ou rejei -
 ta-Ias, até quando se reúna a Assembleia que os
 nomeou.
-
 Artigo 14.  As resoluções da Diretoria tomar-se-ão por maio -
 ria de votos, a metade mais um.
 Artigo 15.  A Junta Administrativa realizará sessão ordinaria-
@@ -1163,7 +1125,6 @@ pessoas.
 g. Distribuir com o trabalho da Secretaria, verifican -
 do que se encontrem em dia todos os documentos,
 livros, atas, arquivo, ordenado, etc.; e,
-
 h. Fiscalizar para que a Contabilidade, comprovantes
 de receitas, despesas e demais documentos se en -
 contrem completos e em dia.
@@ -1187,7 +1148,6 @@ a pedido da Assembleia Geral ou da Junta admi -
 nistrativa;
 e. Prestar a fiança fixada pela Junta Administrativa;
 f. Assistir pontualmente às sessões.
-
 Do Secretário
 Artigo 20.  Corresponde a este funcionário:
 a. Assistir pontualmente às sessões;
@@ -1208,7 +1168,6 @@ Dos Membros ou Associados
 Artigo 22.  São membros os que atualmente constam nos
 registros e os que posteriormente sejam aceitos,
 face à correspondente solicitação.
-
 Artigo 23.  Corresponde aos membros:
 a. Assistir fielmente às Assembleias e, em geral, a to-
 das as reuniões para as que forem convocados;
@@ -1237,7 +1196,6 @@ e seus membros; e,
 c. Ser considerados pelos associados e organismos,
 em todos os atos públicos e privados, com digni -
 dade e respeito.
-
 •	 Capítulo IV
 Dos Fundos Sociais e Bens da Associação
 Artigo 25.  Os fundos são comuns e especiais:
@@ -1264,7 +1222,6 @@ se adquirir a qualquer título; e
 b. Os móveis e imóveis de qualquer título de trans -
 ferência de domínio que adquira legalmente a As -
 sociação.
-
 •	 Capítulo V
 Dos Serviços Sociais
 Artigo 27 . A Associação estabelece ou estabelecerá os seguin-
@@ -1294,7 +1251,6 @@ Não se incluem nos Estatutos mais detalhes do que exige
 o governo, pois devem expressar-se os propósitos nos termos
 mais amplos. No Regulamento Interno se pode ordenar que os
 membros da Junta Administrativa sejam os anciãos, diáconos
-
 e diaconisas da Igreja, e qualquer outro acerto que requerer o
 caso. Mas nestes dias de grandes mudanças sociais e políticas
 é aconselhável ter tudo legalizado.
@@ -1325,7 +1281,6 @@ determino a sra. Vice-presidente, que apresente o calendário
 que fizemos para que os presentes o conheçam. ” Deve ser re-
 digida assim: “Inicialmente o sr. Manuel de Araújo solicitou à
 Vice-presidente, sra. Maria de Souza, que apresentasse o ca -
-
 lendário elaborado para que os presentes tivessem seu conhe-
 cimento)” .
 Se o relator (secretário) cometer um erro, deve empregar a
@@ -1349,7 +1304,6 @@ nientes da reunião;
 9. Recomendações: Descrição das recomendações prove -
 nientes da reunião;
 10. Distribuição: Pessoas a quem a ata deve ser enviada.
-
 Sistemas de Governo da Igreja
 Sistema Monárquico  – Sistema em que o governo está na mão
 de uma só pessoa (tem uma organização mundial). É o sistema
@@ -1375,7 +1329,6 @@ Sistema Congregacional  – Nesse Sistema o centro da autori-
 dade é a Igreja local. A igreja local tem autonomia, a congrega-
 ção é independente e governa a si mesma. Usam esse sistema
 os batistas, os congregacionais e parte dos luteranos.
-
 Neander, destacado historiador, diz a respeito do período
 primitivo:
 “ As igrejas eram ensinadas a se governarem por si mesmas.
@@ -1399,62 +1352,8 @@ desse século, todas as igrejas continuaram sendo, como no princí-
 pio, independentes umas das outras. Cada igreja era uma espécie
 de pequena república independente, governando-se por suas pró-
 prias leis, baixadas, ou pelo menos sancionadas pelo povo”.
-
-Questionário
-1 - Considerando o texto abaixo, assinale com “X” a alternativa
-correta.
-a. ☐ “ A Bíblia não contém princípios administrativos” .
-b. ☐ O termo administração vem do latim  ad e minister, e
-significa literalmente “sustentar com as mãos” .
-c. ☐ Planejamento é a segunda grande função da adminis -
-tração eclesiástica, processo de gestão.
-2 – Com base no texto abaixo; relacione a segunda coluna de
-acordo com a primeira
-Coluna 1:
-( a ) O planejamento estratégico
-( b ) O planejamento tático
-( c ) O planejamento operacional
-( d ) Fases do Planejamento na Igreja (e pessoal)
-( e ) Rol de Membros
-Coluna 2:
-    (        )   Compreende os recursos específicos. Seu desenvol-
-vimento se dá pelos níveis organizacionais interme-
-diários, tendo como objetivo a utilização eficiente
-dos recursos disponíveis com projeção em médio
-prazo.
-    (        )  Correspondem a um conjunto de partes homogê-
-neas do planejamento tático, ou seja, identifica os
-procedimentos e processos específicos requeridos
-nos níveis inferiores da organização, apresentando
-
-planos de ação ou planos operacionais.
-    (        )  Relaciona-se com objetivos de longo prazo e com
-estratégias e ações para alcançá-los.
-    (        )  Escolha de procedimentos, alocação de recursos
-financeiros, estabelecimento de controle.
-    (        )  Pode ser um livro à parte ou ser uma seção do
-Livro da Secretaria.
-3 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (       )  A maneira como um pastor administra seus pró-
-prios bens não diz respeito ao seu ministério.
-b. (       )  O encargo dos diáconos é uma invenção humana.
-c. (       )  Os presbíteros ou anciãos podem servir em outras
-funções espirituais, até mesmo como responsáveis
-por congregações ou igrejas.
-d. (       )  O Estatuto é um documento fundamental, escrito
-e registrado em cartório. É um conjunto de normas
-que estabelecem a estrutura e organização da insti-
-tuição.
-e. (       )  A ata é um documento auxiliar do Estatuto, nela
-estão contidas regras ou praxes secundarias e terciá-
-rias que a própria igreja estabelece para dar efeito ao
-Estatuto.
-
 ANOTAÇÕES
-
 Anotações
-
 REFERÊNCIAS BIBLIOGRÁFICAS
 Bibliografia
 ARCHER, Gleason. Enciclopédia de Temas Bíblicos (An-
@@ -1484,7 +1383,6 @@ CARSON, D. A. Os Perigos da Interpretação Bíblica. São
 Paulo: Edições Vida Nova, 2001.
 CARV ALHO, Antonio Vieira de. Formação de Recursos
 Humanos da Igreja. São Paulo: Editora Eclesia, 1998.
-
 REFERÊNCIAS BIBLIOGRÁFICAS
 CARV ALHO, Antonio Vieira de. Planejando e Adminis -
 trando as Atividades da Igreja . São Paulo: Editora Exodus,
@@ -1520,7 +1418,6 @@ GILBERTO, Antonio. Manual da Escola Dominical . Rio
 de Janeiro: CPAD, 2002.
 GILBERTO, Antonio e Outros. Teologia Sistemática Pen-
 tecostal. Rio de Janeiro: CPAD, 2008.
-
 REFERÊNCIAS BIBLIOGRÁFICAS
 GONÇALVES, Josué. Edificando a Casa Sobre a Rocha .
 Bragança Paulista: Editora Mensagem Para Todos, 1997.
@@ -1555,7 +1452,6 @@ Magno Dicionário Brasileiro da Língua Portuguesa . Bi-
 rigui: Clipper Distribuidora de Livros Ltda, 1995.
 Manual do Ministro. São Paulo: Editora Vida, 2002.
 MARTINS, Jaziel Guerreiro. Manual de Celebra ções do
-
 REFERÊNCIAS BIBLIOGRÁFICAS
 Ministro. Curitiba: Editora A.D Santos, 2008.
 MARTINS, Jaziel Guerreiro. Manual do Pastor e da Igreja.
@@ -1590,7 +1486,6 @@ STRONG, Augusto Hopkins, Teologia Sistemática. Volu-
 me 1. São Paulo: Hagnos, 2003.
 STRONG, Augusto Hopkins, Teologia Sistemática. Volu-
 me 2. São Paulo: Hagnos, 2003.
-
 REFERÊNCIAS BIBLIOGRÁFICAS
 TULER, Marcos. Manual do Professor . Rio de Janeiro:
 CPAD, 2002.

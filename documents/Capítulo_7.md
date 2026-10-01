@@ -1,5 +1,4 @@
 # Capítulo 7
-
 Ética ministerial
 Neste capítulo veremos:
 O Ministério
@@ -8,7 +7,6 @@ O Ministério no Novo Testamento
 A Ética do Pastor
 O Padrão de Paulo
 Jesus: o Exemplo Divino
-
 O Ministério
 “Cada um administre aos outros o dom como recebeu, com
 bons despenseiros da multiforme graça de Deus” (1Pe 4.10).
@@ -36,7 +34,6 @@ b) Mensageiro – (Ml 2.7) É o responsável em entregar a
 mensagem, tal como recebeu. Não cria suas próprias
 mensagens, ele as recebe de Deus e as transmite ao
 povo. (Sua transmissão deve ser fiel).
-
 c) Atalaia – (Ez 3.17) Era responsável em dar o sinal de
 alerta. Eram vigias. No ministério Deus nos estabele -
 ceu como vigias do rebanho, para que os homens se -
@@ -71,7 +68,6 @@ autênticos trabalhadores carregam as cargas e problemas de
 seu povo, ajudando-o por meio de visitas pastorais, ensino
 nas igrejas, pregações, oração com os enfermos e fracos na fé,
 noites em vigília lendo, meditando, preparando mensagens ou
-
 estudos bíblicos, viajando.
 Ainda poderíamos mencionar outras atividades do obreiro
 como: pescador (Mt 4.19), guia (Rm 2.19), construtor (1Co
@@ -102,7 +98,6 @@ tico (homens que falavam sob impulso do Espírito Santo). O
 Senhor Jesus Cristo preencheu todos os requisitos e exerceu os
 três ministérios: profeta (Dt 18.15; Lc 13.33; At 3.23), sacerdo-
 te (Hb 4.14; 5.6; 9.11) e rei (Zc 9.9; Jo 12.15; 19.14).
-
 O Ministério no Novo Testamento
 •	 (Dons Ministeriais para a Igreja)
 Sacerdote – A função sacerdotal, na dispensação da graça,
@@ -133,7 +128,6 @@ mento dos apóstolos e dos profetas, de que Jesus Cristo é a prin-
 cipal pedra da esquina”. O texto expressa que a igreja deve ser
 edificada sobre o fundamento dos apóstolos. Segundo o texto
 a igreja só poderá ser genuína se for alicerçada na revelação
-
 infalível, inspirada por Cristo aos primeiros apóstolos.
 A Bíblia de Estudo Pentecostal em seu comentário na p á-
 gina 1811 diz:
@@ -165,7 +159,6 @@ vindouro.
 A igreja cabe julgar a mensagem do profeta atual (1Co
 14.29-33; 1Jo 4.1), faz se necessário o ministério do profeta na
 igreja da atualidade (1Co 14.3).
-
 Evangelista: (At 21.8; Ef 4.11; 2Tm 4.5). Dependendo das ati-
 vidades tanto o pastor pode ser auxiliar do evangelista, quanto
 o evangelista pode ser auxiliar do pastor.
@@ -198,7 +191,6 @@ que pensa que a função pastoral é fácil, est á enganado, não
 está bem informado. Ser pastor não é ser dirigente de culto; é
 ser dirigente de vida e transmitir tudo aquilo que o doador da
 vida deseja que os homens recebam.
-
 Hoje é comum, os pregadores se intitularem pastores, sim-
 plesmente porque pregam; ser pastor não é falar bonito, não
 é ser bom orador. O envolvimento com as ovelhas, o cheiro
@@ -232,7 +224,6 @@ te” (presbyteros). Também é traduzida por ancião, mais velho.
 No Antigo Testamento, preenchia os dois sentidos, porque os
 chefes de turma, que eram auxiliares de Moisés, eram homens
 idosos.
-
 Doutores e Mestres: do grego “didaskalo” , s ão aqueles
 dotados de um dom especial de Deus, para esclarecer, expor
 e proclamar a Palavra de Deus, com o objetivo de edificar a
@@ -265,7 +256,6 @@ bom funcionamento do templo. A distribuição da ceia é ma -
 terial; ajudar na ordem do culto, conduzir visitantes, olhar e
 controlar o fluxo de pessoas (crianças) nada disto constitui
 uma atividade espiritual. Contudo, é uma atividade de rele -
-
 vante valor social tanto na igreja, quanto para a sociedade.
 O cargo de diácono é de confiança da igreja local e do pas-
 tor (1Tm 3.13).
@@ -293,7 +283,6 @@ doctrina, cuja forma verbal é docere, “ensinar” .
 O termo no sentido geral, pode referir-se a qualquer tipo
 de ensino. No sentido teológico pode definir-se como as ver -
 dades fundamentais da Bíblia disposta em forma sistemática.
-
 A secularização da palavra traz uma definição mais restrita.
 A doutrina pode ser definida como o conjunto de princípios
 que servem de base a um sistema religioso. E ainda é um con-
@@ -322,7 +311,6 @@ parte do fruto do Espírito.
 do suas relações ministeriais por meio dele; sejam essas rela -
 ções para com seu sucessor, evangelistas, ministros visitantes
 ou outros pastores.
-
 A Ética do Pastor Para Com o Seu Antecessor
 Podemos dizer com certeza que, o pastor deve honrar com
 sinceridade de coração o seu antecessor. Qualquer que seja o
@@ -358,7 +346,6 @@ seu antecessor tinha longo conhecimento da situação e talvez
 estivesse baseado em boas razões para agir como agiu.
 É provável ainda que  alguns membros da igreja, tenham
 participado do planejamento dessas medidas, de maneira que
-
 uma alteração drástica nos métodos anteriores poderá ser en-
 tendida com uma ofensa e refletirá negativamente sobre o pas-
 tor antecessor.
@@ -391,7 +378,6 @@ este receba da melhor forma possível o pastor recém-chegado.
 Caso haja uma recepção em sua honra, e o antigo pastor
 ainda esteja na cidade, de maneira alguma deve este se fazer
 presente à recepção dada àquele, pois isso seria antiético.
-
 Também é ético e igualmente necessário que alguém ao
 retirar-se do pastorado de determinado campo; corte comple-
 tamente as relações com aquele campo.
@@ -426,7 +412,6 @@ cerimônias religiosas. Considerar terminadas as suas relações
 com a antiga igreja o mais rápido possível, cortando os laços
 afetivos que interfiram nas atividades eclesiásticas é de suma
 importância tanto para ele quanto para a igreja que deixou.
-
 O que deve caracterizar a atitude de um pastor para com
 aquele que o sucedeu é a máxima boa vontade. Deve ter sem -
 pre em mente que o sucesso do pastor atual refletirá bem no
@@ -462,7 +447,6 @@ seja essa de casamento ou funeral em campo alheio, deve este
 consultar antecipadamente ao pastor presidente deste campo,
 conferindo-lhe a posição honrosa que lhe é devida, o que deve
 ser aceitável por parte dele e da família envolvida.
-
 Relações entre Pastor e o Evangelista ou Auxiliar
 As relações entre os pastores e os evangelistas ou pastores
 auxiliares responsáveis por campanhas também devem ser
@@ -498,7 +482,6 @@ custeadas adicionalmente, uma vez que este também tem sua
 família para sustentar e estar longe dela acarretará despesas.
 Caso se trate de uma campanha com prolongamento de
 dias, haverá período em que este estará desocupado em razões
-
 de feriados, viagens, cancelamentos de última hora etc. De -
 pendendo este exclusivamente das ofertas, isso lhe diminuirá
 consideravelmente a renda, portanto requer-se que as ofertas
@@ -532,7 +515,6 @@ retribuir com fidelidade.
 Ao usar o púlpito, em suas ministrações, deve-se ter o cui-
 dado para não contradizer de forma consciente alguma opi -
 nião particular eventualmente mantida pelo pastor presidente.
-
 Em todos os grupos eclesiásticos há diversas opiniões
 divergentes sobre determinados assuntos, a respeito dos
 quais não há um pronunciamento oficial da denominação.
@@ -568,7 +550,6 @@ na direção dada e empreender esforços para uma cooperação
 ampla com ele. Será, porém, melhor que permaneça fora de
 certos problemas particulares, desta maneira certamente se
 sentirá mais à vontade em sua pregação.
-
 Terminada a campanha, tendo o evangelista ou pastor iti -
 nerante se afastado da cidade, não deve aceitar convites do
 povo para voltar ao mesmo local com a finalidade de dirigir
@@ -600,7 +581,6 @@ nistro visitante para pregar durante certo período de tempo a
 cerca de algum tema em particular, não deve este ir além do
 tempo determinado, ou alterar o assunto predeterminado sem
 a permissão de quem o convidou a pregar.
-
 A Ética Entre o Pastor e Seus Colegas na Comunidade
 A relação entre um pastor e seus colegas de ministério na
 mesma cidade constitui um importante campo da ética minis-
@@ -636,7 +616,6 @@ que o momento é doloroso para os parentes do morto.
 Que as palavras de conforto sejam o suficiente para dei -
 xar clara a bendita esperança que temos como igreja, bem
 como a certeza do Espírito Consolador em nossos corações.
-
 É próprio da ética que ao desenvolver o ministério no rádio,
 culto público ou outro da mesma natureza, o pregador busque
 ser construtivo e amoroso ao invés de precipitar-se em desferir
@@ -667,7 +646,6 @@ pessoa com a única finalidade de se livrar dele.
 qualquer entre o pastor e os membros da igreja, certifi -
 que-se de que não venha a trair a confiança que lhe foi
 atribuída por estes.
-
 •	 Caso haja uma doação à igreja e o doador deseje permane-
 cer no anonimato, sob nenhuma hipótese o pastor deverá
 revelar sua identidade.
@@ -702,7 +680,6 @@ guma igreja vizinha. Caso seja convidado por algum gru -
 po de outra administração eclesiástica para falar em uma
 de suas reuniões administrativas, certifique-se da anuên -
 cia do pastor dessa igreja antes de aceitar o convite.
-
 •	 Jamais um ministro deve considerar propostas que não ve-
 nha da forma legal e competente para assumir uma igreja,
 principalmente se o pastor da determinada igreja não dei-
@@ -732,7 +709,6 @@ Sua Preparação
 Se considerarmos atentamente a forma como Paulo foi
 preparado para o ministério poderemos destacar as seguintes
 contribuições ministeriais.
-
 Sua conversão ao Senhor foi integral (At 9.5). Ele foi bati -
 zado com o Espírito Santo (At 9.17,18). Recebeu os dons do
 Espírito Santo (2 Co 12.12; 11.5,6; 1 Co 14.18). Teve ainda ou-
@@ -764,7 +740,6 @@ aos gentios até então oculto aos homens, ainda assim, ele se
 dispôs a receber ensinamentos e auxílio de crentes mais expe-
 rientes na fé (At 9.27; 11.25-30; 13.2). Esse é um belo exemplo
 a ser seguido por nós.
-
 Seu Caráter
 O caráter de Paulo deve ser objeto de um estudo bem mais
 extenso. Paulo manteve-se em contato com os céus durante
@@ -797,7 +772,6 @@ de I Timóteo e o 3º Capítulo também escrito a Timóteo, esses
 textos nos informam os acontecimentos prevalentes nos últi -
 mos dias, informa-nos ainda sobre o arrebatamento dos san -
 tos, o aparecimento do homem do pecado e sobre a gloriosa
-
 manifestação de nosso Senhor e Salvador Jesus Cristo.
 É extraordinária a revelação feita por Paulo sobre os dons
 do Espírito e da organização da Igreja como corpo de Cristo
@@ -831,7 +805,6 @@ de, poder, conhecimento e sucesso no trabalho do evangelho
 vivido por Paulo, estava nos sofrimentos pelos quais ele pas -
 sou em defesa da causa de Cristo. Paulo não só reputou a tudo
 quanto possuía como perda, mas foi além; entregou tudo por
-
 seu senhor (Fp 3.7,8).
 Em sua caminhada Paulo padeceu fome, sede, nudez e cas-
 tigo; sua morada era incerta, auto sustentava pelo seu próprio
@@ -864,7 +837,6 @@ Onde estariam, pois, o poder e a eficácia na pregação, o
 exercitar dos dons do Espírito, bem como os sinais sobrena -
 turais e as maravilhas que acompanhavam a vida de Paulo?
 Quem ousará responder?
-
 A Vida de Oração de Paulo
 Embora tenhamos visto muito a respeito de Paulo, isto ainda
 não é tudo sobre este admirável homem de Deus. Observemos,
@@ -898,7 +870,6 @@ administrativo ao governo de várias igrejas. Sua entrega foi
 total ao ministério de maneira que a oração e intercessão pes-
 soal, ocupava uma grande porção de seu caráter e da sua vida,
 sendo um modelo humano de intercessão!
-
 Os Objetivos de Paulo
 Vejamos então quais eram os objetivos que Paulo tinha em
 mente. Certamente havia um alvo em sua vida, não podendo
@@ -934,7 +905,6 @@ Além de esforçar-se por abrir os olhos aos homens adver -
 tindo-os sempre, ele ainda procurava sempre os crentes como
 exemplo de homens perfeitos em Cristo Jesus. Essa era a tarefa
 a qual ele mais se dedicava (Cl 1.28,29; Ef 3.9).
-
 A tática de Paulo desperta interesse dos estudiosos do as -
 sunto. Em suas jornadas missionárias, sempre que entrava em
 cidades ou aldeias ainda desconhecidas por ele, ele sempre
@@ -970,7 +940,6 @@ elemento do glorioso e completo evangelho que ainda hoje
 é confiado a nós. Salvação, cura divina, batismo do Espírito
 Santo e a gloriosa verdade da segunda vinda de Cristo, foram
 métodos usados pelo apóstolo Paulo, que ainda hoje são alta -
-
 mente eficazes na disseminação do evangelho, e que também
 servem de fortalecimento aos convertidos aprimorando suas
 experiências na fé.
@@ -1002,7 +971,6 @@ ração que Jesus Cristo tenha inclinado a cabeça par receber o
 batismo e a unção do precioso Espírito Santo, e isso quando já
 beirava os trinta anos. Tal fato foi uma preparação para o po-
 deroso ministério que estava por iniciar (Lc 3.21-23; At 10.38).
-
 O Pai lhe concedeu o Espírito sem medida, e após estar un-
 gido é que Ele saiu para vencer a Satanás no monte da tenta -
 ção, pregando posteriormente a palavra na sinagoga de Naza-
@@ -1032,7 +1000,6 @@ As instruções emanadas do Pai iluminavam seu caminho,
 e andando Ele na luz, jamais tropeçaria (Jo 11.9,10). Podemos
 então observar que Cristo em todo tempo mantinha uma in -
 timidade vital com o Pai: “Em verdade, em verdade vos digo
-
 que o Filho nada pode fazer de si mesmo, senão somente aquilo
 que vir fazer o Pai; porque tudo o que este fizer, o Filho também
 semelhantemente o faz. Porque o Pai ama o Filho e lhe mostra
@@ -1047,7 +1014,6 @@ a sua vida, mas ainda declarou que assim como Ele vivia nessa
 relação e nós vivemos nEle, em nossa existência como cristãos
 devemos manter o mesmo padrão de relação de dependên -
 cia que Ele manteve.
-
 Sua Maneira Vigorosa de Agir
 Com relação a realidade de sua época, Cristo não hesitou
 em desmascarar a hipocrisia dos religiosos e testificar contra a
@@ -1067,7 +1033,6 @@ cia de que o mundo haveria de odiá-los tanto quanto o havia
 odiado. Durante a caminhada para o calvário, em uma bela
 linguagem figurada, própria da cultura oriental o Senhor Jesus
 declarou: “Porque, se em lenho verde fazem isto, que será do
-
 lenho seco”? (Lc 23.31).
 Falou também aos seus discípulos:
 “Basta ao discípulo ser como o seu mestre, e ao servo como
@@ -1097,26 +1062,3 @@ como diz a Escritura, do seu interior fluirão rios de água viva”
 (Jo 7.38). “...Eu neles e tu em mim, a fim de que sejam aper -
 feiçoados na unidade, para que o mundo conheça que tu me
 enviaste, e os amaste como também amaste a mim” (Jo 17.23).
-
-Questionário
-1 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (       ) A função sacerdotal, na dispensação da graça, com
-relação à igreja, não existe como ministério.
-b. (       ) Dogma: “Parecer eclesiástico daquilo que a Bíblia
-deixa bem claro” .
-c. (       ) A ética ministerial tem sido definida como “ciência
-administrativa” .
-d. (        )  É também de bom alvitre que o novo pastor não
-queira logo que assumir alterar os métodos de
-trabalho do seu antecessor.
-2 - Considerando os textos abaixo, assinale com “X” a alterna-
-tiva correta.
-a. ☐ Quando convidado a pregar em uma reunião de caráter
-interdenominacional, deve sempre que possível tirar
-vantagem denominacional da ocasião.
-b. ☐ Uma das táticas de Paulo era dirigir-se para áreas onde
-o evangelho ainda não havia sido pregado (Rm 15.20,23
-e 2 Co 10.16).
-c. ☐ Os escribas e fariseus se iraram contra Cristo em razão
-de sua franqueza e por isso Ele alterou os seus métodos.

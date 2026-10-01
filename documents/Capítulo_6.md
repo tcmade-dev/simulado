@@ -1,5 +1,4 @@
 # Capítulo 6
-
 Cuidados espirituais, ministeriais,
 pessoais e vida conjugal do
 ministro
@@ -9,7 +8,6 @@ Cuidados Pessoais Do Ministro
 Cuidados ministeriais
 Cuidados ministeriais
 Perfil do Obreiro Aprovado
-
 Introdução:
 Um certo teólogo sabiamente disse: “Deus nunca prometeu
 igreja a pastores, mas pastores à sua igreja” . Esse compromisso
@@ -37,7 +35,6 @@ namente chamado para a seara do Mestre. Evidentemente, não
 se espera um ministro perfeito; mas um obreiro que busca in-
 cessantemente a qualidade espiritual, moral e ministerial para
 não ser censurado pelo seu Senhor.
-
 O Ministro precisa ter:
 Alguns passos que são imprescindíveis na vida do Ministro
 de Deus. Vejamos:
@@ -69,7 +66,6 @@ quanto não tivessem o revestimento espiritual necessário (Lc
 24.47-49).
 1. Andar com Deus – (Uma vida íntima com Deus – comu-
 nhão com Deus). Aprendendo com Deus.
-
 Cuidados espirituais do ministro
 Isso fala da manutenção de uma vida espiritual intensa. De
 seu relacionamento com o Senhor. Vida devocional é absolu-
@@ -97,7 +93,6 @@ uma, duas ou cinco vezes por dia. Os apóstolos em Jerusalém re-
 conheceram a necessidade de os ministros se dedicarem à oração
 e ao ministério da Palavra, e assim procederam, dizendo: “Não é
 razoável que nós deixemos a palavra de Deus e sirvamos às me-
-
 sas. [...] Mas nós perseveraremos na oração e no ministério da
 palavra” (At 6.2-4).
 A Preparação (Estudo)
@@ -120,7 +115,6 @@ Deus. Fé é essencial ao ministro bem-sucedido.
 fundamental valor na vida do ministro, (Lc 21.19).
 5. Perdão –  (Mt 6.15; Ef 4.32). O sentimento perdoador,
 deve existir na vida do ministro.
-
 Cuidados Pessoais Do Ministro
 O obreiro precisa cuidar-se mental e intelectualmente,
 e ainda cuidar-se fisicamente. Vamos ver a seguir algumas
@@ -147,7 +141,6 @@ Uma vida desregrada, leva o ministro a ficar doente, esgo -
 tado, estafado, e não vai desempenhar a contento suas ativida-
 des, ainda poderá não ser compreendido.
 •	 Tire tempo de oração e estudo – deve ter um período para de-
-
 dicar-se a oração. O estudo também é uma atividade de grande
 relevância na vida do ministro. “Procura apresentar-te a Deus
 aprovado, como obreiro que não em de que se envergonhar,
@@ -158,7 +151,6 @@ escola como um dos requisitos complementares a vocação.
 •	 Pontualidade - “Essa deve ser uma das virtudes predile -
 tas” . Pontualidade nos compromissos, nos horários (Mt
 5.37), a palavra deve ser uma só, não tratante.
-
 Cuidados ministeriais
 Charles Swindoll, Chuck Colson e Steve Farrar fizeram vá-
 rias perguntas relacionadas a prestação de contas no ministé -
@@ -185,7 +177,6 @@ evitar, veja:
 •	 Excessivas liberdades desconcertantes;
 •	 Anedotas e risadas excessivas; censuras e críticas rigo-
 rosas;
-
 •	 Liberdade de se movimentar na casa de pessoas visi -
 tadas. (Não fica bem o pastor ao chegar em uma casa,
 ir entrando, indo à cozinha, ou em qualquer parte da
@@ -212,7 +203,6 @@ de Deus para sua vida, nas seguintes condições:
 •	 Ser considerado (1Co 4.1)
 •	 Ser estimado (At 5.13)
 •	 Ser um vaso santificado (2Tm 2.21)
-
 A Vida Conjugal do Ministro
 Estatísticas apresentam que as famílias estão se enfraque -
 cendo no mundo, consequentemente famílias de ministros.
@@ -243,7 +233,6 @@ Funções do Pastor (Obreiro)
 4. Levar os crentes a uma vida espiritual fervorosa; aperfei -
 çoar o caráter humano;
 5. Ter uma vida organizada de forma que seja modelo aos
-
 que o ouvem e o seguem;
 6. Ser um mensageiro do reino de Deus;
 7. Usar o púlpito para ensinar as verdades divinas.
@@ -256,24 +245,3 @@ Obreiros com aptidão para ensinar.
 “Qualidade total ” (2Tm 2.15). Qualidade em nossa vida
 ministerial; em nossa formação ministerial; no crescimento
 espiritual; e no crescimento intelectual.
-
-Questionário
-1 - Assinale com “X” a alternativa correta.  Alguns passos que
-são imprescindíveis na vida do Ministro de Deus. Vejamos:
-a. ☐ Experiência de Salvação, Novo Nascimento, Batismo
-em Águas, Batismo no Espírito Santo, Andar com Deus.
-b. ☐ Experiência com Evangelismo Pessoal, Experiência
-profissional, Andar com pessoas Influentes.
-c. ☐ Experiência com cultos Públicos, Experiência em lidar
-com Novos Convertidos.
- 2 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (       ) São qualidades espirituais esperadas do ministro:
-Amor, Fé, Santidade, Paciência, Perdão.
-b. (       ) Vocação (chamada) é o único requisito para desen-
-volver o ministério.
-c. (       ) A casa (lar/família) do ministro deve ser sua priori-
-dade no ministério.
-d. (       ) Faz parte das funções do Pastor (Obreiro) ter uma
-vida organizada de forma que seja modelo aos que o
-ouvem e o seguem.

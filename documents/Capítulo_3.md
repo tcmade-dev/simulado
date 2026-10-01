@@ -1,5 +1,4 @@
 # Capítulo 3
-
 Homilética
 Neste capítulo veremos:
 Homilética
@@ -7,7 +6,6 @@ Esboços
 Característica de um Pregador
 O Uso das Ilustrações
 Como Desenvolver uma Exegese
-
 Homilética
 Homilética é o estudo de técnicas para preparação e expo-
 sição de sermões (pregação), é a teoria da prédica. Pode ser
@@ -32,7 +30,6 @@ verdade (Jo 8.32) nos ouvintes.
 O Cristianismo passou a usar essa arte como meio de prega-
 ção evangélica com o nome “Oratória Sacra” , que no século XVII
 passou a ser chamada nos meios acadêmicos de homilética.
-
 •	 Termos Ligados a Homilética
 Oratória:  É a arte de falar em público1 de forma elegante,
 precisa, fluente e atrativa.
@@ -60,7 +57,6 @@ analítica e exaustiva).
 1   Muitos pregadores são estudiosos, pesquisadores, inteligentes, de oração, mas falham na hora da
 elegância.
 2   Retórica: vem do grego rethor – orador numa assembleia.
-
 Esboços
 O esboço é o roteiro da mensagem, através do qual tópicos
 e ideias são elaborados para que a estrutura do sermão seja
@@ -84,7 +80,6 @@ lembrar palavras, textos, citar livros, e citações bíblicas.
 2. Habilidade  – Entender as necessidades dos ouvintes.
 3. Inspiração – É a soma de energias para encontrar a me -
 lhor ideia.
-
 4. Criatividade  – Ferramenta humana que possibilita a me-
 lhor elaboração e execução da ideia.
 5. Entusiasmo – É uma espécie de combustível da expressão
@@ -109,7 +104,6 @@ vintes.
 corpo.
 15. Conhecimento – Só deve falar quem tem conhecimento
 do que fala. E ainda deve ter conhecimentos gerais.
-
 •	 Conselhos na Transmissão do Sermão
 1. Module a voz, não grite; a voz deve ser suave nos ouvidos
 do auditório;
@@ -138,7 +132,6 @@ vocar prolixidade que gera tédio e desatenção;
 16. Deve se evitar a monotonia;
 17. Não extrapole o tempo;
 18. Nunca pregue o que não seja a Bíblia Sagrada;
-
 19. Na leitura seja compassado e claro;
 20. Não use o púlpito para contar misérias, temos que mostrar
 como o evangelho é abençoador;
@@ -163,7 +156,6 @@ uma identificação completa com Cristo. Conhecer a Cristo de
 forma especial é além de ser convertido ter certeza de uma
 chamada (missão) específica para o ministério da palavra o
 que só é possível a aquele que “esteve com Jesus” .
-
 Característica de um Pregador
 Sob O Ponto De Vista Espiritual Sob O Ponto De Vista Técnico
 Chamado para obra = Mt 28.19 Dom da palavra = Rm 12.6-8
@@ -190,7 +182,6 @@ ser considerados pelo pregador:
 •	 Usar roupas extravagantes;
 •	 Apertar a mão de todos. (Basta um leve aceno);
 •	 Fazer gestos impróprios;
-
 •	 Usar esboços de outros pregadores, principalmente sem fonte;
 •	 Contar gracejos, anedotas ou usar vocabulário vulgar;
 •	 Evitar desculpas, você começa derrotado (não confundir
@@ -220,7 +211,6 @@ metafóricas como histórias e estórias.
 Experiência Pessoal: Testemunhos. Exemplos: Neste tipo de
 ilustração o pregador relata fatos verídicos que demonstram a atua-
 ção de Deus, através de milagres, em sua vida ou de outras pessoas.
-
 Use no máximo duas ilustrações por sermão. Toda ilustra-
 ção deve ter uma aplicação e devem ser comentadas com sim-
 plicidade e naturalidade.
@@ -242,24 +232,3 @@ etc.).
 9. Organize o texto em seções principal e secundárias.
 10. Resuma com a seguinte frase: “O assunto mais importante
 deste texto é... ” .
-
-Questionário
-1 - Preencha a segunda coluna de acordo com a primeira:
-Coluna 1:
-( a ) São Tipos de Sermão:
-( b ) São termos ligados à Homilética:
-( c ) Classificação dos Sermões quanto ao conteúdo:
-( d )  Um esboço precisa ter:
-Coluna 2:
-     (    ) Oratória, Eloquência, Retórica.
-     (    ) Sermões Doutrinários, Sermões Morais, Sermões
-Históricos, Sermões da Experiência, Sermões Evange-
-lísticos.
-     (    ) Introdução, Desenvolvimento, Conclusão, Apelo.
-     (    ) Sermão Temático, Sermão Textual, Sermão Expositivo.
-2 - Considerando o texto abaixo, assinale com “X” a alternativa
-correta:
-São características de um pregador sob o ponto de vista técnico
-a. ☐ Autoridade/ousadia (Mc 1.21)
-b. ☐ Chamado para obra (ordenança) (Mt 28.19)
-c. ☐ Conhecimento da palavra (2 Tm 2.15)

@@ -1,5 +1,4 @@
 # Capítulo 5
-
 Aconselhamento Pastoral
 &
 Clínica Pastoral
@@ -8,7 +7,6 @@ Definindo Aconselhamento Pastoral
 Visão Básica de Aconselhamento
 Modelos de Clínica Pastoral / Aconselhamento
 Tipos de Distúrbios de Personalidade
-
 Introdução
 Todo ser humano está envolto em problema de alguma or-
 dem. E até os crentes salvos, nascidos de novo, maduros, en -
@@ -38,7 +36,6 @@ lhos de missões, igreja, escola dominical, e onde quer que um
 cristão tenha a oportunidade de mostrar afetuoso amor por
 outras pessoas.
 1   Nome que se dá a uma súmula dos conhecimentos relativos a uma dada área do saber, em forma de livro.
-
 Além disso, o aconselhamento pastoral é um instrumento
 de estudo em que os obreiros devem buscar informações e bi-
 bliografias as quais estão disponíveis para quem deseja estudar
@@ -66,7 +63,6 @@ Fred Mckinney assim define aconselhamento:
 “É um relacionamento interpessoal em que o conselheiro assiste ao
 indivíduo em sua totalidade no processo de ajustar-se melhor consigo
 mesmo e com o ambiente”.
-
 Clyde Narramore também enfatiza a responsabilidade do
 aconselhamento:
 “ Aconselhamento é o uso de várias técnicas para uma pessoa ajudar-
@@ -97,7 +93,6 @@ de ajuda a pessoa precisa. (N ão seja afoito em apresentar
 a solução).
 •	 Demonstrar amor, afeição e ajudar seu semelhante a supe-
 rar suas dificuldades, ser amigo. (Impossível sem primeiro
-
 entender o problema).
 •	 Levar as pessoas com problemas a se abrirem com natu -
 ralidade.
@@ -126,7 +121,6 @@ diretamente as pessoas envolvidas (polícia, empregadores,
 pais, etc.). Não é bom que o conselheiro divulgue as infor-
 mações sem o conhecimento do aconselhado.
 •	 Deve-se abster de dar conselhos médicos ou legais, ou ofe-
-
 recer quaisquer serviços para os quais não esteja treinado
 nem qualificado.
 •	 O aconselhamento deve ser dado de forma que o nome do
@@ -155,7 +149,6 @@ mesma, nem focalizar, nem liberar”.
 Mas, será o amor suficiente?
 Para algumas pessoas e em relação a alguns problemas, o
 amor basta; mas, quanto a outros mais ajuda é necessária.
-
 Há vários anos atrás um famoso psiquiatra infantil escre -
 veu um livro com o t ítulo “O Amor Não é suficiente” (Love
 is Not Enough) e discutiu a importância da disciplina, da es -
@@ -180,7 +173,6 @@ Então entendemos que um pastor com cautela, e submissão
 ao Espírito Santo, mesmo não sendo formado em Psicologia pode
 ter êxito em um aconselhamento. (Não desprezamos a Psicologia
 – pelo contrário, é uma ciência válida e importante).
-
 Os	Quatro	Principais	Problemas
 Existem vários problemas que podem vir ao gabinete pas -
 toral, pois o aconselhamento não se limita a questões categori-
@@ -208,7 +200,6 @@ interferência psiquiátrica).
 cessita de tal interferência.  Não se deve gastar tempo nem
 esforço nesse caso, pois está além da capacidade do acon-
 selhador pastoral.
-
 Modelos de Clínica Pastoral / Aconselhamento
 Segundo Scheneider-Harpprecht, nas igrejas evangélicas
 há quatro modelos de aconselhamento:
@@ -240,7 +231,6 @@ to/Clinica Pastoral.
 partir do ponto de vista da ciência.
 2   Um estudo dos princípios e práticas do cuidado pastoral e diaconal de indivíduos e famílias na igreja de
 Cristo.
-
 Aconselhamento Diretivo –  baseado na tentativa psicanalí -
 tica do estudo da personalidade, e Sigmund Freud é grande -
 mente responsável pelo seu desenvolvimento. (Jung, Adler e
@@ -273,7 +263,6 @@ bilidade.
 •	 O aconselhador encoraja a livre expressão do sentimento,
 por meio de uma atitude amistosa e receptiva.
 •	 O aconselhador aceita, reconhece e esclarece sentimen -
-
 tos negativos indo ao encontro da condição emocional do
 aconselhando e não do conteúdo da conversa.
 •	 Com a liberdade dada pelo aconselhador, o aconselhando
@@ -306,7 +295,6 @@ não seguir necessariamente leis científicas, empiricamente de-
 senvolvidas. Respeita o aconselhando e a si mesmo.
 No aconselhamento diretivo o aconselhador é o fator sig -
 nificativo, no não diretivo é o aconselhando já no aconselha -
-
 mento dimensional é a obra do Espírito Santo.
 No aconselhamento dimensional, não existem padrões, leis
 pré-fixadas, formas prescritas para responder as questões. É o
@@ -339,7 +327,6 @@ nos na área mental, física e/ou da personalidade.
 2. Ansiedades –  Sua essência é o medo. Ansiedade é o pro -
 blema central das neuroses. Inquietação, podendo ser um
 intenso estado de pânico.
-
 3. Obsessão –  Esforço intenso em satisfazer uma ideia ou
 desejo, atos de compulsão. (Por exemplo, compulsão por
 limpeza).
@@ -371,7 +358,6 @@ quisita; a pessoa come com a mão, lambuza-se com as
 próprias fezes. Inclinação a regressão ao estado fetal.
 •	 Personalidade Psicopática –  sentimentalmente va -
 zio; não consegue viver com o resto do mundo; luta
-
 contra a sociedade; não tem capacidade para mudar
 de comportamento; leva uma vida irresponsável, sem
 padrões éticos. Acha que o mundo é responsável por
@@ -385,23 +371,3 @@ necessário que o ministro tenha possibilidades de ajudar essas
 pessoas encaminhando-as aos profissionais qualificados.
 O conselheiro não pode esquecer que o maior e maravilho-
 so conselheiro é Cristo. Sem ele não teremos êxito.
-
-Questionário
-1 - Assinale com “X” a alternativa correta.  São Qualificações
-do Conselheiro:
-a. ☐ Mecanicidade, Introspecção, Manipulação
-b. ☐ Cordialidade, Sinceridade, Empatia
-c. ☐ Ansiedade, Cordialidade, Sinceridade
-2 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (       ) Somente um pastor formado em Psicologia está
-qualificado para aconselhar.
-b. (       ) São Modelos de Clínica Pastoral / Aconselhamento:
-O Fundamentalista,  O Evangelical, O Especialista,
-O Modelo Contextual
-c. (       ) V . James Mannoia, apresenta em sua visão três mo-
-delos de Aconselhamento/Clinica Pastoral: Aconse-
-lhamento Diretivo, Aconselhamento não Diretivo,
-Aconselhamento Dimensional
-d.. (       ) Histeria – É a mais simples e comum forma de
-neurose.

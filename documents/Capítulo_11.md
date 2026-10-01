@@ -1,5 +1,4 @@
 # Capítulo 11
-
 Planejamento estratégico,
 Recursos humanos.
 Neste capítulo veremos:
@@ -7,7 +6,6 @@ Aplicação de uma Gestão Estratégica
 O planejamento estratégico
 Recursos humanos
 Recursos Humanos na Igreja
-
 Planejamento Estratégico – Conceituação
 Planejamento estratégico é processo gerencial que diz res -
 peito a formulação de objetivos para a seleção de programas
@@ -28,7 +26,6 @@ As mudanças causam medo e desconforto, mas para se
 criar uma gestão estratégica dinâmica e eficaz, ela se faz ne -
 cessária. (Entender a necessidade da mudança deve começar
 pelos líderes).
-
 O Planejamento Estratégico
 Maicon Putt, no artigo Planejamento Estratégico nas Igre-
 jas, cita inúmeros benefícios da utilização do planejamento
@@ -56,7 +53,6 @@ estratégico que envolve as seguintes etapas:
 5. Formulação de metas e objetivos
 6. Implementação
 7. Feedback e Controle
-
 Gestão Estratégica:
 •	 A excelência do serviço deve ser dirigida às pessoas; (a
 gestão preocupa-se com o ser humano, buscando me -
@@ -85,7 +81,6 @@ especial ao trabalho com mídia, (rádio, webradio, e webtv, fil-
 magens, internet, site, jornal, revista, informativos etc.). Isso
 com uma superintendência ou uma supervisão geral, confor -
 me o modelo administrativo exigir.
-
 Gestão de Tecnologia
 Com o avanço tecnológico, tem chegado no ambiente ecle-
 siástico, trazendo uma nova perspectiva e dinâmica em nossos
@@ -110,7 +105,6 @@ faz parte do todo de maneira que, como conjunto completo,
 tudo funcione de forma viva, eficaz e harmônica.
 Os	Objetivos	da	Organização	Eclesiástica
 A igreja como organização possui um tríplice propósito.
-
 •	 Propósito	1	-	Amoldar-se	à	natureza	de	Deus.
 Deus caracteriza-se pela ordem com que rege o universo. A
 movimentação dos astros é tão precisa a ponto de possibilitar
@@ -144,7 +138,6 @@ mantendo a unidade, poderá realizar para Deus muito além das
 realizações de uma grande e desorganizada massa de crentes. O
 trabalho para ser feito é grandioso, e a igreja deve se preparar
 para essa realização da maneira mais eficiente possível
-
 • Propósito 3 - Assegurar a probidade1 administrativa.
 Assegurar a probidade administrativa visa evitar que um
 pequeno grupo venha a monopolizar a posse e os privilégios
@@ -174,7 +167,6 @@ Reconhecer um certo n úmero de membros é o primeiro
 passo em direção a tornar a igreja local um organismo vivo.
 Essa é uma das fortes razões para a formulação de um rol de
 1   Integridade.
-
 membros. Existe ainda a necessidade instintiva própria de
 cada crente de pertencer a um lar espiritual. As novas criaturas
 em Cristo, assim como todo ser humano, deseja possuir um
@@ -211,7 +203,6 @@ munhão (1 Co 5.12,13). Neste texto vemos o apóstolo Paulo
 recomendando o desligamento de determinada pessoa do rol
 de membros da congregação de Corinto por comportamentos
 divergentes daqueles previstos pela congregação da qual esta
-
 pessoa fazia parte. Evidentemente para que tal pessoa fosse ti-
 rada dentre os membros, era necessário haver uma relação que
 separasse uns dos outros, uma vez que tal retirada se refere
@@ -248,7 +239,6 @@ tes tenham o direito de voto no controle da propriedade da
 igreja parece elementar.
 De outra forma, supondo-se que a mera presença implicas-
 se em direito ao voto, seria o mesmo que dar a estranhos, ou
-
 aos de rara frequência na igreja e que, portanto, não deveriam
 constar no rol de membros, o direito de controlarem as pro -
 priedades da igreja tanto quanto os membros ativos, fiéis em
@@ -282,7 +272,6 @@ cações de candidatos a membros.
 Regras meramente subtendidas dão ocasião para desenten-
 dimentos. É necessário dispor de um documento bem defini -
 do, imparcial, não influenciável por argumentos e que possa
-
 prestar o veredicto sem problemas de qualquer natureza, sen-
 do este veredicto o adequado a cada questão em debate.
 É, portanto, imperativo que o entendimento sobre o que
@@ -319,7 +308,6 @@ que direito temos nós de aceitá-los na igreja? Que coerência
 haveria nisto?  Da parte de cada candidato deve, pois, haver
 a declaração definida acerca de sua ren úncia ao pecado e as
 coisas do mundo, com plena compreensão deste ponto e um
-
 viver conforme a renúncia assumida.
 Quando afirmamos que nossa doutrina é correta e bíblica,
 e que temos experiência com Deus, estabelecemos como co -
@@ -350,7 +338,6 @@ igual maneira o povo aprecia a vida coerente e santa daqueles
 que fazem vigorosa profissão de fé. Desse modo,  não haverá
 falatórios e os corações se convencerão da realidade dessa ma-
 ravilhosa salvação.
-
 O Presbitério e o Diaconato
 Uma vez aceitos os membros dentro dos padrões supraci -
 tados, o próximo passo a ser dado é a escolha dos presbíteros
@@ -380,7 +367,6 @@ a igreja deve também estabelecer e adotar estatutos aprovados
 pelos seus membros.
 Os estatutos contribuirão para clareza de entendimento
 nas questões a serem tratadas. A existência de algo escrito,
-
 mediante o qual o pastor, o presbitério e os membros possam
 orientar-se, resultará em harmonia e em suave funcionamento
 em todas as atividades da igreja. Os estatutos devem consistir
@@ -409,7 +395,6 @@ planejamento é o segredo para se obter êxito, em qualquer área
 de atividade humana.
 Uma recomendação aos iniciantes: Não façam nada sem
 um planejamento anterior!
-
 Recursos humanos
 Gestão de recursos humanos tem por finalidade selecionar,
 gerir e nortear os colaboradores na direção dos objetivos e me-
@@ -436,7 +421,6 @@ O recurso humano é de fundamental importância para que
 nossas instituições possam cumprir a sua missão com exce -
 lência. Todo planejamento estratégico fica inviável sem o valor
 humano. 
-
 •	 Com base na Bíblia, como é visto recursos humanos na
 igreja?
 A propagação do Evangelho se dá prioritariamente através
@@ -465,7 +449,6 @@ seus membros caminha por entre as teias de relacionamentos,
 tocando as pessoas, promovendo salvação, cura, libertação e
 toda expressão de vida, graça, esperança e promoção da dig -
 nidade humana.
-
 •	 Qual	deve	ser	a	postura	da	igreja	no	gerenciamento	de
 pessoas,	quanto	ao	recrutamento,	seleção	e	manutenção
 do cargo ou função?
@@ -498,7 +481,6 @@ Fazer com que todos entendam a direção e o sentido de
 existência da organização é sem dúvida um dos maiores de -
 safios em liderança e em gestão de pessoas em qualquer lugar
 do mundo.
-
 O processo de gestão de pessoas deve estar ligado à vida da
 igreja como um todo. Igreja é relacionamento, e isto envolve
 todas as nuances de gestão.
@@ -508,41 +490,3 @@ listadas -   não estejam supridas pelas instituições religiosas,
 haverá uma defasagem de recurso humano com o propósito
 de garantir sua existência no mundo, enquanto organismo e
 organização.
-
-Questionário
-1 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (       )  São propósitos da organização eclesiástica: amol-
-dar-se à natureza de Deus, prover o máximo de
-eficiência, assegurar a probidade administrativa.
-b. (       )  A experiência do novo nascimento é imprescindí-
-vel para que alguém se torne membro de uma igreja
-local.
-c. (        )  Constitui-se função primordial do gestor elevar o
-espírito do trabalho voluntário conferindo a ele um
-significado de sacerdócio.
-d. (       )  O processo de treinamento e capacitação para ser
-eficaz e eficiente não precisa ser contínuo. Treina-
-mento pode ser um evento isolado e esporádico.
-2 – Relacione a segunda coluna de acordo com a primeira
-Coluna 1:
-(a) O recurso humano
-(b) O planejamento estratégico
-(c) Gestão de recursos humanos
-(d) As instituições religiosas
-(e) A propagação do Evangelho
-
-Coluna 2:
-    (        )  Tem por finalidade selecionar, gerir e nortear os
-colaboradores na direção dos objetivos e metas da
-empresa.
-    (        )  É de fundamental importância para que nossas
-instituições possam cumprir a sua missão com exce-
-lência.
-    (        )  Se dá prioritariamente através dos relacionamentos.
-    (        )  Define a natureza da igreja, sua missão, visão, valo-
-res e ações.
-    (        )  Devem se valer de pessoas que estejam dispostas e
-que tenham a motivação correta para desenvolver
-funções específicas no que tange a sua natureza e
-missão.

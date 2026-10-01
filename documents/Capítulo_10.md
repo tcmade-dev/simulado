@@ -1,12 +1,10 @@
 # Capítulo 10
-
 A igreja como instituição de ensino
 Neste capítulo veremos:
 A igreja como instituição de ensino
 Exemplos de um Programa Educativo
 O Ministério do Ensino na Igreja Primitiva
 A Importância do Treinamento Para Professores
-
 A igreja como instituição de ensino
 Escola Bíblica Dominical: “a maior ag ência de ensino da
 igreja”! A EBD é o maior núcleo de ensino bíblico do departa-
@@ -38,7 +36,6 @@ gia da EBD é totalmente sem propósito. Talvez seja por isso
 que o percentual de frequentadores ainda seja tão baixo em
 proporção ao número de membros da igreja. Você pode ser o
 agente transformador dessa EBD.
-
 A Igreja Como Escola
 A concepção de igreja como escola é incomum. Em geral,
 consideramos a igreja mais como templo do que como escola.
@@ -71,7 +68,6 @@ sem à total obediência à ordem do Senhor. O Salmo 78.1-8 é
 uma passagem que enfatiza a necessidade da transmissão da
 mensagem divina dos mais velhos para os jovens.  “ ...a fim de
 que a nova geração os conheça, filhos que ainda hão de nascer,
-
 se levantem e por sua vez os referiram aos seus descendentes... ”
 E Salomão também nos lembra em Provérbios 22.6: “Ensina
 a criança no caminho em que deve andar, e ainda quando for
@@ -108,7 +104,6 @@ secular, onde princípios básicos bíblicos servem como meio
 educacional para as classes.
 Da mesma maneira o apóstolo Paulo, tendo completado seu
 treinamento em sua cidade natal Tarso, subiu a Jerusalém a fim
-
 de completar sua educação aos pés de Gamaliel (At 22.3). Isso
 serve como mais um argumento a favor da prática de ensinar os
 jovens da Igreja. Além do ensino religioso, toda igreja que possui
@@ -142,7 +137,6 @@ pregai o evangelho a toda a criatura” (16.15). Mateus diz: “Ide,
 portanto, fazei discípulos de todas as nações... ensinando-os a
 guardar todas as coisas que vos tenho ordenado” (28.19,20).
 Isso faz parte da Grande Comissão.
-
 O Ministério do Ensino na Igreja Primitiva
 É notório que o s primeiros discípulos obedeceram im -
 plicitamente à ordem de ficar em Jerusalém até receberem o
@@ -178,7 +172,6 @@ Senhor proveu dons distintos do Espírito, os quais qualificam
 e equipam aqueles que Ele nomeou como ensinadores na Igre-
 ja. Torna-se claro, portanto, que, no funcionamento da Igreja,
 o Senhor fez da posição e obra do mestre um ministério de
-
 elevadíssima importância. Esse é o padrão a ser seguido por
 qualquer igreja local cheia do Espírito.
 Ser um mestre divinamente ungido equivale a operar sob
@@ -211,7 +204,6 @@ igualmente preparados para exercícios de tais funções devida-
 mente assalariados, com vínculo empregatício ou contratual
 conforme previsto para a instituição de ensino que funcionará
 independente da igreja.
-
 A Importância do Treinamento Para
 Professores
 O pastor não deve pensar que todos os problemas do en -
@@ -239,7 +231,6 @@ ouvintes, no caminho do conhecimento bíblico, que ele faria
 bem em devotar um de seus cultos noturnos nos dias úteis da
 semana exclusivamente para o ensino da Bíblia. Essa instrução
 deve ser bem preparada e precedida de suficiente divulgação.
-
 Servirá de incentivo para aqueles que amam o estudo das
 Escrituras. O pastor poderá usar apostilas impressas, ou man-
 ter uma classe de ensino teológico por meio da aquisição de
@@ -273,7 +264,6 @@ te está comprovada esta tese, e a demonstração desta no dia a
 dia também a comprova. Convém não adiarmos a importan -
 tíssima questão de ensinar a Palavra de Deus aos nossos filhos.
 Em Isaías 28.9 lemos: “ A quem, pois, se ensinaria o conheci-
-
 mento? E a quem se daria a entender o que se ouviu? Acaso aos
 desmamados, e aos que foram afastados dos seios maternos”?
 Essa é a declaração de Deus, de que assim que as crianças são
@@ -310,7 +300,6 @@ o menor temor do Senhor, porém com um conhecimento se -
 cular profundo. Cabe a cada obreiro se apossar também deste
 conhecimento a fim de conhecer os ambientes onde vai im -
 plantar a semente da palavra de Deus.
-
 Deve também o obreiro ter claro em sua mente que, estan-
 do ele capacitado secularmente para introduzir a semente da
 Palavra de Deus nestes ambientes inóspitos ao evangelho, deve
@@ -324,26 +313,3 @@ capacitada para receber aqueles que dentre as fileiras intelec -
 tuais da sociedade p ós-moderna se convença do seu estado
 miserável diante da imensa graça de Deus e busque em nosso
 meio a salvação para sua alma.
-
-Questionário
-1 - Assinale com “X” a alternativa correta.
-a. ☐  O jovem judeu não tinha liberdade de pensar por si
-mesmo, e de tornar-se perfeitamente familiarizado
-com as Escrituras.
-b. ☐  A EBD é o maior núcleo de ensino bíblico, do departa-
-mento de Educação Cristã das igrejas atualmente.
-c. ☐  A igreja é um templo de adoração, mas não deve ser
-um lugar onde são ensinadas as verdades divinas, como
-se fosse uma sala de aula.
-2 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (        )  Crianças judias, desde a tenra idade, frequentavam
-a escola na sinagoga.
-b. (        )  O ministério do ensino não tem lugar na Grande
-Comissão.
-c. (        )  O ministério de mestre está firmemente estabeleci-
-do e se reveste de capital importância.
-d. (        )  Os diversos serviços da igreja local como a Escola
-Dominical, a Escola Bíblica de Obreiros e os cultos
-de ensino durante a semana não servem como seto-
-res de ensino.

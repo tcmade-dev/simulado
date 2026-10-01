@@ -1,0 +1,154 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard - Simulado Santo Ministério{% endblock %}
+
+{% block content %}
+<div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pt-8">
+    
+    <!-- Hero / Welcome Header -->
+    <div class="bg-gradient-to-br from-slate-900 via-indigo-950 to-brand-900 rounded-3xl p-6 sm:p-10 text-white shadow-xl mb-10 relative overflow-hidden">
+        <div class="absolute -right-10 -bottom-10 w-64 h-64 bg-brand-500/10 rounded-full blur-3xl pointer-events-none"></div>
+        <div class="relative z-10 max-w-2xl">
+            <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-semibold bg-brand-500/20 text-brand-200 border border-brand-400/30 mb-4">
+                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                Capítulo 1 Disponível
+            </span>
+            <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
+                Questionários de Autoavaliação
+            </h1>
+            <p class="text-slate-300 text-sm sm:text-base leading-relaxed mb-6">
+                Teste e aprofunde seus conhecimentos teológicos e pastorais. Responda as questões por capítulo e receba a validação imediata com gabarito comentado.
+            </p>
+
+            <!-- Quick Stats -->
+            <div class="grid grid-cols-3 gap-3 sm:gap-6 pt-4 border-t border-white/10 text-center sm:text-left">
+                <div>
+                    <div class="text-2xl sm:text-3xl font-extrabold text-white">{{ stats.total_attempts }}</div>
+                    <div class="text-xs text-slate-400">Simulados Realizados</div>
+                </div>
+                <div>
+                    <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">{{ stats.avg_score }}%</div>
+                    <div class="text-xs text-slate-400">Média Geral</div>
+                </div>
+                <div>
+                    <div class="text-2xl sm:text-3xl font-extrabold text-white">{{ stats.active_chapters }}/13</div>
+                    <div class="text-xs text-slate-400">Capítulos Prontos</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Chapter Grid Section -->
+    <div class="mb-12">
+        <div class="flex items-center justify-between mb-6">
+            <div>
+                <h2 class="text-xl font-bold text-slate-900 tracking-tight">Capítulos do Livro</h2>
+                <p class="text-sm text-slate-500">Selecione um capítulo para iniciar o simulado</p>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+            {% for ch in chapters %}
+                <div class="rounded-2xl border transition-all duration-200 flex flex-col justify-between p-5 relative
+                    {% if ch.is_active %}
+                        bg-white border-brand-200 shadow-sm hover:shadow-md hover:border-brand-300
+                    {% else %}
+                        bg-slate-50 border-slate-200 opacity-75
+                    {% endif %}
+                ">
+                    <div>
+                        <div class="flex items-center justify-between mb-3">
+                            <span class="inline-flex items-center justify-center w-8 h-8 rounded-lg font-bold text-xs
+                                {% if ch.is_active %} bg-brand-100 text-brand-700 {% else %} bg-slate-200 text-slate-500 {% endif %}
+                            ">
+                                {{ ch.number }}
+                            </span>
+
+                            {% if ch.is_active %}
+                                <span class="px-2.5 py-0.5 rounded-full text-xs font-semibold bg-emerald-100 text-emerald-700">
+                                    Disponível
+                                </span>
+                            {% else %}
+                                <span class="px-2 py-0.5 rounded-full text-xs font-medium bg-slate-200 text-slate-600">
+                                    Em extração
+                                </span>
+                            {% endif %}
+                        </div>
+
+                        <h3 class="font-bold text-slate-900 text-base leading-snug mb-2">
+                            {{ ch.title }}
+                        </h3>
+
+                        {% if ch.is_active %}
+                            <div class="flex items-center gap-3 text-xs text-slate-500 mb-4">
+                                <span>{{ ch.question_count }} Questões</span>
+                                <span>•</span>
+                                <span>{{ ch.attempts_count }} tentativas</span>
+                                {% if ch.best_score is not none %}
+                                    <span>•</span>
+                                    <span class="text-emerald-600 font-semibold">Melhor: {{ ch.best_score }}%</span>
+                                {% endif %}
+                            </div>
+                        {% else %}
+                            <p class="text-xs text-slate-400 mb-4">Gabarito e questionário em fase de preparação.</p>
+                        {% endif %}
+                    </div>
+
+                    <div>
+                        {% if ch.is_active %}
+                            <a href="/capitulo/{{ ch.number }}" class="w-full inline-flex items-center justify-center gap-2 px-4 py-2.5 rounded-xl bg-brand-600 hover:bg-brand-700 text-white font-semibold text-sm shadow-sm shadow-brand-500/20 transition-all hover:scale-[1.01]">
+                                <span>Iniciar Simulado</span>
+                                <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
+                                </svg>
+                            </a>
+                        {% else %}
+                            <button disabled class="w-full py-2.5 rounded-xl bg-slate-100 text-slate-400 font-medium text-sm cursor-not-allowed border border-slate-200">
+                                Aguardando extração
+                            </button>
+                        {% endif %}
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <!-- Recent History Section -->
+    {% if recent_attempts %}
+    <div class="border-t border-slate-200 pt-8">
+        <div class="flex items-center justify-between mb-4">
+            <h2 class="text-lg font-bold text-slate-900">Suas Últimas Tentativas</h2>
+            <a href="/historico" class="text-sm font-semibold text-brand-600 hover:text-brand-700">Ver histórico completo &rarr;</a>
+        </div>
+
+        <div class="bg-white rounded-2xl border border-slate-200 divide-y divide-slate-100 shadow-sm overflow-hidden">
+            {% for att in recent_attempts[:5] %}
+            <div class="p-4 sm:px-6 flex items-center justify-between">
+                <div>
+                    <div class="font-semibold text-slate-900 text-sm">
+                        Capítulo {{ att.chapter_number }} - {{ att.chapter_title }}
+                    </div>
+                    <div class="text-xs text-slate-400">
+                        {{ att.created_at }} • {{ att.correct_count }}/{{ att.total_questions }} acertos
+                    </div>
+                </div>
+                <div class="flex items-center gap-3">
+                    <span class="px-3 py-1 rounded-full text-xs font-bold
+                        {% if att.score_percentage >= 70 %} bg-emerald-100 text-emerald-700
+                        {% elif att.score_percentage >= 50 %} bg-amber-100 text-amber-700
+                        {% else %} bg-rose-100 text-rose-700 {% endif %}
+                    ">
+                        {{ att.score_percentage }}%
+                    </span>
+                    <a href="/historico#attempt-{{ att.id }}" class="text-xs text-slate-500 hover:text-slate-800 font-medium">
+                        Detalhes
+                    </a>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+{% endblock %}

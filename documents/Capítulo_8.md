@@ -1,5 +1,4 @@
 # Capítulo 8
-
 Adoração e Liturgia
 Neste capítulo veremos:
 Adoração
@@ -7,7 +6,6 @@ Outras Formas de Adoração
 O Momento da Oferta
 A Prática do Culto
 O Exercício dos Dons Espirituais
-
 Introdução
 Muito temos visto e ouvido em nossos dias sobre a convo-
 cação “Vamos Adorar” . Mas qual o significado de adorar?
@@ -30,7 +28,6 @@ vem em que os verdadeiros adoradores adorarão ao Pai em
 espírito e em verdade, porque o Pai procura a tais que assim o
 adorem, Deus e Espírito e é necessário que os que o adoram o
 adorem em espírito e em verdade (Jo 4.23,24)” .
-
 Igreja, um Lugar de Adoração
 Quase todos os cultos religiosos começam com cânticos,
 em obediência literal ao Salmo 100.2 que diz: “Servi ao Senhor
@@ -63,7 +60,6 @@ ra a igreja tenha o péssimo hábito de apenas assisti-los ao invés
 acompanhá-los em louvor a Deus como vimos anteriormente.
 No entanto, o fato da igreja transferir erroneamente para
 o coral a responsabilidade e privilégio do louvor por meio da
-
 música, não deve levar ninguém a concluir que a existência de
 grupos musicais na igreja é antibíblico, muito pelo contrário.
 A organização do coral do templo promovida por Davi,
@@ -97,7 +93,6 @@ mais frequência em nossos cultos! Nosso Deus tem o direito
 de receber de nós o que há de melhor. Que aqueles que can -
 tam hinos especiais considerem essa oportunidade como uma
 importante e maravilhosa ocasião de representarem a congre-
-
 gação inteira nos louvores a Deus. Uma voz consagrada, le -
 vantada em louvor santo traz satisfação ao coração de Deus,
 bem como inspiração aos crentes que a ouvem. É regra geral
@@ -128,7 +123,6 @@ mente associada a palavras de edificação, exortação e consolo
 (1 Co 14.3), equivalendo as línguas estranhas com sua devida
 interpretação (1 Co 14.5) por se tratar de palavras que serão
 entendidas através da interpretação. Quando o Senhor tomou
-
 o espírito de Moisés e o pôs sobre os setenta anciãos de Israel,
 eles profetizaram.
 Nas narrativas do Antigo Testamento, bem como nas nar-
@@ -162,7 +156,6 @@ danças, rosto no chão, instrumentos musicais e muita alegria.
 Também o fazia por meio da entrega de sacrifícios e ofertando
 suas primícias. Apenas duas condições são estabelecidas para
 a adoração a Deus: “Deus é espírito, e é necessário que os seus
-
 adoradores o adorem em espírito e em verdade”  (Jo 4.24). A
 adoração deve ser genuína (em espírito) e alicerçada na Pala -
 vra de Deus (em verdade).
@@ -196,7 +189,6 @@ Entre as igrejas pentecostais cheias do Espírito Santo, mui-
 to se tem feito nos últimos tempos para recuperar essa arte
 esquecida. Tomando conhecimento da verdade bíblica “...e
 onde está o Espírito do Senhor aí há liberdade” (2 Co 3.17), seus
-
 líderes lhes têm permitido expressar os seus sentimentos de
 forma audível e as vezes até mesmo por meio de demonstra -
 ções físicas. Isto deveria ser considerado como uma restaura -
@@ -232,7 +224,6 @@ amamos, o quanto o adoramos e o louvamos, o quanto esta -
 mos agradecidos por mais uma semana de vitórias; e só então
 esperarmos que Ele pela sua misericórdia, se lhe aprouver, fale
 1   Cediço: parado, estagnado; velho, antigo; sabido de todos.
-
 conosco; isto depois de termos com sinceridade de coração e
 espírito quebrantado nos rendido a Ele com cânticos de louvor
 e adoração, com palavras de gratidão, expressões diversas, lín-
@@ -265,7 +256,6 @@ nome” (Mt 6.9).
 A adoração por meio da oração é uma das mais íntimas
 formas de adoração da qual o homem dispõe. É o momento
 de estreitar seu relacionamento com Deus, expondo-lhe suas
-
 ansiedades e também suas alegrias, louvando-o em reconheci-
 mento pela sua soberania.
 Por meio da oração podemos:
@@ -295,7 +285,6 @@ plica em oração, pedir alguma coisa a Deus.
 Primeiro devemos adorar, e então podemos pedir. Sempre
 devemos ter em mente que Ele galardoa os que O procuram,
 não os que procuram galardões!
-
 Adoração Através da Expressão de Louvor
 Podemos adorar a Deus no momento em que o louvamos
 com nossas palavras, o que não implica necessariamente em
@@ -327,7 +316,6 @@ mos extrair para nossos dias?
 contrição e a sinceridade de coração são pré-requisitos básicos
 para que uma oferta seja aceita. Estando estas características
 presentes, nossas ofertas e d ízimos serão uma genuína forma
-
 de adoração, uma vez que expressarão nosso reconhecimento
 por tudo o que ele nos tem dado. “O sacrifício aceitável a Deus
 é o espírito quebrantado; ao coração quebrantado e contrito não
@@ -360,7 +348,6 @@ desculpas. Seria o mesmo que pedir desculpa aos presentes
 por convidá-los a adorar a Deus. Os crentes devem envolver
 suas ofertas com a dignidade que lhes é atribuída pelo próprio
 Senhor, assim além de desfrutarem do sentimento de verda -
-
 deiramente estarem adorando, os demais presentes entende -
 rão e também sentirão que os dízimos e as ofertas fazem parte
 de sua verdadeira adoração.
@@ -393,7 +380,6 @@ também está envolvido neste processo.
 b. “Deve ser recebido com alegria” . A fisionomia de quem
 vai receber a oferta deve ser de alguém que está prazeroso,
 que tenha um sorriso no rosto, seja cordial, educado.
-
 c. “Deve ser recebido com amor” . Faça-o amorosamente.
 d. “Deve ser recebido com fidelidade” . (1Co 4.2). Momento
 que se deve buscar graça e força suficiente para estar vigi-
@@ -410,7 +396,6 @@ chora; um levanta as mãos e outro as cruza no peito. No en -
 tanto, quando adoram, todos amam, se expressam, oferecem
 sacrifício, se transformam nesse momento íntimo e verdadei-
 ro, pessoal e muitas vezes, coletivo.
-
 Liturgia da adoração
 A adoração como aprendemos é um momento de intensa
 intimidade com Deus, e não precisa ser realizada em conjunto.
@@ -445,7 +430,6 @@ lebração comunitária.
 O Pastor Raimundo de Oliveira no livro “Teologia do
 Obreiro” faz a seguinte consideração sobre este importante
 tema:
-
 “Tanto o sucesso como o insucesso do culto em nossas
 igrejas muito depende da forma como é conduzido. Se é con -
 duzido sob a sabia orientação do Espírito Santo, o rebanho do
@@ -477,7 +461,6 @@ Liturgia compreende uma coleção de formas ritualistas 1
 prescritas procurando levar a pessoa a adoração. Envolve a
 adoração pública e suas formas. Liturgia é a prática do culto,
 1   Ritualista – Grande apego a cerimônias ou fórmulas.
-
 ritual (Rm 6.13; 12.1) e tem raízes absolutamente cristológicas.
 São as cerimônias religiosas estabelecidas no ritual da igreja
 (culto). Celebração religiosa pré-definida, isso de acordo com
@@ -509,7 +492,6 @@ cultos, menos estruturados que aqueles planejados por Lutero
 e Cranmer, foram os precursores dos cultos tradicionais em
 nossos dias.
 1   Paramentos – Vestimentas litúrgicas, peças de ornato ou apropriada a determinada função.
-
 João Calvino (1500-1564) foi o líder da Reforma em Ge -
 nebra e suas considerações quanto ao culto eram que a Santa
 Ceia servia como ferramenta para exortação da igreja e não
@@ -544,7 +526,6 @@ jejuns de orações, e da Ceia do Senhor. A obra ficou esquecida por aproximadam
 tentaram colocar os escritos do Didache na Bíblia, mas devido ser um livro litúrgico, com muito ritual ele foi
 recusado como canônico e inspirado.
 2   Etimologia – Parte da linguística que estuda o étimo (origem) das palavras.
-
 sim que o culto a Deus é central para se compreender o ser
 humano.
 Elementos do Culto
@@ -575,7 +556,6 @@ no decorrer do culto, antes da mensagem. O leitor fará a leitura
 1   Prelúdio – “ Ato ou exercício preliminar; introdução; preâmbulo; prefácio; sinal ou indicio de coisa futura;
 trecho ligeiro que se executa antes do trecho principal; ensaio da voz ou do instrumento antes de cantar ou
 tocar” (O Dicionário Brasileiro Globo).
-
 sozinho ou fará a leitura responsiva. N a opinião de muitos,
 este costume está associado de alguma maneira a formalidade
 que prevalece em algumas denominações, no entanto precisa-
@@ -608,7 +588,6 @@ Oração é um dos atos mais sublimes na prática da adoração a Deus.
 de mim” (Ex 23.15b). No Antigo Testamento, em vários
 momentos, o culto fora realizado em função da oferta. (O
 culto era oferta).
-
 O culto sem oferta é um culto antibíblico (Mc 12.41-44). O
 ato de entregar a nossa oferta na casa de Deus é uma atitude de
 adoração. Representa a nossa gratidão.
@@ -639,7 +618,6 @@ venceram por causa do sangue do Cordeiro e por causa da palavra
 do testemunho que deram... ” (Ap 12.11). E o Senhor Jesus acres-
 centou: “Em verdade, em verdade te digo que nós dizemos o que
 sabemos e testificamos o que temos visto... ” (Jo 3.11).
-
 Muitos são os benefícios que o testemunho público nos
 traz, pois consiste em confissão com os lábios daquilo que
 provém da fé e do coração, segundo Romanos 10.9,10, condu-
@@ -667,7 +645,6 @@ Nas igrejas Assembleias de Deus no Brasil, é de praxe a
 apresentação dos visitantes. Entendemos que é uma maneira
 cordial, afável e calorosa com os que vem em nossos cultos.
 1   Característica de quem é demasiadamente longo e demorado para explicar algo.
-
 a. O encarregado da apresentação precisa ser dinâmico.
 b. Gastar o mínimo de tempo possível.
 c. Ao final da apresentação deve ser manifestada uma cordial
@@ -699,7 +676,6 @@ cipar dos cultos com bom senso e educação. Quem é chamado
 para dar uma saudação, ou um testemunho não deve pregar. O
 tempo na casa do Senhor é precioso; se cada um permanecer em
 seu lugar, tudo corre de forma ordeira”.
-
 Em um culto nos reunimos com a finalidade de louvar,
 adorar e exaltar a Deus, e Ele espera que o façamos. A ideia de
 que o objetivo central do culto é ouvir a voz de Deus, ou con-
@@ -732,7 +708,6 @@ exigiu uma posição do povo que se encontrava indeciso entre
 duas opiniões (1 Rs 18.21), cabe a cada pregador da Palavra
 desafiar os ouvintes a que tomem uma decisão firme ao lado
 do Senhor.
-
 A palavra “altar” , ocasionalmente usada, vem da tradição
 israelita, onde o altar do sacrifício era o lugar em que se ofe -
 recia a vítima, depois de o pecador lhe impor as mãos, trans -
@@ -765,7 +740,6 @@ A visita de Deus ao homem no jardim na viração do dia
 para comunicar-se com Adão e Eva, afim de que estes pudes -
 sem gozar da comunhão com Ele, deixa claro o desejo de Deus
 desde o princípio em habitar entre os homens.
-
 Em outra ocasião, o Senhor também apareceu a Abraão.
 Desta vez depois de participarem de uma refeição no calor do
 dia, Deus revelou-lhe o seu propósito com relação as cidades
@@ -802,7 +776,6 @@ havia lugar para familiaridades e irreverências! Por meio de
 Moisés, Deus repetidamente adverte aos filhos de Israel sobre
 a reverência devida ao seu santuário (Lv 19.30; 26.2).  Deus
 inspira o salmista a declarar: “Deus é sobremodo tremendo na
-
 assembleia dos santos, e temível sobre todos os que o rodeiam”
 (Sl 89.7). Salomão, o pregador, declarou-o da seguinte forma:
 “Guarda teu pé quando entrares na casa de Deus; chegar-se
@@ -836,7 +809,6 @@ Devemos, no entanto, entender que a reação correta contra
 esse formalismo consiste na adoração orientada pelo Espírito
 Santo, sem formalidades inflexíveis, mas também sem atitudes
 extremadas que introduzem o desrespeito e a irreverência na
-
 casa de Deus. Esse é o ponto acerca do qual os adoradores de-
 vem ser particularmente cautelosos. As gargalhadas e conver-
 sas antes do culto, e até mesmo os excessos depois da bênção
@@ -870,7 +842,6 @@ gueis o Espírito. Não desprezeis as profecias” (1 Ts 5.19,20). E
 aos crentes de Corinto escreveu : “... procurai com zelo o dom
 de profetizar, e não proibais o falar em outras línguas. Tudo,
 porém, seja feito com decência e ordem” (1 Co 14.39,40). “ Se-
-
 gui o amor, e procurai com zelo os dons espirituais, mas princi-
 palmente que profetizeis” (1 Co 14.1).  Ainda em nossos dias,
 como em qualquer outra época, faz parte da vontade de Deus
@@ -907,7 +878,6 @@ operação dos dons do Espírito. Um estudo ainda que simples
 de 1 Coríntios capítulos 12, 13 e 14, e a observância cuidadosa
 e séria das regras contidas ali, levará a bela operação dos dons
 que servirão para a glória de Deus.
-
 Decoro no Culto
 O culto é um ofício sagrado permitido a todos. Aqui vamos
 apresentar algumas regras para que todos aproveitem bem o
@@ -940,7 +910,6 @@ nos, trazer a Bíblia e a harpa.
 do templo, o culto já tendo iniciado.
 •	 Evite sentar-se de maneira deselegante.
 •	 Evite mexer-se ou se coçar demais.
-
 •	 Evite cochichos dentro do santuário.
 •	 Se não puderes reprimir a tosse ou espirro, abafa-o com um
 lenço, é feio e anti-higiênico tossir ou espirrar em público.
@@ -972,41 +941,5 @@ em sua casa. Independente de qual seja a forma escolhida pela
 igreja para atender a esta necessidade dentro de suas possibili-
 dades; o importante é que o objetivo visado seja alcançado, ou
 seja, que as pessoas não percam o foco do culto.
-
-Questionário
-1 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a. (        ) Liturgia: A palavra liturgia vem do grego (λειτουργία,)
-significa “serviço” ou “trabalho público” .
-b. (        ) Etimologicamente o significado da palavra culto
-é “a forma mais básica de elogios direcionados a
-alguém”.
-c. (        ) O tempo para uma palavra, deve ser entre cinco (5)
-e dez (10) minutos.
-d. (        ) O ritualismo surge as vezes até em igrejas conheci-
-das pela informalidade, pois consiste na realização
-de cultos mecânicos que possuem sempre o mesmo
-molde.
-2 – Relacione a segunda coluna de acordo com a primeira:
-Coluna 1:
-(a) A Saudação
-(b) Liturgia
-(c) O estilo tradicional de culto
-(d) A pregação
-(e) O apelo
-
-Coluna 2:
-     (    ) É a prática do culto, ritual (Rm 6.13; 12.1); tem raízes
-absolutamente cristológicas.
-     (    ) Surgiu logo após o fim da Idade Média.
-     (    ) É apenas um cumprimento dirigido a igreja. Deve ser
-breve, não devendo passar de cinco (5) minutos
-     (    ) É o principal método pelo qual Deus torna a Sua voz
-conhecida.
-     (    ) O procedimento resume-se em convidar os pecado-
-res a virem à frente, junto ao púlpito, onde cada um
-confessa seus pecados a Cristo.
-
 ANOTAÇÕES
-
 Anotações

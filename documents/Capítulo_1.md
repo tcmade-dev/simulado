@@ -1,12 +1,10 @@
 # Capítulo 1
-
 A igreja evangélica Assembleia de
 Deus e sua missão
 Neste capítulo veremos:
 A Igreja Evangélica Assembleia De Deus E Sua Missão
 Assembleia de Deus Hoje!
 Crescimento da Assembleia de Deus no Brasil
-
 A Igreja Evangélica Assembleia De Deus
 E Sua Missão
 Movimento Pentecostal
@@ -36,7 +34,6 @@ Santo, que capacita o crente a fazer enunciados proféticos em línguas que lhe 
 inicialmente conhecidos como “Niskayuna”. Em 1774, sob a direção de Ann Lu, emigraram da Inglaterra para
 a América e estabeleceram-se em Nova Yorque. Realizavam reuniões diárias que incluíam extraordinários
 fenômenos espirituais, falando em línguas e visões. 
-
 vai de 1906 a 1909.
 Os cultos aconteciam numa igreja Episcopal Metodista
 Africana no centro de Los Angeles, e a relevância desse mo -
@@ -70,7 +67,6 @@ iniciar sua renovação pentecostal. (A Igreja de Deus em Cristo
 e a igreja Santa Unida aceitavam o pentecostalismo, e eram
 1   William Joseph Seymour (Centerville, Louisiana, 2 de Maio de 1870 — 28 de Setembro de 1922) foi um
 pastor estadunidense, iniciador do movimento religioso denominado de Pentecostalismo.
-
 composta predominantemente de negros).
 Depois de 1906, o pentecostalismo rapidamente se disse -
 minou no mundo da época. O pioneiro europeu foi Thomas
@@ -101,7 +97,6 @@ Em 1897, aos 18 anos, foi batizado nas águas na igreja Batista
 em Wraka, Smaland, Suécia. Nessa época, assumiu a direção da
 Escola Dominical de sua igreja, substituindo seu pai.
 1   Sugestões para leitura: “O diário do pioneiro” (Gunnar Vingren); “Enviado por Deus” (Daniel Berg).
-
 Daniel Berg.  Daniel Gustav Högberg nasceu e cresceu na cida-
 de de Vargon na Suécia em 19 de abril de 1884. Os pais de Berg,
 Gustav Verner Högberg e Fedrika Högberg, eram membros da
@@ -137,7 +132,6 @@ ceram três membros que não foram excluídos: Henrique Al -
 buquerque, esposo da irmã Celina; Maria Piedade da Costa,
 esposa de Plácido e Emilia Dias. Além desses foram arrolados
 mais quatro irmãos, cujos os nomes são: Joaquim Silva, Tere-
-
 za Silva de Jesus, Izabel Silva e Benvinda Silva, todos de uma
 mesma família. Foram 18 pessoas ao todo, que reunidos ini -
 ciaram a igreja “Missão de Fé Apostólica” . A igreja Missão de
@@ -171,7 +165,6 @@ assim aos pés de Cristo, e consequentemente levá-los a salva -
 ção, foi que a Assembleia de Deus formou seus primeiros mi-
 nistros do evangelho, pautando seus ministérios na passagem
 de 2Tm 2.15; assim também alcançou e comemorou seus 100
-
 anos de ministério para glória de Deus!
 No Estado do Paraná, a Assembleia de Deus está presente
 desde 1920, e conta hoje com mais de 144 campos eclesiás -
@@ -201,7 +194,6 @@ Nesse momento os líderes entenderam a relevância do estudo
 da Bíblia, e de uma s ólida doutrina para que a igreja estivesse
 protegida das heresias, contribuindo para que os crentes fos -
 sem equipados para a obra do ministério.
-
 Desenvolvimento do Ensino e da Doutrina Pentecostal no
 Brasil
 Através dos missionários Daniel Berg e Gunnar Vingren,
@@ -237,7 +229,6 @@ Também as Escolas Bíblicas contribuíram grandemente na
 formação de obreiros com o fortalecimento de uma doutrina
 mais sólida. (As primeiras escolas tinham duração de 15 dias,
 e algumas até de um mês – os alunos recebiam certificados de
-
 conclusão). Com um corpo docente preparado, ministravam
 matérias bíblicas, teológicas e eclesiásticas, obedecendo um
 currículo.
@@ -271,7 +262,6 @@ procurado cumprir este ideal da igreja. Levando a igreja a edi-
 ficação através da oração, consagração, estudos bíblicos, pre -
 gações, etc. Sem deixar de lado a evangelização, grande comis-
 são de nosso Senhor Jesus Cristo (Mc 16.15).
-
 Assembleia de Deus Hoje!
 De acordo com a estimativa da igreja nos EUA, as Assem -
 bleias de Deus têm ao todo têm 64 milhões de membros espa-
@@ -300,7 +290,6 @@ Posição no Ranking País Número de Membros
 6 Gana 1,7
 7 Moçambique 1,6
                                   Fonte: Assembleia de Deus / EUA. Estimativas de 2009
-
 Crescimento da Assembleia de Deus no Brasil
 Os telejornais, revistas e outros órgãos de imprensa têm
 divulgado que “a última pesquisa apontou um crescimento
@@ -329,7 +318,6 @@ elevação dos aglomerados urbanos, drástica redução da popula-
 que essa “modernização” trouxe consigo, vejam que interessante,
 a demanda pela TRADIÇÃO E PELA ORDEM. O que quero
 dizer com isso? Se os brasileiros que se deslocaram do campo
-
 para as cidades perderam seus vínculos originais com a família,
 tendem, deixados à própria sorte, a se tornar zumbis nas peri-
 ferias. Isso os leva a buscar uma força que os agregue e que os
@@ -358,7 +346,6 @@ Altíssimo não sai por aí recompensando quem faz muita boba-
 gem com sua conta bancária. Também não costuma resolver os
 problemas que estão afeitos à medicina. A força desse tipo de
 discurso é limitada”.
-
 Veja abaixo o texto de Cecília Ritto para a VEJA Online
 sobre o crescimento da Igreja:
 “ A preservação da família é um dos motivos que, segundo
@@ -389,7 +376,6 @@ nhas de Jeová, e outros)
 Protestante: Todas as religiões que derivaram do movimen-
 to que protestava contra as práticas da Igreja Católica Romana,
 com relação a forma e prática cristã desenvolvida por esta.
-
 Evangélicos: Todas as Igrejas que detém três características
 básicas, as quais são: Consideram a Bíblia como a palavra de
 Deus, autoritativa e infalível; são conservadores no culto e nos
@@ -402,35 +388,5 @@ de Atos capítulo 2. A Assembleia de Deus está na categoria dos
 pentecostais. Pois é fruto da primeira onda do pentecostalis -
 mo no Brasil.
 Crentes: aqueles que creem, aqueles que professam alguma fé.
-
-Questionário
-•	 Assinale com “X” a alternativa correta.
-1 - Os pentecostais foram caracterizados por cinco valores im-
-plícitos:
-a. ☐ Jesus Salva, Cura, Batiza com Espírito Santo e Breve
-Voltará.
-b. ☐ A experiência pessoal, A comunicação oral, A esponta-
-neidade, O repúdio ao mundanismo, A autoridade das
-Escrituras Sagradas.
-c. ☐ O amor ao próximo, A autoridade das Escrituras Sa -
-gradas, A popularidade, O batismo no Espírito Santo,
-O avivamento.
-2 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.  Em relação a Igreja Evangélica Assembleia
-de Deus é correto afirmar que:
-a . (       ) Igreja Evangélica Assembleia de Deus, nasceu em
-1911, na data de 18 de junho, (com o nome de “Mis-
-são de Fé Apostólica).
-b . (       ) No Estado do Paraná, está presente desde 1920, e
-conta hoje com mais de 150 campos eclesiásticos.
-c . (       ) Gunnar de Vingren não era um pastor de formação
-teológica.
-d . (       ) A igreja Missão de Fé Apostólica, passou a se cha-
-mar Assembleia de Deus em 11 de janeiro de 1918,
-quando Gunnar Vingren registrou o estatuto da
-igreja no cartório de Registro de Títulos e Docu-
-mentos do 1 oficio, em Belém.
-
 ANOTAÇÕES
-
 Anotações

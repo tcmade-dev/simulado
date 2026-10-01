@@ -1,5 +1,4 @@
 # Capítulo 2
-
 Teologia
 Neste capítulo veremos:
 O que é Teologia
@@ -12,7 +11,6 @@ Eclesiologia (Doutrina da Igreja)
 Pneumatologia (Doutrina do Espírito Santo)
 Angelologia (Doutrina dos Anjos)
 Escatologia (Doutrina das Últimas Coisas)
-
 O	que	é	Teologia
 Esse termo vem do grego Theos que significa Deus e logia
 que significa Estudo. Portanto, Teologia significa Estudo acer-
@@ -37,7 +35,6 @@ volvem. E assim como a ordem na qual os fatos da natureza são
 organizados não pode ser determinada arbitrariamente, senão
 pela natureza dos fatos propriamente ditos, e o mesmo se dá com
 os fatos da Bíblia”.
-
 Classificação	da	Teologia
 1. T eologia Exegética: exegese vem do grego, e significa “Sa-
 car, extrair a verdade” .
@@ -64,7 +61,6 @@ de forma sistemática.
 Teologia Sistemática é o estudo das doutrinas Bíblicas de
 uma forma racional, organizada sistematicamente. Os estudos
 são agrupados em tópicos.
-
 Fontes da Teologia Sistemática
 1. Bíblia Sagrada (Jo 5.39; Sl 19.7-11)
 2. Mundo físico e cósmico (Sl 19.1-6)
@@ -95,7 +91,6 @@ Toda a Bíblia traz Deus como conteúdo principal, isso posto
 precisaríamos de muito tempo e espaço para discorrer acerca
 de Deus. Detalhe: não encontramos na Bíblia textos tentando
 provar a existência de Deus, pois ela parte do pressuposto que
-
 Deus existe. Para estudarmos acerca de Deus temos que pri -
 meiro crer que Ele existe, pois, a Bíblia já inicia da ideia de que
 Deus realmente existe.
@@ -120,7 +115,6 @@ Elah Adonai El-Shadai
 •	 Atributos Naturais de Deus
 Vida, Espírito, Eterno, Imutável, Sábio, Onisciência, Oni -
 potência, Onipresença.
-
 •	 Atributos Morais de Deus
 Veracidade, Bondade, Fidelidade, Conselho, Santidade,
 Amoroso, Gracioso, Misericordioso, Justo.
@@ -148,7 +142,6 @@ Os autores da Bíblia, eram de profissões e atividades dife -
 rentes, morando em regiões distantes, e em épocas e condições
 diferentes, contudo encontramos uma harmonia profunda e
 perfeita, provando que a Bíblia é de revelação divina.
-
 •	 Cristo é o tema central da Bíblia.
 A Bíblia foi escrita em duas línguas principais: hebraico e
 grego, com porções de aramaico. Todo o Antigo Testamento
@@ -177,7 +170,6 @@ São também chamados de “devocionais” .
 4. Livros Proféticos – (São 17 livros de Isaias a Malaquias)
 essa parte tem duas subdivisões, profetas maiores (de Isaias
 a Daniel) e profetas menores (de Oseias a Malaquias).
-
 Divisões do Novo Testamento
 1. Evangelhos – também chamados de biografia, são os 4
 evangelhos, que relatam a vida terrena de Jesus Cristo. Os
@@ -208,7 +200,6 @@ sem qualquer exceção, foram igualmente inspirados por Deus.
 Verbal: o Espírito Santo guiou os autores não somente quanto às
 ideias, mas também quanto as palavras dos mistérios e concer-
 tos do Altíssimo (2Tm 3.16)”.
-
 “ A inspiração plenária e verbal, todavia, não eliminou a participação
 dos autores humanos na produção da Bíblia. Pelo contrário: foram eles
 usados de acordo com seus traços personais, experiências e estilos literá-
@@ -238,7 +229,6 @@ a sua própria gloria. Na análise da independência divina, observamos
 que Deus se refere aos seus filhos e filhas das extremidades da terra como
 aqueles que criei para minha gl ória (Is 43.7; cf. Ef 1.11,12). Portanto,
 devemos fazer ‘tudo para glória de Deus’ (1Co 10.31)”.
-
 Hamartiologia (Doutrina do Pecado)
 Harmatiologia é a doutrina do pecado. A palavra pecado
 vem do grego Hamartia: termo que vem de uma raiz que sig -
@@ -269,7 +259,6 @@ Os evangelhos traçam uma biografia de Cristo.
 Jesus é o cumprimento de muitas das profecias do Antigo
 Testamento e o autor dos ensinos do Novo Testamento (Ap
 13.8; 19.11-16).
-
 Interessante notar, que muito foi escrito sobre Jesus, mas
 Jesus nada escreveu.
 Jesus é o grego do hebraico Y ehoshua que significa Jeová
@@ -299,7 +288,6 @@ divina. É o sustentáculo que carrega a maior parte do peso, sem o qual
 a estrutura jamais poderia ter sido completada. Podemos compará-la
 também ao eixo em torno do qual gira toda a atividade de Deus na
 revelação”.
-
 Eclesiologia (Doutrina da Igreja)
 Vem do grego Ekklesia, que significa: “chamados para fora”
 para constituir um agrupamento de pessoas compromissadas
@@ -326,7 +314,6 @@ sua vontade progride a cada geração. Logo, a doutrina da igre-
 ja trata de questões de importância fundamental para o nosso
 comportamento cristão individual e a correta compreensão da
 dimensão corpórea da vida e ministério cristão”.
-
 Pneumatologia (Doutrina do Espírito Santo)
 Pneuma, vem do grego que significa “respiração, vida” , mas
 o significado que mais se aproxima do original é “cheio de ven-
@@ -354,7 +341,6 @@ e é o tratado acerca dos anjos. Doutrina dos seres angelicais.
 Os anjos foram criados por Deus, por isso não são eternos
 (Cl 1.16). E segundo as Sagradas Escrituras são uma ordem
 de seres sobrenaturais ou celestiais, cuja atividade é adorar a
-
 Deus e também servirem como mensageiros de Deus a favor
 do povo salvo (Hb 1.13,14).
 Outros termos para designar seres angelicais são: anjos, ar-
@@ -387,34 +373,9 @@ Ciro Sanches Zibordi, comentando sobre escatologia em
 e sim dogmática e biblicocêntrica. Afinal, renunciar a autoridade bí -
 blica para exercitar o raciocínio a bel-prazer, com o intuito de formular
 teorias quanto ao futuro baseadas em passagens interpretadas isolada-
-
 mente, é o mesmo que “forçar” a Palavra de Deus a dizer o que não diz...
 [...] O “estudo das últimas coisas” (escatologia) só tem relevância escri-
 turística quando se harmoniza plenamente com o conteúdo das páginas
 sagradas.
 Se isso não ocorre, decorre a teologia especulativa, da qual muitos se
 valem para chegar lugar nenhum”.
-
-Questionário
-1 - Assinale com “X” a alternativa correta.  A Teologia se clas-
-sifica de 4 maneiras, a saber:
-a. ☐ Teologia Filosófica, Teologia Elementar, Teologia Bíbli-
-ca e Teologia Pentecostal.
-b. ☐ Teologia Exegética, Teologia Bíblica, Teologia Histórica
-e Teologia Dogmática.
-c. ☐ Teologia Exegética, Teologia Hermenêutica, Teologia
-Escatológica, Teologia Histórica.
-2 - Marque “V” para as alternativas verdadeiras e “F” para as
-alternativas falsas.
-a . (       ) Em Gênesis 1.1 encontramos 7 doutrinas relaciona-
-das com a pessoa de Deus, a saber: A Existência de
-Deus, A Eternidade de Deus, O Poder de Deus, A
-Soberania de Deus, A Vontade de Deus, A Sabedo-
-ria de Deus, A Providência de Deus
-b . (       ) A Bíblia é dividida em duas partes: Antigo e Novo
-Testamento. Possui: 65 livros, sendo 38 no Antigo
-Testamento, e 27 no Novo Testamento.
-c . (       ) Hamartiologia é a Doutrina da Salvação.
-d . (       ) No Estudo do Espírito Santo há a Paracletologia: o
-termo Paracletologia vem do grego Paracleto (Ad-
-vogado, Consolador, Ajudador).

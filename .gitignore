@@ -40,3 +40,8 @@ ENV/
 
 # Output test docs
 *.docx
+
+# SQLite databases
+*.db
+*.sqlite3
+data/

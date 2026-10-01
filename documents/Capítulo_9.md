@@ -1,5 +1,4 @@
 # Capítulo 9
-
 Cerimônias e Celebrações
 Neste capítulo veremos:
 Cerimônias e celebrações
@@ -7,7 +6,6 @@ Recepção de Novos Membros
 Culto de Ações de Graças
 Batismo Em Águas
 Unção Com Óleo
-
 Cerimônias e celebrações
 Talvez seja um tanto difícil para um pregador não litúrgico
 do evangelho efetuar cerimônias eclesiásticas. No entanto, as ce-
@@ -35,7 +33,6 @@ espera-se que todos os ministros saibam conduzir as diversas
 cerimônias eclesiásticas com dignidade e decoro, contando ao
 mesmo tempo com a presença e as bênçãos do Senhor nessas
 ocasiões.
-
 Recepção de Novos Membros
 Por ocasião da recepção de membros na igreja, subentende-se
 que os candidatos já tenham sido examinados e tenham se declara-
@@ -71,7 +68,6 @@ desta igreja, e lhes recebemos fraternalmente à comunhão, no
 precioso nome de Jesus” . Então o pastor e os demais que estive-
 rem participando juntamente com ele do cerimonial apertarão
 a mão de cada candidato (agora membro) parabenizando-os.
-
 Culto de Ações de Graças
 É um culto especial, de agradecimento pelas bênçãos re -
 cebidas, e o ato de dividir esta alegria com os demais possui
@@ -102,7 +98,6 @@ apresentarem na ocasião.
 cia um representante da turma usa a palavra como orador.
 •	 A colação de grau é feita pelo presidente (diretor) da enti-
 dade. Isso pode ser precedido ou at é mesmo após o com-
-
 promisso dos formandos.
 •	 A palavra do Paraninfo da turma vem logo após.
 •	 Em seguida as entrega de certificados aos formandos. Ho-
@@ -129,7 +124,6 @@ com os demais repetindo após ele. O mesmo deve ser fei -
 to com o braço direito estendido na altura dos ombros e
 permanecendo assim até que o juramento seja concluído
 pela turma.
-
 f. Bíblia – Um dos formandos deverá entrar com a Bíblia.
 g. Cântico – Deve-se designar alguém que cante um louvor
 em nome da turma.
@@ -157,7 +151,6 @@ m. Juramento
 n. Entrega dos Certificados
 o. Colação de Grau: Representante da Instituição de Ensino
 p. Homenagem aos Professores / Diretoria da Instituição de
-
 Ensino / Honra ao Mérito
 q. Opcionalmente homenagear os alunos com as melhores
 notas
@@ -183,7 +176,6 @@ volvendo minhas funções, com humildade e responsabilidade,
 respeitando o ministério da Igreja e agindo com voluntarieda-
 de e amor.
 1   Ilustríssimos.
-
 Prometo dispor-me completamente, a serviço da Igreja do
 Senhor, estabelecendo, como prioridade, em minha vida e em
 meu ministério, cumprir sem restrições o “IDE” do Senhor Je-
@@ -216,7 +208,6 @@ heterogênea com a mensagem de esperança e salvação de nosso
 Senhor e Salvador Jesus Cristo”.
 Deve o obreiro se preparar emocionalmente para a realização
 da cerimônia fúnebre. O pastor deve buscar informações com a
-
 família sobre os bons testemunhos deixados pelo falecido.
 •	 Pedir autorização a família para iniciar o culto.
 •	 A cerimônia não deve ser demorada.
@@ -248,7 +239,6 @@ Mas nós esperamos a ressurreição universal do último dia, quando
 a igreja de Cristo será arrebatada, e os mortos em Cristo ressuscitarão
 primeiro, na segunda vinda do Senhor, cheio de poder e majestade.
 1   Caixão; caixa mortuária na qual é colocado o cadáver a ser enterrado.
-
 A terra e o mar entregarão seus mortos, e os corpos corrup-
 tíveis dos que dormiram nele serão transformados e tornados
 semelhantes ao glorioso corpo de Cristo, conforme a poderosa
@@ -275,7 +265,6 @@ a. Quem confessa Jesus Cristo como salvador;
 b. Quem se arrepende dos seus pecados;
 c. Quem voluntariamente resolve seguir Cristo até o fim (At
 22.16).
-
 O ministro deverá certificar-se que os candidatos com -
 preendem bem o ato e que tenham realmente experimenta -
 do o novo nascimento. Discipulados preparatórios com os
@@ -305,7 +294,6 @@ O oficiante, dentro d’agua recebe o candidato, e o orienta
 quanto a posição correta das mãos: colocará sua mão direita
 ou esquerda sobre as mãos do batizando e a outra levantará,
 perguntando:
-
 ] “Irmão (a), crê que Jesus é o Salvador e Senhor de sua vida”?
 “Promete ser fiel a ele durante toda a sua vida”?
 “Promete obedecer a Palavra de Deus sem reservas”?
@@ -331,7 +319,6 @@ se reúnem em torno do memorial: a morte de Cristo.
 Não deve ser uma cerimônia realizada às pressas, pois é um
 ato solene, de caráter estritamente espiritual, dirigida exclusi-
 vamente aos crentes.
-
 A celebração da Ceia do Senhor deve ser um momento em
 que o ministro aja de forma calma e reverente. A presença do
 Espírito Santo em todo o transcorrer desta cerimônia solene e
@@ -367,7 +354,6 @@ ciante pode solicitar aos participantes que estes se coloquem
 de pé para uma melhor identificação pelos diáconos na hora
 da distribuição. Distribuído o pão, o oficiante se dirigirá a
 todos e perguntará se todos participaram. Há diferença de
-
 costumes: existem lugares nos quais o pão é comido na hora
 da distribuição, outros já aguardam todos pegarem, então co-
 mem todos juntos.
@@ -400,7 +386,6 @@ brações do Ministro” , orienta o que fazer quando pessoas que
 não são da Igreja trazem as crianças para serem apresentadas:
 “Há alguns pastores que se negam visceralmente a apresenta-
 rem tais crianças. Entretanto, em Lucas 18.16 Jesus diz: “Deixai
-
 vir a mim as crianças, e não as impeçais, pois das tais é o Reino de
 Deus”. É fundamental que não impeçamos aqueles que se aproxi-
 mam do Reino de Deus; devemos sempre estar dispostos a pedir a
@@ -433,7 +418,6 @@ novamente nas mãos do Senhor que lhos confiou. Ao fazerem
 assim, reconhecem e ratificam publicamente a responsabilidade
 que têm de criá-los no temor e admoestação do Senhor, no cami-
 nho da retidão e piedade. ”
-
 Deve, pois, dirigir-se o pastor aos pais nos seguintes termos:
 “ À vista de Deus e na presença de todas estas testemunhas os
 irmãos prometem solenemente criar seus filhos no temor e na
@@ -463,7 +447,6 @@ não é costume de a igreja batizar crianças.
 •	 E o pastor levantando a criança (ou apenas deixando-a em
 seus braços), fará uma oração específica, afim de clamar a
 Deus a favor da criança e dos pais.
-
 •	 Segue-se as fotos.
 •	 Pastor entrega a criança a mãe, parabenizando-a, e tam -
 bém o pai e acompanhantes.
@@ -492,7 +475,6 @@ Chrio – do grego e significa ungir, aparece cinco vezes (Lc
 4.18, citando Is 61.1; At 4.27; 10.38; 2Co 1.21; Hb 1.9, citando
 Sl 45.7); mas o termo Christos – que significa ungido, aparece
 por mais de quinhentas vezes desde Mt 1.1 a Ap 22.21.
-
 Vamos Ver Diretamente a Unção Com Óleo
 No Antigo Testamento encontramos unção de coisas (Gn
 28.18; Ex 30.22-33; 40.9-11; Lv 8.10). Também de pessoas,
@@ -520,34 +502,3 @@ a enfermidade. É de costume ungir a testa do enfermo
 apenas... isso é prudente.
 •	 Ungir não é benzer.
 •	 O óleo não é para beber.
-
-Questionário
-1 - Preencha a segunda coluna de acordo com a primeira
-Coluna 1:
-( a ) Cerimônias
-( b ) Culto de Ações de Graças
-( c ) Cerimônia Fúnebre
-( d ) Ceia do Senhor
-Coluna 2:
-   (      ) É um culto especial, de agradecimento pelas bênçãos
-recebidas, e o ato de dividir esta alegria com os de-
-mais possui respaldo bíblico.
-  (       ) Culto para o qual o obreiro deve se preparar emocio-
-nalmente .
-  (       ) Faz parte do seu dever e ministério diário, e o minis
-tro deveria familiarizar-se, aprendendo a oficiá-Ias
-com dignidade e correção.
-  (       ) Não deve ser uma cerimônia realizada às pressas, pois
-é um ato solene, de caráter estritamente espiritual,
-dirigida exclusivamente aos crentes.
-2 - Assinale com “X” a alternativa correta.
-a. ☐ A apresentação de crianças é um mandamento bíblico,
-com respaldo no Novo Testamento para tal.
-b. ☐ A unção é restrita ao ministério (aos presbíteros e mi -
-nistros), é vedada essa pr ática a diáconos, cooperado -
-res e membros (conforme Tg 5.14).
-
-c. ☐ A unção não deve ser aplicada unicamente a pessoas
-doentes, (no NT encontramos também a unção a mon -
-tes, cidades, carros, casas, carteira de trabalho e outros
-objetos e animais – 2 Tm 4.3)

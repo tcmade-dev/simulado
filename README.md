@@ -1,3 +1,52 @@
+# Simulado - Introdução ao Santo Ministério
+
+Aplicativo interativo de simulado e autoavaliação teológica com validação imediata, pontuação, gabarito fundamentado e histórico de tentativas.
+
+## Stack do Projeto
+- **Gerenciador de Dependências**: [`uv`](https://docs.astral.sh/uv/)
+- **Backend**: FastAPI + Python 3.11+
+- **Banco de Dados Local**: SQLite (`data/simulado.db`)
+- **Frontend / UX**: HTMX + Jinja2 + Tailwind CSS (zero build overhead, reativo e responsivo)
+
+---
+
+## Como Executar o Simulado
+
+```bash
+# Iniciar a aplicação web
+uv run main.py
+
+# Ou diretamente via uvicorn com reload automático:
+uv run uvicorn app.main:app --reload --port 8000
+```
+
+Acesse no navegador: **[http://127.0.0.1:8000](http://127.0.0.1:8000)**
+
+---
+
+## Funcionalidades Atuais (Passo a Passo)
+
+1. **Dashboard de Capítulos**:
+   - Visualização dos 13 capítulos do livro com status de disponibilidade.
+   - **Capítulo 1 Ativo**: com questões de múltipla escolha e verdadeiro/falso extraídas de `documents/questionarios` e `documents/respostas`.
+   - Estatísticas gerais (número de tentativas, média de acertos, melhor nota).
+
+2. **Questionário Interativo (HTMX)**:
+   - Questões de múltipla escolha com opções personalizadas.
+   - Questões de Verdadeiro (V) ou Falso (F) por afirmação individual.
+   - Confirmação antes do envio e validação sem recarregar a página (`hx-post`).
+
+3. **Validação & Gabarito Comentado**:
+   - Cálculo automático da nota percentual (0 a 100%).
+   - Indicação visual verde/vermelho para cada questão e afirmativa.
+   - Justificativa teológica e histórica detalhada para cada item extraída do material de estudo.
+
+4. **Histórico Local em SQLite**:
+   - Registro permanente de todas as tentativas do usuário com timestamp, acertos, percentual e detalhes das respostas.
+   - Acesso em `/historico`.
+
+---
+
 # PDF to DOCX Converter
 
 A fast, high-fidelity PDF to Microsoft Word (`.docx`) conversion tool built with `pdf2docx` and `PyMuPDF`. It accurately reconstructs document layout, fonts, headings, tables, and images.

@@ -1,12 +1,10 @@
 # Capítulo 4
-
 Hermenêutica
 Neste capítulo veremos:
 Hermenêutica
 O Que Não Tem na Bíblia
 O Perigo das Interpretações Livres
 Regras de Hermenêutica
-
 Hermenêutica
 Definição: A Hermenêutica pode ser definida como a “Ci-
 ência da interpretação” . (A arte de interpretar). Vem do termo
@@ -35,7 +33,6 @@ maneira clara o que tinham em mente quando escreveram. As
 verdades do evangelho são simples, mas a tarefa de desvendar
 o significado original de textos específicos é complexa e exige
 trabalho árduo.
-
 Uso da Hermenêutica
 Literatura grega  – para conciliar o mito e a filosofia. Os filó -
 sofos passaram a ”interpretar” a mitologia ao invés de fazerem
@@ -63,7 +60,6 @@ que interpretar as Escrituras e repassar ao povo. A hermenêu-
 tica é tão importante, que nos leva a entender claramente a
 Bíblia Sagrada.
 1   Cosmovisão é a visão do mundo, maneira de entender o universo e as relações entre seus elementos.
-
 O	Que	Não Tem na Bíblia
 Muitas pessoas mencionam ditados populares, ou até
 impopulares, e afirmam se tratar de versículos bíblicos. Por
@@ -94,7 +90,6 @@ etc. Ele pode dar, mas Jesus não prometeu isso. O que ele es -
 tava dizendo é que Deus daria a comida, a bebida, e as vestes.
 “Estas” coisas são aquelas mencionadas nos versículos anterio-
 res a Mateus 6.33.
-
 Interpretação Isolada de Versículos
 A facilidade de se guardar um pequeno versículo transfor-
 ma-se em risco na medida em que passamos a “compreendê
@@ -127,7 +122,6 @@ ideia que muitas pessoas têm sobre o conteúdo bíblico e seu
 significado pode ser ilustrada por um amontoado de letras e
 números embaralhados, borrados e rabiscados. Os princípios
 da hermenêutica permitirão um processo de organização des-
-
 ses elementos na medida do possível.
 Vamos colocar cada coisa em seu lugar: lei, graça, Israel,
 igreja, passado, presente, futuro, Antigo Testamento, Novo
@@ -157,7 +151,6 @@ completo, toda, avalia-se panoramicamente.
 rior ao texto que se lê ou que se estuda.
 3. Contexto Remoto: É o que está distante do texto analisa-
 do, mas que tem com ele alguma ligação.
-
 4. Contexto Referencial:  São passagens paralelas, correlatas,
 com o texto que se analisa.
 5. Contexto Histórico:  É o texto que toda a Bíblia responde
@@ -185,7 +178,6 @@ informações históricas, textuais, gramaticais e teológicas.
 2. Análise Histórico Cultural –  Certas alusões, referên-
 cias, só podem ser entendidas e explicadas quando
 conhecemos o contexto histórico que envolve a obra.
-
 Isso envolve: quem é o autor; quem são os destinatários;
 quem são os personagens; localização; seu tempo; fatos des -
 critos; história; costumes; cultura; circunst âncias; tema; pro -
@@ -217,7 +209,6 @@ possamos fazer. Depois, precisamos saber quem é “aquele” que
 fortalece o autor. Sabendo que ele se refere a Deus, entende -
 mos que Paulo “podia” tudo o que pudesse ser feito pela força
 dada por Deus. Assim, isso não poderia incluir, por exemplo,
-
 a prática do pecado, ou um entendimento egoísta da frase. O
 versículo pode ser entendido como uma garantia de que tudo
 dará sempre certo para o cristão, ou que ele estará sempre “por
@@ -252,7 +243,6 @@ tativos (figurados). Observar o gênero literário. Qual é o senti-
 do pretendido pelo autor?
 Ao buscar o significado de uma palavra, será útil um di -
 cionário de português. Nesse caso, estaremos esclarecendo os
-
 termos usados pelo tradutor e não pelo escritor bíblico.
 Isto é importante, mas pode ser necessário descobrir a pa -
 lavra usada no grego ou hebraico e o seu sentido na época em
@@ -278,45 +268,8 @@ co quando tem relação de Deus com o homem.
 O objetivo da análise teológica é saber se determinada li -
 ção extraída de um relato bíblico pode ser aplicada na vida de
 qualquer servo de Deus em qualquer época.
-
 Conclusão
 Para isso teologias, teorias, conjecturas são formadas, para
 responder perguntas difíceis.
-
-Questionário
-1 - Marque “V” para as alternativas verdadeiras e “F” para
-as alternativas falsas
-a .(        )  A Hermenêutica pode ser definida como a “ciência
-da interpretação” .
-b .(        )  A facilidade de se guardar um pequeno versículo trans-
-forma-se em um grande mérito, pois podemos compre-
-endê-lo mesmo fora do seu contexto original.
-c .(        )  As heresias têm apenas uma fonte possível: o Diabo
-(Gn 3.1; Mt.4.6).
-d .(        )  A etimologia é o estudo que nos permite conhecer
-o processo de formação de uma palavra.
-
-2 – Relacione a segunda coluna de acordo com a primeira .Ao
-utilizar-se da hermenêutica, o intérprete precisa considerar:
-Coluna 1:
-( a ) Contexto Geral:
-( b ) Contexto Imediato:
-( c ) Contexto Referencial:
-( d ) Contexto Remoto:
-( e ) Contexto Histórico:
-Coluna 2:
-     (    ) É o que fica a longa distância do texto analisado, mas
-que tem com ele alguma ligação.
-    (    ) É o texto que toda a Bíblia responde e auxilia as inda-
-gações feitas no texto que estamos estudando.
-
-    (    ) Considera a Bíblia de modo geral, por completo, toda,
-avalia-se  panoramicamente.
-    (    ) É aquele que fica anterior ou posterior ao texto que se
-lê ou que se estuda.
-    (    ) São passagens paralelas, correlatas, com o texto que se
-analisa.
-
 ANOTAÇÕES
-
 Anotações
